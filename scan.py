@@ -40,12 +40,14 @@ async def main():
         '65.21.24.204',
         # gamely.pro
         '213.171.18.225',
-        # хз
+        # hosting-minecraft.pro
         'free.joinserver.xyz',
         # rustix.me
         "f1.rustix.me",
-        # хз
-        # 213.152.43.63
+        # rionix.cloud
+        "d1.rionix.cloud",
+
+
     ]
     ports = range(1024, 65535)
     
