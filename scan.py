@@ -46,7 +46,8 @@ async def main():
         "f1.rustix.me",
         # rionix.cloud
         "d1.rionix.cloud",
-
+        # cloudblaze.org
+        "free.cloudblaze.org",
 
     ]
     ports = range(1024, 65535)
