@@ -54,6 +54,9 @@ async def main():
     
     semaphore = asyncio.Semaphore(1024)
 
+    with open("servers.jsonl", "w", encoding="utf-8") as f:
+        pass
+
     total_tasks = len(ips) * len(ports)
 
    
