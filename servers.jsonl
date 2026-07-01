@@ -1,365 +1,377 @@
-{"ip": "147.185.221.211", "port": 6900, "online": 0, "version": "26.1.2", "motd": "🧶 MraowCraft serer", "ping": 503.0952460000009}
-{"ip": "147.185.221.211", "port": 7014, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 557.5775299999962}
-{"ip": "147.185.221.211", "port": 9742, "online": 0, "version": "1.21.9", "motd": "Chickussy MC", "ping": 404.60478600000727}
-{"ip": "147.185.221.211", "port": 9710, "online": 0, "version": "Paper 1.21.10", "motd": "OFFICIAL COBALT MINECRAFT SERVER\nNow 1.21.10 and better than ever!", "ping": 473.6644000000041}
-{"ip": "147.185.221.211", "port": 10224, "online": 0, "version": "Paper 1.21.8", "motd": "mc4map.001066.xyz", "ping": 529.5543579999986}
-{"ip": "147.185.221.211", "port": 10773, "online": 0, "version": "Paper 26.2", "motd": "Eski's Community Server!", "ping": 409.3502749999942}
-{"ip": "147.185.221.211", "port": 14017, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 498.3034400000008}
-{"ip": "147.185.221.211", "port": 22275, "online": 1, "version": "Paper 26.1.2", "motd": "                  |    ɢʀᴏᴍʙᴅᴏʀ    |\n                  |   + ғᴀʀᴛᴏᴘɪᴀ     |", "ping": 498.76525599999866}
-{"ip": "147.185.221.211", "port": 23843, "online": 0, "version": "Paper 1.21.4", "motd": "massivemotd\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "ping": 1213.9229099999939}
-{"ip": "147.185.221.211", "port": 26352, "online": 0, "version": "Paper 26.1.2", "motd": "MiniMOTD Default\nMiniMessage Gradients", "ping": 537.3297229999991}
-{"ip": "147.185.221.211", "port": 29662, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "⎇ The Nylium Network ⎇\n⎇ An Alterhuman Technology Group ⎇", "ping": 407.10409600001185}
-{"ip": "147.185.221.211", "port": 29670, "online": 0, "version": "Paper 1.21.8", "motd": "MondarizCraft - ¡Faro de Avión!", "ping": 431.1399859999909}
-{"ip": "147.185.221.211", "port": 30795, "online": 1, "version": "forge arclight/Trials 1.20.1", "motd": "What is happening now?", "ping": 683.5792789999999}
-{"ip": "147.185.221.211", "port": 31620, "online": 0, "version": "Purpur 26.1.2", "motd": "Sigma SMP", "ping": 375.06058899998607}
-{"ip": "147.185.221.211", "port": 33310, "online": 0, "version": "26.1.2", "motd": "Multiple Men, One Goal, The Hole", "ping": 500.6669020000061}
-{"ip": "147.185.221.211", "port": 35457, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 492.3266860000126}
-{"ip": "147.185.221.211", "port": 38949, "online": 0, "version": "Paper 1.21.8", "motd": "Gay server for two gay people", "ping": 427.7367589999983}
-{"ip": "147.185.221.211", "port": 41580, "online": 0, "version": "26.3 Snapshot 1", "motd": "A Minecraft Server", "ping": 495.38930299999606}
-{"ip": "147.185.221.211", "port": 45392, "online": 0, "version": "26.2", "motd": "eef", "ping": 964.8620220000055}
-{"ip": "147.185.221.211", "port": 49275, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 523.3568339999977}
-{"ip": "147.185.221.211", "port": 56251, "online": 3, "version": "1.21.1", "motd": "Cobbleverse Server", "ping": 1167.7984359999982}
-{"ip": "147.185.221.211", "port": 60885, "online": 0, "version": "26.1.2", "motd": "Yoylo n friends", "ping": 456.8988910000087}
-{"ip": "147.185.221.211", "port": 61539, "online": 0, "version": "Paper 1.21.11", "motd": "The_Dankus Minecraft Server ( with voice chat included )", "ping": 484.2513140000051}
-{"ip": "147.185.221.211", "port": 62564, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 487.3407130000089}
-{"ip": "147.185.221.211", "port": 64603, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 484.872858000017}
-{"ip": "147.185.221.223", "port": 1947, "online": 0, "version": "Paper 1.21.11", "motd": "GolemCraft\n", "ping": 531.3690350000115}
-{"ip": "147.185.221.223", "port": 3448, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 636.0307559999967}
-{"ip": "147.185.221.223", "port": 12594, "online": 420, "version": "Velocity 1.7.2-1.21.11", "motd": "                           WrongSMP\n              Survival Multiplayer", "ping": 501.403468000035}
-{"ip": "147.185.221.223", "port": 14099, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "A Velocity Server", "ping": 392.3343360000331}
-{"ip": "147.185.221.223", "port": 18120, "online": 0, "version": "Paper 1.21.11", "motd": "8.a minecraft server", "ping": 481.87721700003294}
-{"ip": "147.185.221.223", "port": 22274, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 516.9351719999895}
-{"ip": "147.185.221.223", "port": 27928, "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1072.3157450000258}
-{"ip": "147.185.221.223", "port": 32379, "online": 0, "version": "1.21.1", "motd": "Cobblemon for friends! Happy pride!", "ping": 1267.2500360000072}
-{"ip": "147.185.221.223", "port": 36246, "online": 0, "version": "1.21.1", "motd": "Gooses MC Server :D", "ping": 472.5841449999848}
-{"ip": "147.185.221.223", "port": 36622, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 672.7369710000062}
-{"ip": "147.185.221.223", "port": 43134, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 580.8177000000114}
-{"ip": "147.185.221.223", "port": 43303, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome!", "ping": 969.4463959999666}
-{"ip": "147.185.221.223", "port": 45629, "online": 0, "version": "DivineMC 1.21.10", "motd": "TRIARTS alpha stage", "ping": 831.606598999997}
-{"ip": "147.185.221.223", "port": 48810, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 565.8222989999899}
-{"ip": "147.185.221.223", "port": 48962, "online": 0, "version": "1.21.11", "motd": "Unofficial OPUS server", "ping": 585.9937179999974}
-{"ip": "147.185.221.223", "port": 54071, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 603.979225000046}
-{"ip": "147.185.221.223", "port": 56881, "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 618.7714409999785}
-{"ip": "147.185.221.223", "port": 62827, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 485.4838079999695}
-{"ip": "147.185.221.31", "port": 4948, "online": 0, "version": "26.1.2", "motd": "Nezumi Server", "ping": 524.5758140000021}
-{"ip": "147.185.221.31", "port": 5753, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 401.77640699999984}
-{"ip": "147.185.221.31", "port": 5712, "online": 0, "version": "1.21.10", "motd": "Gwen's Pack Server", "ping": 503.4058630000118}
-{"ip": "147.185.221.31", "port": 6335, "online": 0, "version": "Paper 1.21.8", "motd": "Kringlen and LAVA's Masterpiece", "ping": 404.31596299998773}
-{"ip": "147.185.221.31", "port": 6985, "online": 0, "version": "1.21.1", "motd": "Puros Testing", "ping": 671.4144689999557}
-{"ip": "147.185.221.31", "port": 18573, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 366.7161349999901}
-{"ip": "147.185.221.31", "port": 18636, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 559.82235700003}
-{"ip": "147.185.221.31", "port": 22368, "online": 0, "version": "26.2", "motd": "who up gobinday yoga rn", "ping": 365.69453599997814}
-{"ip": "147.185.221.31", "port": 26499, "online": 0, "version": "Paper 26.1.2", "motd": " A Zombie Pigman Broke My Door | NO HACKS", "ping": 796.8372880000061}
-{"ip": "147.185.221.31", "port": 29299, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "77 Welcome to Camiverse | Come have fun! 77", "ping": 611.0650910000004}
-{"ip": "147.185.221.31", "port": 31976, "online": 0, "version": "26.1.2", "motd": "Powered by AMP", "ping": 580.8257290000256}
-{"ip": "147.185.221.31", "port": 35776, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 864.9334730000078}
-{"ip": "147.185.221.31", "port": 36225, "online": 0, "version": "1.20.1", "motd": "Create a Society Season 2!", "ping": 480.26759300000776}
-{"ip": "147.185.221.31", "port": 39391, "online": 0, "version": "1.20.1", "motd": "Tinkering and Stuff??", "ping": 1702.1725060000108}
-{"ip": "147.185.221.31", "port": 39915, "online": 0, "version": "Paper 1.21.8", "motd": "Wellcome to ProLand SMP", "ping": 779.4524739999815}
-{"ip": "147.185.221.31", "port": 41855, "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "Server test Plugins + MODS", "ping": 578.3436909999864}
-{"ip": "147.185.221.31", "port": 44016, "online": 0, "version": "Purpur 26.1.2", "motd": "A Kaos Minecraft Server", "ping": 407.66063099999883}
-{"ip": "147.185.221.31", "port": 44798, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 417.1872940000867}
-{"ip": "147.185.221.31", "port": 44896, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 418.2621400000244}
-{"ip": "147.185.221.31", "port": 46644, "online": 0, "version": "26.2", "motd": "Under New Management", "ping": 586.4047950000213}
-{"ip": "147.185.221.31", "port": 47134, "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 378.8365010000234}
-{"ip": "147.185.221.31", "port": 49794, "online": 2, "version": "26.2", "motd": "The land of Bruutis the wise, pinkest of them all. Sacrifices must be made to appease the lord", "ping": 769.4990299999063}
-{"ip": "147.185.221.31", "port": 50309, "online": 0, "version": "1.21.1", "motd": "ENSR Puros Modded", "ping": 777.9892429999791}
-{"ip": "147.185.221.31", "port": 51472, "online": 0, "version": "§c❤ §7ᴡʙɪᴊᴀᴊ! §8→                                                          §a● §f0 §7ɢʀᴀᴄᴢʏ", "motd": "   ɪʀᴏɴꜱᴡᴏʀᴅ.ᴘʟ ▪ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɪʀᴏɴꜱᴡᴏʀᴅ.ᴘʟ/ᴅᴄ \n x ꜱᴛᴀʀᴛ ꜱᴇʀᴡᴇʀᴀ ᴡᴋʀᴏᴛᴄᴇ!", "ping": 574.5046800000182}
-{"ip": "147.185.221.31", "port": 54566, "online": 0, "version": "Paper 26.1.2", "motd": "             Nowhere [26.1.2]\n             ☆ Disfruta del servidor ☆", "ping": 861.0766929999727}
-{"ip": "147.185.221.31", "port": 54782, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 649.9811400000226}
-{"ip": "147.185.221.31", "port": 56196, "online": 0, "version": "Paper 26.1.2", "motd": "JujuLandia | Creative", "ping": 582.0310199999312}
-{"ip": "147.185.221.31", "port": 56197, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to JujuLandia2", "ping": 579.6682919999512}
-{"ip": "147.185.221.31", "port": 57955, "online": 0, "version": "1.21.10", "motd": "The Superplebs TrueNAS Experience", "ping": 516.9092280000314}
-{"ip": "147.185.221.31", "port": 58060, "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 611.9464930000049}
-{"ip": "147.185.221.31", "port": 59543, "online": 0, "version": "neoforge arclight/FeudalKings 1.21.1", "motd": "ASQN Minecraft SMP", "ping": 504.0306649999593}
-{"ip": "147.185.221.31", "port": 59234, "online": 0, "version": "1.12.2", "motd": "Powered by AMP", "ping": 1375.7882870000913}
-{"ip": "147.185.221.31", "port": 61371, "online": 0, "version": "26.2", "motd": "THE TOWN OF OYSTER BAY MINECRAFT SERVER!!", "ping": 483.5528690000501}
-{"ip": "147.185.221.31", "port": 61905, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "CNU  CosmosCraft Universe ~ sweet dreams CNU\n           CNU **** just enjoy life **** CNU           ", "ping": 433.5669170000074}
-{"ip": "147.185.221.31", "port": 62204, "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "A Velocity Server", "ping": 437.0552450000105}
-{"ip": "147.185.221.31", "port": 62678, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 673.7371519999442}
-{"ip": "147.185.221.31", "port": 63013, "online": 0, "version": "Paper 1.21.3", "motd": "A Minecraft Server", "ping": 398.8212519999479}
-{"ip": "147.185.221.31", "port": 63383, "online": 1, "version": "Paper 1.21.5", "motd": "A Minecraft Server", "ping": 406.26250699995126}
-{"ip": "147.185.221.31", "port": 63627, "online": 0, "version": "1.20.2", "motd": "A Minecraft Server", "ping": 537.326840999981}
-{"ip": "147.185.221.31", "port": 64536, "online": 0, "version": "Paper 1.20.6", "motd": "ARISE MInecraft Server", "ping": 607.5891540000384}
-{"ip": "147.185.221.30", "port": 1612, "online": 0, "version": "Paper 26.1.2", "motd": "Disabled Factory", "ping": 422.45644000001903}
-{"ip": "147.185.221.30", "port": 1721, "online": 0, "version": "26.1.2", "motd": "26.1 ready!\nnew experiences!", "ping": 476.50630900000124}
-{"ip": "147.185.221.30", "port": 13175, "online": 0, "version": "1.21.11", "motd": "Have a blast", "ping": 1531.6795679999586}
-{"ip": "147.185.221.30", "port": 22875, "online": 0, "version": "1.21.1", "motd": "ANVIL AND HAMMER SMP | ATMS 10 | Mystical Agriculture | Create+ | Updates Weekly/Backups Daily @5 a.m. CST", "ping": 566.7244750000009}
-{"ip": "147.185.221.30", "port": 25979, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 494.41974300009406}
-{"ip": "147.185.221.30", "port": 27014, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 459.5896329999505}
-{"ip": "147.185.221.30", "port": 29544, "online": 0, "version": "Paper 1.21.1", "motd": "A CushCraft Server", "ping": 497.86644799996793}
-{"ip": "147.185.221.30", "port": 33095, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 451.43245899998874}
-{"ip": "147.185.221.30", "port": 34161, "online": 0, "version": "1.20.4", "motd": "NerdLand", "ping": 858.0551310000146}
-{"ip": "147.185.221.30", "port": 34679, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 684.0236340000274}
-{"ip": "147.185.221.30", "port": 37438, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1237.5512039999421}
-{"ip": "147.185.221.30", "port": 38690, "online": 0, "version": "26.2", "motd": "maxxdabos the goat??!", "ping": 505.29201000006196}
-{"ip": "147.185.221.30", "port": 39844, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 371.9432199999346}
-{"ip": "147.185.221.30", "port": 40121, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 510.87697900004514}
-{"ip": "147.185.221.30", "port": 40203, "online": 0, "version": "1.7.10", "motd": "GT:New Horizons on Docker", "ping": 657.1938939999882}
-{"ip": "147.185.221.30", "port": 40351, "online": 0, "version": "Paper 1.21.10", "motd": "                         ⬞ɢᴏᴏʟᴏʀᴘ⬞\n                           ⬞ᴄʀᴀꜰᴛ⬞   ", "ping": 481.44825400004265}
-{"ip": "147.185.221.30", "port": 41864, "online": 0, "version": "Paper 1.21.11", "motd": "                      ʜᴀʟᴠᴇʀ ʙᴜɴ᾽ѕ\n                           ᴀɴᴅ ᴄᴏ.", "ping": 654.8271809999733}
-{"ip": "147.185.221.30", "port": 43437, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 614.9505509999926}
-{"ip": "147.185.221.30", "port": 46430, "online": 0, "version": "1.20.1", "motd": "(t server)^13 [TerraFirmaGreg-Modern] 0.11.27", "ping": 490.5809629999567}
-{"ip": "147.185.221.30", "port": 47024, "online": 10, "version": "Velocity 1.7.2-26.1.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 447.45414600004096}
-{"ip": "147.185.221.30", "port": 47321, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 411.59815100002106}
-{"ip": "147.185.221.30", "port": 49409, "online": 0, "version": "Paper 1.21.11", "motd": "The Brownest of Bricks", "ping": 539.6934159999773}
-{"ip": "147.185.221.30", "port": 49987, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "A Velocity Server", "ping": 411.5784680000161}
-{"ip": "147.185.221.30", "port": 50630, "online": 0, "version": "1.21.1", "motd": "Welcome to the Crumple Zone Cobblemon+ server!", "ping": 406.21618900001977}
-{"ip": "147.185.221.30", "port": 63664, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 386.92716800005655}
-{"ip": "147.185.221.30", "port": 63662, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 491.73414400002}
-{"ip": "147.185.221.29", "port": 11448, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to the Team Proteus Server!", "ping": 410.7013249999909}
-{"ip": "147.185.221.29", "port": 11505, "online": 0, "version": "Paper 1.21.1", "motd": "We're Back.", "ping": 414.648763999935}
-{"ip": "147.185.221.29", "port": 13884, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 711.0035590000052}
-{"ip": "147.185.221.29", "port": 19959, "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "                    SANISMP\n                     ѕᴇᴀѕᴏɴ 2", "ping": 481.62134899996545}
-{"ip": "147.185.221.29", "port": 20916, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 429.71836900005655}
-{"ip": "147.185.221.29", "port": 32511, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 380.7813349999378}
-{"ip": "147.185.221.29", "port": 42534, "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 466.96912999993856}
-{"ip": "147.185.221.29", "port": 45023, "online": 1, "version": "1.7.10", "motd": "Powered by AMP", "ping": 823.8839599999892}
-{"ip": "147.185.221.29", "port": 55426, "online": 1, "version": "1.21.1", "motd": "", "ping": 738.0212310000616}
-{"ip": "147.185.221.29", "port": 56876, "online": 0, "version": "Paper 1.21.11", "motd": "Join Rags MC with crossplay.midnight-tech.cc", "ping": 572.987276000049}
-{"ip": "147.185.221.29", "port": 59525, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "MaCraftKanSMP - Chill, Build, Survive! Play Anywhere!", "ping": 973.4783299999208}
-{"ip": "147.185.221.29", "port": 61575, "online": 0, "version": "1.20.1", "motd": "⛏ PRIVATE qCraft 1.20.1 Server ⛏\n        ☣ Made for Onyx and Melww! ☣", "ping": 615.7651910000368}
-{"ip": "147.185.221.29", "port": 63526, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 680.4893170000241}
-{"ip": "147.185.221.29", "port": 64730, "online": 11, "version": "Velocity 1.7.2-26.1.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 565.7484949999798}
-{"ip": "65.21.24.204", "port": 25587, "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 125.4842580000286}
-{"ip": "65.21.24.204", "port": 25630, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 132.93162899992694}
-{"ip": "65.21.24.204", "port": 25739, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 152.76533899998412}
-{"ip": "65.21.24.204", "port": 25634, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 167.60135399999854}
-{"ip": "65.21.24.204", "port": 25738, "online": 0, "version": "Paper 26.1.1", "motd": "A Best Minecraft Server", "ping": 161.88329599992812}
-{"ip": "65.21.24.204", "port": 25793, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 159.49606200001654}
-{"ip": "65.21.24.204", "port": 25670, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 178.0138709999619}
-{"ip": "65.21.24.204", "port": 25708, "online": 2, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 187.04004100004568}
-{"ip": "65.21.24.204", "port": 25728, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 186.1572889999934}
-{"ip": "65.21.24.204", "port": 25621, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 193.23313100005635}
-{"ip": "65.21.24.204", "port": 25726, "online": 0, "version": "Paper 1.21.11", "motd": "☠ MriyaCraft ☠   Жорстока Анархія\n★ 1.21+   виживай та пануй!", "ping": 210.68207299992991}
-{"ip": "65.21.24.204", "port": 25777, "online": 0, "version": "Spigot 1.18.2", "motd": "⚔️RevegeMine⚔️ ЗАХОДИ ТУТ ВЕСЕЛО!", "ping": 225.23679199991875}
-{"ip": "65.21.24.204", "port": 25848, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 222.60428700008106}
-{"ip": "65.21.24.204", "port": 25600, "online": 3, "version": "26.1.2", "motd": "У нас дружелюбное сообщество - будь вежлив и уважай других!", "ping": 247.92290200002753}
-{"ip": "65.21.24.204", "port": 25843, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 253.35963600002742}
-{"ip": "65.21.24.204", "port": 25828, "online": 0, "version": "1.21.11", "motd": "ЖИРИНОВСКИЙ ЗА МАЙНКРАФТ", "ping": 254.11435000000893}
-{"ip": "65.21.24.204", "port": 25833, "online": 0, "version": "26.1.2", "motd": "Наше ванильное выживание", "ping": 253.57119799991779}
-{"ip": "65.21.24.204", "port": 25841, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 253.11525500001153}
-{"ip": "65.21.24.204", "port": 25765, "online": 0, "version": "1.21.8", "motd": "✿ BunnySMP ✿\n  Приватный сервер друзей • Выживание", "ping": 255.98898600003395}
-{"ip": "65.21.24.204", "port": 25748, "online": 0, "version": "Paper 1.21.4", "motd": "                  ✦ ʟᴜɴᴀᴄʏꜱᴛᴜᴅɪᴏ ✦\n        ⁘ ʙᴇᴛᴀ-ᴛᴇꜱᴛ • ᴛ.ᴍᴇ/ʟᴜɴᴀᴄʏ_ꜱᴛᴜᴅɪᴏ ⁘", "ping": 257.1485470000425}
-{"ip": "65.21.24.204", "port": 25870, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 252.0355420000442}
-{"ip": "65.21.24.204", "port": 25766, "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 256.0425149999901}
-{"ip": "65.21.24.204", "port": 25821, "online": 0, "version": "Vanilla by MrDrag0nXYT 1.21.4", "motd": "                          ■ ᴠᴀɴɪʟʟᴀ ■\n             ∬ Нам не хватает только тебя! ∬", "ping": 286.73845499997697}
-{"ip": "65.21.24.204", "port": 25894, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 283.4696810000423}
-{"ip": "65.21.24.204", "port": 25952, "online": 0, "version": "Paper 1.21.1", "motd": "-----------[ ProCraft ]-----------\n1.18.2 - 1.21.1    Выживание      PVP", "ping": 281.212279999977}
-{"ip": "65.21.24.204", "port": 25651, "online": 0, "version": "Paper 1.21.11", "motd": "ТЕСТ ВЕЛИКОГО ГОРОДА ДОЛБАЁБУРГ", "ping": 304.0199900000289}
-{"ip": "65.21.24.204", "port": 25950, "online": 0, "version": "1.21.1", "motd": "", "ping": 290.55360699999255}
-{"ip": "65.21.24.204", "port": 25923, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 292.0642550000139}
-{"ip": "65.21.24.204", "port": 25627, "online": 1, "version": "Paper 1.21.11", "motd": "        KrakenMC • Версия [1.21.11]\n        ◄ ᴛᴇлᴇгᴘᴀᴍ - t.me/KrakenMChard - ►", "ping": 315.5494449999878}
-{"ip": "65.21.24.204", "port": 25782, "online": 1, "version": "Purpur 1.21.11", "motd": "CubeChan Eternal", "ping": 313.4391300000061}
-{"ip": "65.21.24.204", "port": 25776, "online": 0, "version": "1.7.10", "motd": "GT:New Horizons 2.8.4", "ping": 328.08236999994733}
-{"ip": "213.171.18.225", "port": 30005, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 168.37769799985836}
-{"ip": "213.171.18.225", "port": 30001, "online": 0, "version": "Paper 1.21.11", "motd": "EtermetialSMP", "ping": 170.26597000017318}
-{"ip": "213.171.18.225", "port": 30003, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 170.7676819999051}
-{"ip": "213.171.18.225", "port": 30026, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 134.32384899988392}
-{"ip": "213.171.18.225", "port": 30008, "online": 1, "version": "Paper 1.21.8", "motd": "Добро пожаловать на сервер сиксевен абаюнда тралалело тралала газан", "ping": 135.2727120001873}
-{"ip": "213.171.18.225", "port": 30019, "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 135.23638800006665}
-{"ip": "213.171.18.225", "port": 30021, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 133.1202689998463}
-{"ip": "213.171.18.225", "port": 30027, "online": 0, "version": "1.7.10", "motd": "A Minecraft Server", "ping": 137.22116300004927}
-{"ip": "213.171.18.225", "port": 30029, "online": 0, "version": "1.20.1", "motd": "бубубу и бебебе", "ping": 137.41226499996628}
-{"ip": "213.171.18.225", "port": 30011, "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 137.85843499999828}
-{"ip": "213.171.18.225", "port": 30060, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 139.33044100008374}
-{"ip": "213.171.18.225", "port": 30028, "online": 0, "version": "1.21.4", "motd": "У нас дружелюбное сообщество - будь вежлив и уважай других!", "ping": 145.64606899989485}
-{"ip": "213.171.18.225", "port": 30018, "online": 0, "version": "fabric arclight/FeudalKings 1.21.1", "motd": "| Welcome to Cobblemon\n| v.0.1 ➱ A new start", "ping": 263.2040199998755}
-{"ip": "213.171.18.225", "port": 30553, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 126.99098800021602}
-{"ip": "213.171.18.225", "port": 31007, "online": 1, "version": "Paper 1.16.5", "motd": "VimeAnarchy", "ping": 122.13338499987003}
-{"ip": "213.171.18.225", "port": 31012, "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 124.22845300011431}
-{"ip": "213.171.18.225", "port": 31009, "online": 0, "version": "1.21.7", "motd": "\"ПОЛЕ\" / Сервер СТРИМЕРОВ", "ping": 126.6095039998163}
-{"ip": "213.171.18.225", "port": 31004, "online": 0, "version": "Cardboard (Paper+Fabric) 26.1.2", "motd": "A Minecraft Server", "ping": 126.84505100014576}
-{"ip": "213.171.18.225", "port": 31057, "online": 2, "version": "Paper 1.21.11", "motd": "PALPER MC | ВЫЖИВАНИЕ | \nКОНКУРСЫ НА ДОНАТЫ | КОМФОРТНАЯ ИГРА", "ping": 125.33809999990808}
-{"ip": "213.171.18.225", "port": 31129, "online": 0, "version": "Paper 26.2", "motd": "Siberiatown", "ping": 128.78889200010235}
-{"ip": "213.171.18.225", "port": 31026, "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 249.92580200000702}
-{"ip": "213.171.18.225", "port": 31292, "online": 0, "version": "Paper 1.21.1", "motd": "A Minecraft Server", "ping": 170.2493919999597}
-{"ip": "213.171.18.225", "port": 31090, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 196.41653999997288}
-{"ip": "213.171.18.225", "port": 31407, "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 140.5659930001093}
-{"ip": "213.171.18.225", "port": 31459, "online": 2, "version": "Velocity 1.7.2-26.1.2", "motd": "                 Lamp39 | 26.1.X\n              Присоединяйся к нам!", "ping": 128.5400550000304}
-{"ip": "213.171.18.225", "port": 31514, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 129.36493200004406}
-{"ip": "213.171.18.225", "port": 31573, "online": 0, "version": "Paper 26.2", "motd": "1`111111111111111111", "ping": 125.23638400011805}
-{"ip": "213.171.18.225", "port": 31654, "online": 1, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 125.46760600002926}
-{"ip": "213.171.18.225", "port": 31962, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 127.73256300010871}
-{"ip": "213.171.18.225", "port": 31692, "online": 0, "version": "Paper 26.1.2", "motd": "Server мужиков", "ping": 308.9319150001302}
-{"ip": "213.171.18.225", "port": 32090, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 126.3384449998739}
-{"ip": "213.171.18.225", "port": 32114, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 127.26987999985795}
-{"ip": "213.171.18.225", "port": 32206, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 127.37224200009223}
-{"ip": "213.171.18.225", "port": 32326, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 123.88641699999425}
-{"ip": "213.171.18.225", "port": 32258, "online": 0, "version": "1.20.1", "motd": "Hi", "ping": 131.77904500003024}
-{"ip": "213.171.18.225", "port": 32433, "online": 1, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 125.49405999993724}
-{"ip": "213.171.18.225", "port": 32427, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 127.91584499996134}
-{"ip": "213.171.18.225", "port": 32483, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 127.86724200009303}
-{"ip": "213.171.18.225", "port": 32484, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 128.6936430001333}
-{"ip": "213.171.18.225", "port": 32496, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 246.279641000001}
-{"ip": "213.171.18.225", "port": 32577, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 122.64879000008477}
-{"ip": "213.171.18.225", "port": 32692, "online": 4, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 122.35644500015042}
-{"ip": "213.171.18.225", "port": 32691, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 127.45011600009093}
-{"ip": "213.171.18.225", "port": 32753, "online": 0, "version": "Paper 1.21.11", "motd": "alt❤", "ping": 163.38406199997735}
-{"ip": "213.171.18.225", "port": 32909, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 172.76075500012666}
-{"ip": "213.171.18.225", "port": 32920, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 173.02978199995778}
-{"ip": "213.171.18.225", "port": 32967, "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 168.08693500001937}
-{"ip": "213.171.18.225", "port": 33001, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 146.99474100007137}
-{"ip": "213.171.18.225", "port": 32941, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 175.78292200005308}
-{"ip": "213.171.18.225", "port": 32603, "online": 1, "version": "1.21.1", "motd": "Server is Online!", "ping": 255.60985199990682}
-{"ip": "213.171.18.225", "port": 32714, "online": 0, "version": "1.21.8", "motd": "GoidaCraft", "ping": 260.9804910000548}
-{"ip": "213.171.18.225", "port": 32868, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 304.2955900000379}
-{"ip": "213.171.18.225", "port": 32994, "online": 0, "version": "1.16.5", "motd": "R.A.D. 2 Server", "ping": 389.5614600000954}
-{"ip": "free.joinserver.xyz", "port": 25602, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 121.75494699999945}
-{"ip": "free.joinserver.xyz", "port": 25603, "online": 0, "version": "Paper 1.21.4", "motd": "   ✞ FTime ✞    Идеальные режимы\n✿ 1.8 – 1.21.x ✿ Для тебя и друзей!", "ping": 130.1554390001911}
-{"ip": "free.joinserver.xyz", "port": 25614, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 126.4319509998586}
-{"ip": "free.joinserver.xyz", "port": 25628, "online": 0, "version": "Paper 1.16.5", "motd": "c4f9ad82cc0113317b4a736e1ea3fe0a", "ping": 133.920567000132}
-{"ip": "free.joinserver.xyz", "port": 25609, "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 137.91746299989427}
-{"ip": "free.joinserver.xyz", "port": 25630, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 154.49144600006548}
-{"ip": "free.joinserver.xyz", "port": 25613, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 158.94171700006154}
-{"ip": "free.joinserver.xyz", "port": 25708, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 148.16851699993094}
-{"ip": "free.joinserver.xyz", "port": 25685, "online": 0, "version": "Paper 1.16.5", "motd": "tc102308", "ping": 149.94568999986768}
-{"ip": "free.joinserver.xyz", "port": 25745, "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 146.33518999994521}
-{"ip": "free.joinserver.xyz", "port": 25647, "online": 0, "version": "1.18.2", "motd": "A Minecraft Server", "ping": 162.08446599989657}
-{"ip": "free.joinserver.xyz", "port": 25661, "online": 1, "version": "1.21.8", "motd": "A Minecraft Server", "ping": 156.34267499990528}
-{"ip": "free.joinserver.xyz", "port": 25684, "online": 0, "version": "Spigot 1.20.4", "motd": "A Minecraft Server", "ping": 158.12626799993268}
-{"ip": "free.joinserver.xyz", "port": 25752, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 141.07817500007513}
-{"ip": "free.joinserver.xyz", "port": 25760, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 146.56548500011013}
-{"ip": "free.joinserver.xyz", "port": 25831, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 127.65203300000394}
-{"ip": "free.joinserver.xyz", "port": 25772, "online": 2, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 156.61893300011798}
-{"ip": "free.joinserver.xyz", "port": 25804, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 150.51150099998267}
-{"ip": "free.joinserver.xyz", "port": 25788, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 151.46566999987954}
-{"ip": "free.joinserver.xyz", "port": 25819, "online": 1, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 147.3774900000535}
-{"ip": "free.joinserver.xyz", "port": 25879, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 114.59160599997631}
-{"ip": "free.joinserver.xyz", "port": 25890, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 112.01918899996599}
-{"ip": "free.joinserver.xyz", "port": 25884, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 122.93351200014513}
-{"ip": "free.joinserver.xyz", "port": 25863, "online": 0, "version": "Folia 1.21.11", "motd": "Another MOTD\nmuch wow", "ping": 128.245644999879}
-{"ip": "free.joinserver.xyz", "port": 25893, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 121.44454299982499}
-{"ip": "free.joinserver.xyz", "port": 25912, "online": 0, "version": "Purpur 26.2", "motd": "A Minecraft Server", "ping": 107.79863300012948}
-{"ip": "free.joinserver.xyz", "port": 25947, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 105.2798589998929}
-{"ip": "free.joinserver.xyz", "port": 25953, "online": 0, "version": "Leaf 26.2", "motd": "A Minecraft Server", "ping": 106.39408399993044}
-{"ip": "free.joinserver.xyz", "port": 25667, "online": 1, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 662.9401260001941}
-{"ip": "f1.rustix.me", "port": 25163, "online": 0, "version": "PaperSpigot 1.7.10", "motd": "| Foxo Station - our beloved community server | \nI'm Here Too!", "ping": 1414.0963560000728}
-{"ip": "f1.rustix.me", "port": 25045, "online": 2, "version": "Spigot 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 1437.5792600001205}
-{"ip": "f1.rustix.me", "port": 25510, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 874.0659489999416}
-{"ip": "f1.rustix.me", "port": 27742, "online": 0, "version": "Spigot 1.16.5", "motd": " ✪ LEGASYGRIEF ◈ 1.16.5 - 1.20.2 ✪\n    ↪ Получи Бесплатный Донат /ＦＲＥＥ ↩", "ping": 156.51953499991578}
-{"ip": "f1.rustix.me", "port": 27920, "online": 1, "version": "Purpur 1.19.4", "motd": "A Minecraft Server", "ping": 118.1307320000542}
-{"ip": "f1.rustix.me", "port": 28127, "online": 0, "version": "Elytrium", "motd": "LIMEWORLD\nанархия", "ping": 113.9773120000882}
-{"ip": "f1.rustix.me", "port": 25694, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1034.1734510000151}
-{"ip": "f1.rustix.me", "port": 25572, "online": 0, "version": "Paper 1.21.11", "motd": "Test", "ping": 1135.7666400001563}
-{"ip": "f1.rustix.me", "port": 29109, "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 124.68453200017393}
-{"ip": "f1.rustix.me", "port": 28921, "online": 2, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 275.8663219999562}
-{"ip": "f1.rustix.me", "port": 29704, "online": 0, "version": "Purpur 1.16.5", "motd": "              ᴊᴜsᴛ ᴠᴀɴɪʟʟᴀ | ɴᴏ ᴘʟᴀʏsᴛʏʟᴇ\n⤿ ꜰ1.ʀᴜsᴛɪx.ᴍᴇ:29704 ∫ 193.23.222.15:29704 ⤾", "ping": 171.69949300000553}
-{"ip": "f1.rustix.me", "port": 30100, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 133.26550299984774}
-{"ip": "f1.rustix.me", "port": 25760, "online": 1, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 1738.2195509999292}
-{"ip": "f1.rustix.me", "port": 30236, "online": 0, "version": "Purpur 1.21.11", "motd": "DeepRun SMP", "ping": 119.52809000013076}
-{"ip": "f1.rustix.me", "port": 26869, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1469.8743320000176}
-{"ip": "f1.rustix.me", "port": 30083, "online": 2, "version": "1.20.1", "motd": "БАРАБУЛЬКА", "ping": 262.7210789999026}
-{"ip": "f1.rustix.me", "port": 29822, "online": 1, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 355.12849499991717}
-{"ip": "f1.rustix.me", "port": 27754, "online": 0, "version": "SSSpigot 1.16.5", "motd": "VibeWorld", "ping": 1180.269558999953}
-{"ip": "f1.rustix.me", "port": 28832, "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 803.1607079999503}
-{"ip": "f1.rustix.me", "port": 30656, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 139.45025299994995}
-{"ip": "f1.rustix.me", "port": 29935, "online": 0, "version": "Paper 1.21", "motd": "A Minecraft Server", "ping": 444.68109600006755}
-{"ip": "f1.rustix.me", "port": 30460, "online": 1, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 437.1597979998114}
-{"ip": "f1.rustix.me", "port": 31130, "online": 0, "version": "26.1.2", "motd": "ONEBLOCK SURVIVAL", "ping": 259.3653879998783}
-{"ip": "f1.rustix.me", "port": 31545, "online": 1, "version": "Cardboard (PaperMC+Fabric) 1.19.4", "motd": "Tartariae", "ping": 121.14259200006927}
-{"ip": "f1.rustix.me", "port": 29380, "online": 0, "version": "ShieldCraft 1.16.5 - latest. NEPEGNIK DIRECTIVES", "motd": "ShieldCraft РАБОТАЕТ\nЗАХОДИ СКОРО БУДЕТ ИВЕНТ", "ping": 1042.5213659998462}
-{"ip": "f1.rustix.me", "port": 30511, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 661.5855009999905}
-{"ip": "f1.rustix.me", "port": 28012, "online": 64, "version": "YourServer 1.12.2-1.21", "motd": "▪ NexusGlow ▪    ЗАХОДИ НА\n▪ 1.16.5 ▪ 1.21.5 ▪   ОТКРЫТИЕ  ", "ping": 1683.3652669999992}
-{"ip": "f1.rustix.me", "port": 30952, "online": 5, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 544.568211999831}
-{"ip": "f1.rustix.me", "port": 30830, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 605.9307210000497}
-{"ip": "f1.rustix.me", "port": 31566, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 365.10573999998996}
-{"ip": "f1.rustix.me", "port": 31906, "online": 0, "version": "Elytrium", "motd": "◤ ＣＯＩＮＳＭＩＮＥ (1.16+) ☀ ЛЕТНЕЕ ОБНОВЛЕНИЕ ☀ ◥\n◣ ВЫЖИВАНИЕ,ГРИФ,АНАРХИЯ, ➨ БЫЛ ВАЙП ХЗ КОГДА ◥", "ping": 322.5258179998036}
-{"ip": "f1.rustix.me", "port": 32285, "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 211.01743500003067}
-{"ip": "f1.rustix.me", "port": 26196, "online": 0, "version": "Paper 1.16.5", "motd": "lobby", "ping": 2588.301169000033}
-{"ip": "f1.rustix.me", "port": 32258, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 401.6785680000794}
-{"ip": "f1.rustix.me", "port": 33956, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1349.1300210000645}
-{"ip": "f1.rustix.me", "port": 26463, "online": 0, "version": "§6§l▶ ᴡᴏʟꜰʀᴀɪᴅ §f 1.16.5", "motd": "             « ᴡᴏʟꜰʀᴀɪᴅ | 1.16.5 - 1.21x »\n     » бᴇᴄплᴀᴛный донᴀᴛ /ꜰʀᴇᴇ ∫ /ᴄᴏᴅᴇ ʀᴀɪᴅ «", "ping": 4170.5829650002215}
-{"ip": "f1.rustix.me", "port": 33818, "online": 1, "version": "Spigot 1.21.11", "motd": "A Minecraft Server", "ping": 1404.7096739998324}
-{"ip": "f1.rustix.me", "port": 32941, "online": 0, "version": "Paper 1.16.5", "motd": "Piwal Smp\n--Smp сервер!                          ((1.16.5-1.21.2))", "ping": 1711.9344110001293}
-{"ip": "f1.rustix.me", "port": 33837, "online": 0, "version": "BungeeCord 1.8.x-1.21.x", "motd": "BungeeServer", "ping": 1395.8717430000434}
-{"ip": "f1.rustix.me", "port": 32097, "online": 0, "version": "Sentinels 1.16.5", "motd": "CrushWorld Ð»ÑÑÑÐ°Ñ ÐºÐ¾Ð¿Ð¸Ñ ReallyWorld", "ping": 2054.8856850000448}
-{"ip": "f1.rustix.me", "port": 34991, "online": 1, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 497.8576089999933}
-{"ip": "f1.rustix.me", "port": 25248, "online": 0, "version": "Paper 1.21.1", "motd": "A Minecraft Server", "ping": 2397.264039999982}
-{"ip": "f1.rustix.me", "port": 35064, "online": 1, "version": "Paper 1.20.4", "motd": "ɢᴜᴀʀᴅx [ 1.8 - 1.21 ]", "ping": 671.3446090000161}
-{"ip": "f1.rustix.me", "port": 34900, "online": 0, "version": "Paper 1.16.5", "motd": "ffd700◤ &#FD4800Ｃ&#FD4800Ｏ&#FD4800Ｉ&#FD4800Ｎ&#FFFFFFＳ&#FFFFFFＭ&#FFFFFFＣ (1.16+) &#FFCF00☀ &#FFD100Л&#FFD200Е&#FFD300Т&#FFD400Н&#FFD500Е&#FFD600Е &#FFD800О&#FFD900Б&#FFDA00Н&#FFDB00О&#FFDC00В&#FFDD00Л&#FFDE00Е&#FFDF00Н&#FFE000И&#FFE100Е &#FFE300☀ &#FFD700◥ &#FFD700◣ &#F8CB0BВ&#F8CE0BЫ&#F8D20BЖ&#F7D50AИ&#F7D90AВ&#F7DC0AА&#F7DF0AН&#F6E309И&#F6E609Е, &#5BF80BГ&#40F70CР&#24F70EИ&#09F60FФ, &#F8150BА&#F8130BН&#F7110AА&#F70F0AР&#F70D0AХ&#F60B09И&#F60909Я, ➨ &#00FFFFБ&#00F9FFЫ&#00F3FFЛ &#00E8FFВ&#00E2FFА&#00DCFFЙ&#00D6FFП &#FFBA003&#FFAB001&#FF9B00.&#FF8C000&#FF7C005 &#FFD700◥", "ping": 1190.6850689999828}
-{"ip": "f1.rustix.me", "port": 35020, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 1153.2054839999546}
-{"ip": "f1.rustix.me", "port": 38117, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 202.80158400009896}
-{"ip": "f1.rustix.me", "port": 38415, "online": 4, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 165.98216400007004}
-{"ip": "f1.rustix.me", "port": 35268, "online": 0, "version": "Purpur 1.21.11", "motd": "SanderCraft", "ping": 1323.9223959999435}
-{"ip": "f1.rustix.me", "port": 38952, "online": 0, "version": "Grief-1 1.16.5", "motd": "", "ping": 122.54422699993484}
-{"ip": "f1.rustix.me", "port": 35269, "online": 0, "version": "Paper 26.1.1", "motd": "Welcome to LEGACY EMPIRE!", "ping": 1401.2228330000198}
-{"ip": "f1.rustix.me", "port": 36817, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 979.4512030000533}
-{"ip": "f1.rustix.me", "port": 39357, "online": 2, "version": "Purpur 26.1.2", "motd": "Shoqqi Kot", "ping": 119.93320399983531}
-{"ip": "f1.rustix.me", "port": 37013, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1010.5283670000063}
-{"ip": "f1.rustix.me", "port": 34741, "online": 0, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 1774.2583260001084}
-{"ip": "f1.rustix.me", "port": 37779, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 970.6861249999292}
-{"ip": "f1.rustix.me", "port": 36044, "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 1608.5676580000836}
-{"ip": "f1.rustix.me", "port": 38420, "online": 2, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 799.1956609998851}
-{"ip": "f1.rustix.me", "port": 37894, "online": 0, "version": "Paper 1.21.5", "motd": "can you survive?", "ping": 1046.0459060000176}
-{"ip": "f1.rustix.me", "port": 38213, "online": 0, "version": "SSSpigot 1.16.5", "motd": "RuinWorld", "ping": 1012.7025619999586}
-{"ip": "f1.rustix.me", "port": 40728, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 114.7612229999595}
-{"ip": "f1.rustix.me", "port": 40085, "online": 1, "version": "Paper 1.21.4", "motd": "  ✞ ＦｕｎＴｉｍｅ ✞   ГРИФЕРСКИЙ  АНАРХИЯ  ХАРДКОР\n  ☆ 1.18 — 1.12.2  ☆    Глобальное обновление, ВАЙП!", "ping": 510.4081540000607}
-{"ip": "f1.rustix.me", "port": 39258, "online": 1, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 1006.7763280001145}
-{"ip": "f1.rustix.me", "port": 39439, "online": 1, "version": "Paper 1.18", "motd": "A Minecraft Server", "ping": 1054.9438360001204}
-{"ip": "f1.rustix.me", "port": 39584, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 1031.173502999991}
-{"ip": "f1.rustix.me", "port": 36684, "online": 0, "version": "Paper 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 2182.0716309998716}
-{"ip": "f1.rustix.me", "port": 37769, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1891.2383940000836}
-{"ip": "f1.rustix.me", "port": 39189, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1411.889272000053}
-{"ip": "f1.rustix.me", "port": 40625, "online": 0, "version": "Spigot 1.12.2", "motd": "lobby MasterCraft", "ping": 883.8282250001157}
-{"ip": "f1.rustix.me", "port": 39578, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1324.755315999937}
-{"ip": "f1.rustix.me", "port": 32859, "online": 0, "version": "Paper 1.16.5", "motd": "", "ping": 3205.459330000167}
-{"ip": "f1.rustix.me", "port": 40507, "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 2311.498191999817}
-{"ip": "f1.rustix.me", "port": 40256, "online": 0, "version": "Paper 26.1.2", "motd": "Vanilla сервер ", "ping": 2408.470356999942}
-{"ip": "f1.rustix.me", "port": 37218, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 3508.9105619999827}
-{"ip": "f1.rustix.me", "port": 40541, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 2302.4424100001397}
-{"ip": "f1.rustix.me", "port": 39675, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "Наш сервер Minecraft!", "ping": 2624.5978869999362}
-{"ip": "f1.rustix.me", "port": 40061, "online": 0, "version": "Purpur 1.21.11", "motd": "PastaSMP\nsᴜʀᴠɪᴠᴀʟ", "ping": 2460.16164699995}
-{"ip": "f1.rustix.me", "port": 38477, "online": 0, "version": "Paper 1.21.11", "motd": "Ara Armen Miqich Shut Shut Mti Ara", "ping": 2.0912869999847317}
-{"ip": "f1.rustix.me", "port": 40977, "online": 0, "version": "Purpur 1.16.5", "motd": "         ▪ OmniCube.sd ▪ [1.16.5-1.19.4+] ▪\n      #ʙᴇꜱᴛ_ɢʀɪᴇꜰ2025 ▪ Наш ТГК: t.me/SoolarFlux", "ping": 2616.270837000002}
-{"ip": "f1.rustix.me", "port": 40838, "online": 20, "version": "WibeX 1.12.2-1.21", "motd": "▪   ReidWorld       ▪           ЗАХОДИ НА\n▪ 1.16.5 ▪ 1.21 ▪        ГЛОБАЛЬНЫЙ ЛЕТНИЙ ВАЙП", "ping": 2785.2304969999295}
-{"ip": "f1.rustix.me", "port": 31574, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 787.4822530000074}
-{"ip": "f1.rustix.me", "port": 37580, "online": 0, "version": "Paper 1.21.4", "motd": "Легитный сервер", "ping": 2626.5240380000705}
-{"ip": "f1.rustix.me", "port": 37734, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 48.707051000064894}
-{"ip": "d1.rionix.cloud", "port": 25019, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 126.26070200008144}
-{"ip": "d1.rionix.cloud", "port": 25000, "online": 45, "version": "NullCordX 1.16-26.1", "motd": "sᴡᴏʀʟᴅ 1.16.5+ \nᴏᴘ/sᴡᴏʀᴅ ᴘʀᴀᴄᴛɪsᴇ", "ping": 234.84571399990273}
-{"ip": "d1.rionix.cloud", "port": 25001, "online": 0, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 234.7199680000358}
-{"ip": "d1.rionix.cloud", "port": 25027, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 235.72372000012365}
-{"ip": "d1.rionix.cloud", "port": 25024, "online": 29, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 238.04491500004588}
-{"ip": "d1.rionix.cloud", "port": 25040, "online": 1, "version": "mohist 1.20.1", "motd": "Кровавые деньги", "ping": 239.55275000002985}
-{"ip": "d1.rionix.cloud", "port": 25006, "online": 1, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 249.44143399989116}
-{"ip": "d1.rionix.cloud", "port": 25008, "online": 0, "version": "AureonMc 1.12.2-1.21.11", "motd": "                       ✦ AUREON ✦\n                HideAndSeek • FFA • ???", "ping": 254.9829720001071}
-{"ip": "d1.rionix.cloud", "port": 25025, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 252.71086900011142}
-{"ip": "d1.rionix.cloud", "port": 25023, "online": 0, "version": "Youer 1.21.1", "motd": "A Minecraft Server", "ping": 265.02604400002383}
-{"ip": "d1.rionix.cloud", "port": 25036, "online": 0, "version": "ʀɪꜱᴇᴛᴏᴘᴋᴀ ɪɴᴄ 1.21.4", "motd": "IP: MC.RISETOPKA.FUN", "ping": 266.97076300001754}
-{"ip": "d1.rionix.cloud", "port": 25035, "online": 4, "version": "Paper 1.21.11", "motd": "A Hardcore Minecraft Server", "ping": 267.85744299991165}
-{"ip": "d1.rionix.cloud", "port": 25041, "online": 2, "version": "ʀɪꜱᴇᴛᴏᴘᴋᴀ", "motd": "     ✞ ᴍᴄ.ʀɪꜱᴇᴛᴏᴘᴋᴀ.ꜰᴜɴ ▪ 1.16.5-1.21x ▪ ✞ \n   ✞ Сабайтесь на наш тгк ᴛ.ᴍᴇ/ʀɪꜱᴇᴛᴏᴘᴋᴀꜰᴜɴ ✞", "ping": 245.1364220000869}
-{"ip": "d1.rionix.cloud", "port": 25012, "online": 1, "version": "1.21.11", "motd": "STChill - Лучший полу-ванильный сервер!", "ping": 386.01671900005385}
-{"ip": "d1.rionix.cloud", "port": 25044, "online": 1, "version": "1.21.1", "motd": "YopiYoCraft", "ping": 247.08271000008608}
-{"ip": "d1.rionix.cloud", "port": 25046, "online": 1, "version": "SSSpigot 1.16.5", "motd": "A Minecraft Server", "ping": 239.34733400005825}
-{"ip": "d1.rionix.cloud", "port": 25049, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 234.74447100011275}
-{"ip": "d1.rionix.cloud", "port": 25047, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 262.4375489999693}
-{"ip": "d1.rionix.cloud", "port": 25063, "online": 0, "version": "Paper 1.21.11", "motd": "Best smp serer", "ping": 239.74039299992}
-{"ip": "d1.rionix.cloud", "port": 25064, "online": 0, "version": "Purpur 26.1.2", "motd": "Ванила", "ping": 249.05431899992436}
-{"ip": "d1.rionix.cloud", "port": 25068, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 244.18821800009027}
-{"ip": "d1.rionix.cloud", "port": 25065, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 253.0164170000262}
-{"ip": "d1.rionix.cloud", "port": 25084, "online": 0, "version": "Purpur 1.21.4", "motd": "One block [1.21.4+]", "ping": 235.85520000006}
-{"ip": "d1.rionix.cloud", "port": 25098, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 236.7750270000215}
-{"ip": "d1.rionix.cloud", "port": 25091, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 239.59333700008756}
-{"ip": "d1.rionix.cloud", "port": 25099, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 237.23574699988603}
-{"ip": "d1.rionix.cloud", "port": 25094, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 252.30642399992576}
-{"ip": "d1.rionix.cloud", "port": 25086, "online": 0, "version": "Paper 26.1.2", "motd": "Лайф Стил 1.21+", "ping": 358.34004299999833}
-{"ip": "d1.rionix.cloud", "port": 25104, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 252.516925000009}
-{"ip": "d1.rionix.cloud", "port": 25108, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 234.43957700010287}
-{"ip": "d1.rionix.cloud", "port": 25105, "online": 1, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 250.32766599997558}
-{"ip": "d1.rionix.cloud", "port": 25112, "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "       ʀᴀᴢᴇᴛɪᴍᴇ | 1.16.5+\n  ✦ Новый Гриферский сервер уже открыт ", "ping": 240.2525790000709}
-{"ip": "d1.rionix.cloud", "port": 25113, "online": 0, "version": "Leaf 1.21.4", "motd": "LuminaTime", "ping": 234.76535600002535}
-{"ip": "d1.rionix.cloud", "port": 25121, "online": 0, "version": "Paper 1.16.5", "motd": "KisuliLove", "ping": 239.65545300006852}
-{"ip": "d1.rionix.cloud", "port": 25126, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 237.4949340000967}
-{"ip": "d1.rionix.cloud", "port": 25130, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 240.07118600002286}
-{"ip": "d1.rionix.cloud", "port": 25129, "online": 0, "version": "Paper 1.21.11", "motd": "NeonovServer", "ping": 249.64192699985688}
-{"ip": "d1.rionix.cloud", "port": 25136, "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "     🗡 ᴀꜱᴜxɢʀɪᴇꜰ 🏹 | Вайп был 30 мая\n     Подписывайся на тгк: ᴛ.ᴍᴇ/ᴀꜱᴜxɢʀɪᴇꜰ", "ping": 252.77359899996554}
-{"ip": "d1.rionix.cloud", "port": 25138, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 250.704019000068}
-{"ip": "d1.rionix.cloud", "port": 25137, "online": 1, "version": "SSSpigot 1.16.5", "motd": "lobby", "ping": 251.68221300009463}
-{"ip": "d1.rionix.cloud", "port": 25142, "online": 0, "version": "Paper 26.1.2", "motd": "Golden Apple Gang", "ping": 252.86005099997055}
-{"ip": "d1.rionix.cloud", "port": 25140, "online": 0, "version": "1.20.1", "motd": "Добро пожаловать\nэто наш сервер", "ping": 261.5357459999359}
-{"ip": "d1.rionix.cloud", "port": 25143, "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 263.07118699992316}
-{"ip": "d1.rionix.cloud", "port": 25157, "online": 0, "version": "1.21.11", "motd": "           Время строить вновь\n            Twitch-телестройка", "ping": 253.76328499987721}
-{"ip": "d1.rionix.cloud", "port": 25209, "online": 0, "version": "Paper 1.21.11", "motd": "FrostSMP 1.16.5-1.21.11 Заходи к нам играть!", "ping": 250.95763900003476}
-{"ip": "d1.rionix.cloud", "port": 25246, "online": 0, "version": "Paper 1.17.1", "motd": "", "ping": 273.71631300002264}
-{"ip": "d1.rionix.cloud", "port": 25250, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 266.72228000006726}
+{"ip": "147.185.221.211", "port": 7014, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 412.1633510000038}
+{"ip": "147.185.221.211", "port": 6900, "online": 1, "version": "26.1.2", "motd": "🧶 MraowCraft serer", "ping": 521.3714719999984}
+{"ip": "147.185.221.211", "port": 9742, "online": 0, "version": "1.21.9", "motd": "Chickussy MC", "ping": 379.37549000000104}
+{"ip": "147.185.221.211", "port": 9710, "online": 0, "version": "Paper 1.21.10", "motd": "OFFICIAL COBALT MINECRAFT SERVER\nNow 1.21.10 and better than ever!", "ping": 466.24081300000597}
+{"ip": "147.185.221.211", "port": 10224, "online": 0, "version": "Paper 1.21.8", "motd": "mc4map.001066.xyz", "ping": 532.1363699999963}
+{"ip": "147.185.221.211", "port": 10773, "online": 0, "version": "Paper 26.2", "motd": "Eski's Community Server!", "ping": 419.73188100000414}
+{"ip": "147.185.221.211", "port": 14017, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 121.0790549999956}
+{"ip": "147.185.221.211", "port": 22275, "online": 1, "version": "Paper 26.1.2", "motd": "                  |    ɢʀᴏᴍʙᴅᴏʀ    |\n                  |   + ғᴀʀᴛᴏᴘɪᴀ     |", "ping": 481.0629289999895}
+{"ip": "147.185.221.211", "port": 26352, "online": 0, "version": "Paper 26.1.2", "motd": "MiniMOTD Default\nMiniMessage Gradients", "ping": 508.12931900000535}
+{"ip": "147.185.221.211", "port": 29662, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "⎇ The Nylium Network ⎇\n⎇ An Alterhuman Technology Group ⎇", "ping": 397.46494499999585}
+{"ip": "147.185.221.211", "port": 29670, "online": 0, "version": "Paper 1.21.8", "motd": "MondarizCraft - ¡Faro de Avión!", "ping": 418.68858099999784}
+{"ip": "147.185.221.211", "port": 30795, "online": 1, "version": "forge arclight/Trials 1.20.1", "motd": "What is happening now?", "ping": 681.1847809999989}
+{"ip": "147.185.221.211", "port": 31620, "online": 0, "version": "Purpur 26.1.2", "motd": "Sigma SMP", "ping": 351.75552900000184}
+{"ip": "147.185.221.211", "port": 35457, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 489.64241900000616}
+{"ip": "147.185.221.211", "port": 38949, "online": 0, "version": "Paper 1.21.8", "motd": "Gay server for two gay people", "ping": 443.84482899999966}
+{"ip": "147.185.221.211", "port": 41580, "online": 0, "version": "26.3 Snapshot 1", "motd": "A Minecraft Server", "ping": 480.54691999999477}
+{"ip": "147.185.221.211", "port": 45392, "online": 0, "version": "26.2", "motd": "eef", "ping": 960.288313999996}
+{"ip": "147.185.221.211", "port": 49275, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 519.0664090000041}
+{"ip": "147.185.221.211", "port": 56251, "online": 1, "version": "1.21.1", "motd": "Cobbleverse Server", "ping": 652.816807999983}
+{"ip": "147.185.221.211", "port": 60885, "online": 0, "version": "26.1.2", "motd": "Yoylo n friends", "ping": 447.4610729999995}
+{"ip": "147.185.221.211", "port": 61539, "online": 0, "version": "Paper 1.21.11", "motd": "The_Dankus Minecraft Server ( with voice chat included )", "ping": 498.78772000002414}
+{"ip": "147.185.221.211", "port": 62564, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 453.18677500000604}
+{"ip": "147.185.221.211", "port": 64603, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 640.6224860000123}
+{"ip": "147.185.221.223", "port": 1947, "online": 0, "version": "Paper 1.21.11", "motd": "GolemCraft\n", "ping": 594.9061549999897}
+{"ip": "147.185.221.223", "port": 3448, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 609.3495080000082}
+{"ip": "147.185.221.223", "port": 12594, "online": 420, "version": "Velocity 1.7.2-1.21.11", "motd": "                           WrongSMP\n              Survival Multiplayer", "ping": 532.1188759999984}
+{"ip": "147.185.221.223", "port": 14099, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "A Velocity Server", "ping": 379.99323399998275}
+{"ip": "147.185.221.223", "port": 18120, "online": 0, "version": "Paper 1.21.11", "motd": "8.a minecraft server", "ping": 464.5483879999688}
+{"ip": "147.185.221.223", "port": 22274, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 498.74194399995986}
+{"ip": "147.185.221.223", "port": 27928, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 966.5714789999811}
+{"ip": "147.185.221.223", "port": 32379, "online": 1, "version": "1.21.1", "motd": "Cobblemon for friends! Happy pride!", "ping": 2047.5525850000054}
+{"ip": "147.185.221.223", "port": 36246, "online": 0, "version": "1.21.1", "motd": "Gooses MC Server :D", "ping": 439.5777130000056}
+{"ip": "147.185.221.223", "port": 36622, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 664.2764940000347}
+{"ip": "147.185.221.223", "port": 43134, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 558.2806300000129}
+{"ip": "147.185.221.223", "port": 43303, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome!", "ping": 800.3765779999981}
+{"ip": "147.185.221.223", "port": 45629, "online": 0, "version": "DivineMC 1.21.10", "motd": "TRIARTS alpha stage", "ping": 854.3009990000314}
+{"ip": "147.185.221.223", "port": 48810, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 545.2293200000327}
+{"ip": "147.185.221.223", "port": 48962, "online": 0, "version": "1.21.11", "motd": "Unofficial OPUS server", "ping": 590.9937490000061}
+{"ip": "147.185.221.223", "port": 54071, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 563.2546549999802}
+{"ip": "147.185.221.223", "port": 56881, "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 616.7762449999827}
+{"ip": "147.185.221.223", "port": 62827, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 476.1067379999986}
+{"ip": "147.185.221.31", "port": 4948, "online": 0, "version": "26.1.2", "motd": "Nezumi Server", "ping": 524.5228670000301}
+{"ip": "147.185.221.31", "port": 5712, "online": 0, "version": "1.21.10", "motd": "Gwen's Pack Server", "ping": 538.1696909999505}
+{"ip": "147.185.221.31", "port": 5753, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 397.05173099997637}
+{"ip": "147.185.221.31", "port": 6335, "online": 0, "version": "Paper 1.21.8", "motd": "Kringlen and LAVA's Masterpiece", "ping": 388.874555999962}
+{"ip": "147.185.221.31", "port": 16099, "online": 2, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 368.91263500001514}
+{"ip": "147.185.221.31", "port": 18573, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 349.5600410000179}
+{"ip": "147.185.221.31", "port": 18636, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 495.15923900003145}
+{"ip": "147.185.221.31", "port": 22368, "online": 0, "version": "26.2", "motd": "who up gobinday yoga rn", "ping": 352.2961449999684}
+{"ip": "147.185.221.31", "port": 26499, "online": 1, "version": "Paper 26.1.2", "motd": " A Zombie Pigman Broke My Door | NO HACKS", "ping": 849.7736529999997}
+{"ip": "147.185.221.31", "port": 29299, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "77 Welcome to Camiverse | Come have fun! 77", "ping": 593.3258420000129}
+{"ip": "147.185.221.31", "port": 31976, "online": 0, "version": "26.1.2", "motd": "Powered by AMP", "ping": 589.4433600000184}
+{"ip": "147.185.221.31", "port": 35776, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 1782.0593530000224}
+{"ip": "147.185.221.31", "port": 36225, "online": 0, "version": "1.20.1", "motd": "Create a Society Season 2!", "ping": 426.84864199998174}
+{"ip": "147.185.221.31", "port": 39391, "online": 0, "version": "1.20.1", "motd": "Tinkering and Stuff??", "ping": 1684.1453359999718}
+{"ip": "147.185.221.31", "port": 39915, "online": 0, "version": "Paper 1.21.8", "motd": "Wellcome to ProLand SMP", "ping": 1368.7046389999864}
+{"ip": "147.185.221.31", "port": 41855, "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "Server test Plugins + MODS", "ping": 580.5547960000013}
+{"ip": "147.185.221.31", "port": 44016, "online": 0, "version": "Purpur 26.1.2", "motd": "A Kaos Minecraft Server", "ping": 402.37712999999076}
+{"ip": "147.185.221.31", "port": 44798, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 429.94602200008103}
+{"ip": "147.185.221.31", "port": 44896, "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 397.8848200000584}
+{"ip": "147.185.221.31", "port": 46644, "online": 0, "version": "26.2", "motd": "Under New Management", "ping": 443.53950200002146}
+{"ip": "147.185.221.31", "port": 47134, "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 363.42634400000406}
+{"ip": "147.185.221.31", "port": 47173, "online": 2, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 546.2956979999944}
+{"ip": "147.185.221.31", "port": 49794, "online": 0, "version": "26.2", "motd": "The land of Bruutis the wise, pinkest of them all. Sacrifices must be made to appease the lord", "ping": 1108.7973509999074}
+{"ip": "147.185.221.31", "port": 50309, "online": 0, "version": "1.21.1", "motd": "ENSR Puros Modded", "ping": 687.7751380000063}
+{"ip": "147.185.221.31", "port": 51472, "online": 0, "version": "§c❤ §7ᴡʙɪᴊᴀᴊ! §8→                                                          §a● §f0 §7ɢʀᴀᴄᴢʏ", "motd": "   ɪʀᴏɴꜱᴡᴏʀᴅ.ᴘʟ ▪ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɪʀᴏɴꜱᴡᴏʀᴅ.ᴘʟ/ᴅᴄ \n x ꜱᴛᴀʀᴛ ꜱᴇʀᴡᴇʀᴀ ᴡᴋʀᴏᴛᴄᴇ!", "ping": 566.9315700000652}
+{"ip": "147.185.221.31", "port": 54566, "online": 0, "version": "Paper 26.1.2", "motd": "             Nowhere [26.1.2]\n             ☆ Disfruta del servidor ☆", "ping": 851.0031959999651}
+{"ip": "147.185.221.31", "port": 54782, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 665.2705330000117}
+{"ip": "147.185.221.31", "port": 56196, "online": 0, "version": "Paper 26.1.2", "motd": "JujuLandia | Creative", "ping": 564.9682319999556}
+{"ip": "147.185.221.31", "port": 56197, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to JujuLandia2", "ping": 564.6544669999685}
+{"ip": "147.185.221.31", "port": 57955, "online": 0, "version": "1.21.10", "motd": "The Superplebs TrueNAS Experience", "ping": 502.6893320000454}
+{"ip": "147.185.221.31", "port": 58060, "online": 1, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 588.6916450000399}
+{"ip": "147.185.221.31", "port": 59234, "online": 0, "version": "1.12.2", "motd": "Powered by AMP", "ping": 705.4056819999914}
+{"ip": "147.185.221.31", "port": 59543, "online": 0, "version": "neoforge arclight/FeudalKings 1.21.1", "motd": "ASQN Minecraft SMP", "ping": 560.0186530000428}
+{"ip": "147.185.221.31", "port": 61371, "online": 0, "version": "26.2", "motd": "THE TOWN OF OYSTER BAY MINECRAFT SERVER!!", "ping": 455.1818339999727}
+{"ip": "147.185.221.31", "port": 61905, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "CNU  CosmosCraft Universe ~ sorcer's motd CNU\n           CNU ... magic power is coming ... CNU           ", "ping": 433.73596000003545}
+{"ip": "147.185.221.31", "port": 62204, "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "A Velocity Server", "ping": 424.1467610000882}
+{"ip": "147.185.221.31", "port": 62678, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 613.7876499999493}
+{"ip": "147.185.221.31", "port": 63013, "online": 2, "version": "Paper 1.21.3", "motd": "A Minecraft Server", "ping": 386.99943699998585}
+{"ip": "147.185.221.31", "port": 63383, "online": 3, "version": "Paper 1.21.5", "motd": "A Minecraft Server", "ping": 394.8153930000444}
+{"ip": "147.185.221.31", "port": 63627, "online": 0, "version": "1.20.2", "motd": "A Minecraft Server", "ping": 506.65680399993107}
+{"ip": "147.185.221.31", "port": 64536, "online": 0, "version": "Paper 1.20.6", "motd": "ARISE MInecraft Server", "ping": 571.0884699999497}
+{"ip": "147.185.221.30", "port": 1612, "online": 0, "version": "Paper 26.1.2", "motd": "Disabled Factory", "ping": 420.78993799998443}
+{"ip": "147.185.221.30", "port": 1721, "online": 0, "version": "26.1.2", "motd": "Welcome travelers\nA new world awaits!", "ping": 459.41835899998296}
+{"ip": "147.185.221.30", "port": 13175, "online": 0, "version": "1.21.11", "motd": "Have a blast", "ping": 1322.0353909999858}
+{"ip": "147.185.221.30", "port": 22875, "online": 0, "version": "1.21.1", "motd": "ANVIL AND HAMMER SMP | ATMS 10 | Mystical Agriculture | Create+ | Updates Weekly/Backups Daily @5 a.m. CST", "ping": 782.7441930000987}
+{"ip": "147.185.221.30", "port": 25979, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 675.88948599996}
+{"ip": "147.185.221.30", "port": 27014, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 442.62001699996745}
+{"ip": "147.185.221.30", "port": 29544, "online": 0, "version": "Paper 1.21.1", "motd": "A CushCraft Server", "ping": 521.9769990000032}
+{"ip": "147.185.221.30", "port": 33095, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 455.4523040000049}
+{"ip": "147.185.221.30", "port": 34161, "online": 1, "version": "1.20.4", "motd": "NerdLand", "ping": 645.4073749999907}
+{"ip": "147.185.221.30", "port": 34679, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 670.1308069999641}
+{"ip": "147.185.221.30", "port": 37438, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1289.4737279999617}
+{"ip": "147.185.221.30", "port": 38690, "online": 0, "version": "26.2", "motd": "maxxdabos the goat??!", "ping": 491.0682640000914}
+{"ip": "147.185.221.30", "port": 39844, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 364.05411399994136}
+{"ip": "147.185.221.30", "port": 40121, "online": 1, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 492.2165560000167}
+{"ip": "147.185.221.30", "port": 40203, "online": 0, "version": "1.7.10", "motd": "GT:New Horizons on Docker", "ping": 628.6959150000939}
+{"ip": "147.185.221.30", "port": 40351, "online": 0, "version": "Paper 1.21.10", "motd": "                         ⬞ɢᴏᴏʟᴏʀᴘ⬞\n                           ⬞ᴄʀᴀꜰᴛ⬞   ", "ping": 466.8352329999834}
+{"ip": "147.185.221.30", "port": 41864, "online": 0, "version": "Paper 1.21.11", "motd": "                      ʜᴀʟᴠᴇʀ ʙᴜɴ᾽ѕ\n                           ᴀɴᴅ ᴄᴏ.", "ping": 618.842293000057}
+{"ip": "147.185.221.30", "port": 43437, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 728.0995139999504}
+{"ip": "147.185.221.30", "port": 46430, "online": 0, "version": "1.20.1", "motd": "(t server)^13 [TerraFirmaGreg-Modern] 0.11.27", "ping": 520.6745880000199}
+{"ip": "147.185.221.30", "port": 47024, "online": 12, "version": "Velocity 1.7.2-26.1.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 485.38568699996176}
+{"ip": "147.185.221.30", "port": 47321, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 508.7585369999488}
+{"ip": "147.185.221.30", "port": 49409, "online": 0, "version": "Paper 1.21.11", "motd": "The Brownest of Bricks", "ping": 562.0211399999562}
+{"ip": "147.185.221.30", "port": 49987, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "A Velocity Server", "ping": 396.78831399999126}
+{"ip": "147.185.221.30", "port": 50630, "online": 0, "version": "1.21.1", "motd": "Welcome to the Crumple Zone Cobblemon+ server!", "ping": 410.7212530000197}
+{"ip": "147.185.221.30", "port": 63664, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 377.04707000000326}
+{"ip": "147.185.221.30", "port": 63662, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 534.5970659999466}
+{"ip": "147.185.221.29", "port": 11448, "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to the Team Proteus Server!", "ping": 394.5219160000306}
+{"ip": "147.185.221.29", "port": 11505, "online": 0, "version": "Paper 1.21.1", "motd": "We're Back.", "ping": 442.37964399997054}
+{"ip": "147.185.221.29", "port": 13884, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 696.5880919999563}
+{"ip": "147.185.221.29", "port": 19959, "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "                    SANISMP\n                     ѕᴇᴀѕᴏɴ 2", "ping": 474.86826200008636}
+{"ip": "147.185.221.29", "port": 20916, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 419.99981599997227}
+{"ip": "147.185.221.29", "port": 32511, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 380.19646999998713}
+{"ip": "147.185.221.29", "port": 42534, "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 462.092331000008}
+{"ip": "147.185.221.29", "port": 45023, "online": 0, "version": "1.7.10", "motd": "Powered by AMP", "ping": 631.9118939999271}
+{"ip": "147.185.221.29", "port": 55426, "online": 0, "version": "1.21.1", "motd": "", "ping": 756.878274000087}
+{"ip": "147.185.221.29", "port": 56876, "online": 0, "version": "Paper 1.21.11", "motd": "Join Rags MC with crossplay.midnight-tech.cc", "ping": 702.9959639999106}
+{"ip": "147.185.221.29", "port": 59525, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "MaCraftKanSMP - Chill, Build, Survive! Play Anywhere!", "ping": 897.6968749999514}
+{"ip": "147.185.221.29", "port": 61575, "online": 0, "version": "1.20.1", "motd": "⛏ PRIVATE qCraft 1.20.1 Server ⛏\n        ☣ Made for Onyx and Melww! ☣", "ping": 583.1822439999996}
+{"ip": "147.185.221.29", "port": 63526, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 670.6980380000687}
+{"ip": "147.185.221.29", "port": 64730, "online": 16, "version": "Velocity 1.7.2-26.1.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 551.4873340000577}
+{"ip": "65.21.24.204", "port": 25587, "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 148.09607200004393}
+{"ip": "65.21.24.204", "port": 25708, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 146.42768400005934}
+{"ip": "65.21.24.204", "port": 25630, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 152.63679999998203}
+{"ip": "65.21.24.204", "port": 25621, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 167.22792999996727}
+{"ip": "65.21.24.204", "port": 25738, "online": 0, "version": "Paper 26.1.1", "motd": "A Best Minecraft Server", "ping": 171.8373060000431}
+{"ip": "65.21.24.204", "port": 25600, "online": 3, "version": "26.1.2", "motd": "Приятной игры! Если есть вопросы, обращайся к администрации", "ping": 195.13121800002864}
+{"ip": "65.21.24.204", "port": 25591, "online": 1, "version": "1.21.4", "motd": "         enragemc | бета тест! 1.21x\n           ▪ Сайт: enragemc.trademc.org", "ping": 190.99946200003615}
+{"ip": "65.21.24.204", "port": 25793, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 172.90385399996921}
+{"ip": "65.21.24.204", "port": 25670, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 192.5960659999646}
+{"ip": "65.21.24.204", "port": 25634, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 201.96425599999657}
+{"ip": "65.21.24.204", "port": 25728, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 195.06676800006062}
+{"ip": "65.21.24.204", "port": 25739, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 187.64650599996457}
+{"ip": "65.21.24.204", "port": 25748, "online": 0, "version": "Paper 1.21.4", "motd": "                  ✦ ʟᴜɴᴀᴄʏꜱᴛᴜᴅɪᴏ ✦\n        ⁘ ʙᴇᴛᴀ-ᴛᴇꜱᴛ • ᴛ.ᴍᴇ/ʟᴜɴᴀᴄʏ_ꜱᴛᴜᴅɪᴏ ⁘", "ping": 204.44237300000623}
+{"ip": "65.21.24.204", "port": 25777, "online": 0, "version": "Spigot 1.18.2", "motd": "⚔️RevegeMine⚔️ ЗАХОДИ ТУТ ВЕСЕЛО!", "ping": 202.07129599998552}
+{"ip": "65.21.24.204", "port": 25766, "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 202.64512500000365}
+{"ip": "65.21.24.204", "port": 25627, "online": 1, "version": "Paper 1.21.11", "motd": "          KrakenMC • Версия [1.21.11]\n             ◄ вк - vk.com/krakenmchard - ►", "ping": 242.22079600008328}
+{"ip": "65.21.24.204", "port": 25765, "online": 0, "version": "1.21.8", "motd": "✿ BunnySMP ✿\n  Приватный сервер друзей • Выживание", "ping": 218.7139479999587}
+{"ip": "65.21.24.204", "port": 25848, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 233.99839000001066}
+{"ip": "65.21.24.204", "port": 25833, "online": 0, "version": "26.1.2", "motd": "Наше ванильное выживание", "ping": 248.881744000073}
+{"ip": "65.21.24.204", "port": 25651, "online": 2, "version": "Paper 1.21.11", "motd": "ТЕСТ ВЕЛИКОГО ГОРОДА ДОЛБАЁБУРГ", "ping": 297.927796999943}
+{"ip": "65.21.24.204", "port": 25870, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 264.1081980000308}
+{"ip": "65.21.24.204", "port": 25726, "online": 1, "version": "Paper 1.21.11", "motd": "☠ MriyaCraft ☠   Жорстока Анархія\n★ 1.21+   виживай та пануй!", "ping": 282.74042600003213}
+{"ip": "65.21.24.204", "port": 25828, "online": 0, "version": "1.21.11", "motd": "ЖИРИНОВСКИЙ ЗА МАЙНКРАФТ", "ping": 275.04318700005115}
+{"ip": "65.21.24.204", "port": 25821, "online": 0, "version": "Vanilla by MrDrag0nXYT 1.21.4", "motd": "                          ■ ᴠᴀɴɪʟʟᴀ ■\n             ∬ Нам не хватает только тебя! ∬", "ping": 275.4945780000071}
+{"ip": "65.21.24.204", "port": 25843, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 272.3465640000313}
+{"ip": "65.21.24.204", "port": 25841, "online": 1, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 272.73016799995276}
+{"ip": "65.21.24.204", "port": 25923, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 265.7856130000482}
+{"ip": "65.21.24.204", "port": 25782, "online": 1, "version": "Purpur 1.21.11", "motd": "CubeChan Eternal", "ping": 296.84292600006756}
+{"ip": "65.21.24.204", "port": 25776, "online": 1, "version": "1.7.10", "motd": "GT:New Horizons 2.8.4", "ping": 296.4761419999604}
+{"ip": "65.21.24.204", "port": 25950, "online": 1, "version": "1.21.1", "motd": "", "ping": 278.2716410000603}
+{"ip": "65.21.24.204", "port": 25894, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 280.52415700005895}
+{"ip": "65.21.24.204", "port": 25952, "online": 0, "version": "Paper 1.21.1", "motd": "-----------[ ProCraft ]-----------\n1.18.2 - 1.21.1    Выживание      PVP", "ping": 288.3382029999666}
+{"ip": "213.171.18.225", "port": 30013, "online": 3, "version": "Spigot 26.1.2", "motd": "A Minecraft Server", "ping": 122.3915880000277}
+{"ip": "213.171.18.225", "port": 30026, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 122.76677800014113}
+{"ip": "213.171.18.225", "port": 30060, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 124.47793499995896}
+{"ip": "213.171.18.225", "port": 30019, "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 129.21190399993066}
+{"ip": "213.171.18.225", "port": 30029, "online": 0, "version": "1.20.1", "motd": "бубубу и бебебе", "ping": 130.02278499993736}
+{"ip": "213.171.18.225", "port": 30005, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 131.32735399995}
+{"ip": "213.171.18.225", "port": 30001, "online": 1, "version": "Paper 1.21.11", "motd": "EtermetialSMP", "ping": 132.57846500005144}
+{"ip": "213.171.18.225", "port": 30003, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 133.1751870000062}
+{"ip": "213.171.18.225", "port": 30008, "online": 0, "version": "Paper 1.21.8", "motd": "Добро пожаловать на сервер сиксевен абаюнда тралалело тралала газан", "ping": 135.53907999994408}
+{"ip": "213.171.18.225", "port": 30027, "online": 0, "version": "1.7.10", "motd": "A Minecraft Server", "ping": 140.99091599996427}
+{"ip": "213.171.18.225", "port": 30021, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 142.8281580001567}
+{"ip": "213.171.18.225", "port": 30011, "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 144.14803700015}
+{"ip": "213.171.18.225", "port": 30028, "online": 0, "version": "1.21.4", "motd": "Добро пожаловать на сервер!", "ping": 145.33622999988438}
+{"ip": "213.171.18.225", "port": 30018, "online": 0, "version": "fabric arclight/FeudalKings 1.21.1", "motd": "| Welcome to Cobblemon\n| v.0.1 ➱ A new start", "ping": 252.6296219998585}
+{"ip": "213.171.18.225", "port": 30553, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 123.13068799994653}
+{"ip": "213.171.18.225", "port": 31007, "online": 0, "version": "Paper 1.16.5", "motd": "VimeAnarchy", "ping": 119.4528400001218}
+{"ip": "213.171.18.225", "port": 31012, "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 120.06009099991388}
+{"ip": "213.171.18.225", "port": 31009, "online": 0, "version": "1.21.7", "motd": "\"ПОЛЕ\" / Сервер СТРИМЕРОВ", "ping": 124.05684700001984}
+{"ip": "213.171.18.225", "port": 31057, "online": 2, "version": "Paper 1.21.11", "motd": "PALPER MC | ВЫЖИВАНИЕ | \nКОНКУРСЫ НА ДОНАТЫ | КОМФОРТНАЯ ИГРА", "ping": 121.04399400004695}
+{"ip": "213.171.18.225", "port": 31004, "online": 3, "version": "Cardboard (Paper+Fabric) 26.1.2", "motd": "A Minecraft Server", "ping": 125.69903999997223}
+{"ip": "213.171.18.225", "port": 31129, "online": 1, "version": "Paper 26.2", "motd": "Siberiatown", "ping": 120.18800999999257}
+{"ip": "213.171.18.225", "port": 31090, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 147.43153200015513}
+{"ip": "213.171.18.225", "port": 31292, "online": 0, "version": "Paper 1.21.1", "motd": "A Minecraft Server", "ping": 120.40309400003935}
+{"ip": "213.171.18.225", "port": 31026, "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 278.25564999989183}
+{"ip": "213.171.18.225", "port": 31407, "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 123.25677400008317}
+{"ip": "213.171.18.225", "port": 31459, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "                 Lamp39 | 26.1.X\n              Присоединяйся к нам!", "ping": 121.2442450000708}
+{"ip": "213.171.18.225", "port": 31514, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 123.01348799996958}
+{"ip": "213.171.18.225", "port": 31573, "online": 1, "version": "Paper 26.2", "motd": "1`111111111111111111", "ping": 126.95264699982545}
+{"ip": "213.171.18.225", "port": 31654, "online": 1, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 119.98938599981557}
+{"ip": "213.171.18.225", "port": 31692, "online": 0, "version": "Paper 26.1.2", "motd": "Server мужиков", "ping": 241.67954500012456}
+{"ip": "213.171.18.225", "port": 31962, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 120.36003399998663}
+{"ip": "213.171.18.225", "port": 32090, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 122.9157259999738}
+{"ip": "213.171.18.225", "port": 32114, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 120.79101699987405}
+{"ip": "213.171.18.225", "port": 32258, "online": 0, "version": "1.20.1", "motd": "Hi", "ping": 125.25408200008314}
+{"ip": "213.171.18.225", "port": 32206, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 137.3698400000194}
+{"ip": "213.171.18.225", "port": 32326, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 126.71071399995526}
+{"ip": "213.171.18.225", "port": 32483, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 119.97214000007261}
+{"ip": "213.171.18.225", "port": 32427, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 126.29678100006458}
+{"ip": "213.171.18.225", "port": 32433, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 126.88596900011362}
+{"ip": "213.171.18.225", "port": 32484, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 125.72491599985369}
+{"ip": "213.171.18.225", "port": 32577, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 119.59182199984753}
+{"ip": "213.171.18.225", "port": 32692, "online": 8, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 120.44693500001813}
+{"ip": "213.171.18.225", "port": 32691, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 125.7697809999172}
+{"ip": "213.171.18.225", "port": 32753, "online": 0, "version": "Paper 1.21.11", "motd": "alt❤", "ping": 121.24175600001763}
+{"ip": "213.171.18.225", "port": 32603, "online": 0, "version": "1.21.1", "motd": "Server is Online!", "ping": 244.03633600013563}
+{"ip": "213.171.18.225", "port": 32496, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 269.1046729999016}
+{"ip": "213.171.18.225", "port": 32714, "online": 0, "version": "1.21.8", "motd": "GoidaCraft", "ping": 256.9947450001564}
+{"ip": "213.171.18.225", "port": 32941, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 121.82770000003984}
+{"ip": "213.171.18.225", "port": 32967, "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 127.05412000013894}
+{"ip": "213.171.18.225", "port": 33001, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 123.07070399992881}
+{"ip": "213.171.18.225", "port": 32920, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 120.47426300000552}
+{"ip": "213.171.18.225", "port": 32909, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 126.33200499999475}
+{"ip": "213.171.18.225", "port": 32994, "online": 0, "version": "1.16.5", "motd": "R.A.D. 2 Server", "ping": 316.6283650000423}
+{"ip": "213.171.18.225", "port": 32868, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 251.17178100003912}
+{"ip": "free.joinserver.xyz", "port": 25602, "online": 1, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 130.85767500001566}
+{"ip": "free.joinserver.xyz", "port": 25609, "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 129.85853400004999}
+{"ip": "free.joinserver.xyz", "port": 25614, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 151.96868499992888}
+{"ip": "free.joinserver.xyz", "port": 25613, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 151.8117020000318}
+{"ip": "free.joinserver.xyz", "port": 25630, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 150.82415100005164}
+{"ip": "free.joinserver.xyz", "port": 25628, "online": 0, "version": "Paper 1.16.5", "motd": "c4f9ad82cc0113317b4a736e1ea3fe0a", "ping": 151.23460700010583}
+{"ip": "free.joinserver.xyz", "port": 25603, "online": 0, "version": "Paper 1.21.4", "motd": "   ✞ FTime ✞    Идеальные режимы\n✿ 1.8 – 1.21.x ✿ Для тебя и друзей!", "ping": 156.68052399996668}
+{"ip": "free.joinserver.xyz", "port": 25661, "online": 4, "version": "1.21.8", "motd": "A Minecraft Server", "ping": 163.01726500000768}
+{"ip": "free.joinserver.xyz", "port": 25674, "online": 1, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 162.00242699983392}
+{"ip": "free.joinserver.xyz", "port": 25685, "online": 0, "version": "Paper 1.16.5", "motd": "tc102308", "ping": 156.12768099981622}
+{"ip": "free.joinserver.xyz", "port": 25708, "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 146.0073939999802}
+{"ip": "free.joinserver.xyz", "port": 25752, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 133.463317000178}
+{"ip": "free.joinserver.xyz", "port": 25647, "online": 0, "version": "1.18.2", "motd": "A Minecraft Server", "ping": 170.7141800000045}
+{"ip": "free.joinserver.xyz", "port": 25684, "online": 0, "version": "Spigot 1.20.4", "motd": "A Minecraft Server", "ping": 169.616102999953}
+{"ip": "free.joinserver.xyz", "port": 25772, "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 137.8807210001014}
+{"ip": "free.joinserver.xyz", "port": 25831, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 141.01339600006213}
+{"ip": "free.joinserver.xyz", "port": 25819, "online": 0, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 152.52303400006895}
+{"ip": "free.joinserver.xyz", "port": 25890, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 128.71358799998234}
+{"ip": "free.joinserver.xyz", "port": 25857, "online": 1, "version": "Purpur 1.21.11", "motd": "", "ping": 139.26443600007588}
+{"ip": "free.joinserver.xyz", "port": 25884, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 132.4970680000206}
+{"ip": "free.joinserver.xyz", "port": 25863, "online": 0, "version": "Folia 1.21.11", "motd": "MiniMOTD Default\nMiniMessage Gradients", "ping": 134.29440700019768}
+{"ip": "free.joinserver.xyz", "port": 25893, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 130.38858900017658}
+{"ip": "free.joinserver.xyz", "port": 25912, "online": 0, "version": "Purpur 26.2", "motd": "A Minecraft Server", "ping": 124.80051600005027}
+{"ip": "free.joinserver.xyz", "port": 25947, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 124.69277600007445}
+{"ip": "free.joinserver.xyz", "port": 25953, "online": 0, "version": "Leaf 26.2", "motd": "A Minecraft Server", "ping": 123.19635699986975}
+{"ip": "free.joinserver.xyz", "port": 25967, "online": 1, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 125.22435599998971}
+{"ip": "f1.rustix.me", "port": 25045, "online": 0, "version": "Spigot 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 171.57057399981568}
+{"ip": "f1.rustix.me", "port": 25163, "online": 0, "version": "PaperSpigot 1.7.10", "motd": "| Foxo Station - our beloved community server | \nI'm Here Too!", "ping": 356.40122799986784}
+{"ip": "f1.rustix.me", "port": 25760, "online": 1, "version": "Purpur 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 181.6725859998769}
+{"ip": "f1.rustix.me", "port": 25248, "online": 0, "version": "Paper 1.21.1", "motd": "A Minecraft Server", "ping": 462.7526530000523}
+{"ip": "f1.rustix.me", "port": 25572, "online": 0, "version": "Paper 1.21.11", "motd": "Test", "ping": 446.8627609999203}
+{"ip": "f1.rustix.me", "port": 25694, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1567.9498209999565}
+{"ip": "f1.rustix.me", "port": 26869, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1299.9429250000958}
+{"ip": "f1.rustix.me", "port": 25886, "online": 1, "version": "Paper 1.21.7", "motd": "A Minecraft Server", "ping": 1621.9795749998411}
+{"ip": "f1.rustix.me", "port": 26463, "online": 0, "version": "§6§l▶ ᴡᴏʟꜰʀᴀɪᴅ §f 1.16.5", "motd": "             « ᴡᴏʟꜰʀᴀɪᴅ | 1.16.5 - 1.21x »\n     » бᴇᴄплᴀᴛный донᴀᴛ /ꜰʀᴇᴇ ∫ /ᴄᴏᴅᴇ ʀᴀɪᴅ «", "ping": 1441.8894499999624}
+{"ip": "f1.rustix.me", "port": 25510, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1753.7613029999193}
+{"ip": "f1.rustix.me", "port": 27742, "online": 0, "version": "Spigot 1.16.5", "motd": " ✪ LEGASYGRIEF ◈ 1.16.5 - 1.20.2 ✪\n    ↪ Получи Бесплатный Донат /ＦＲＥＥ ↩", "ping": 182.64765499998248}
+{"ip": "f1.rustix.me", "port": 28127, "online": 0, "version": "Elytrium", "motd": "LIMEWORLD\nанархия", "ping": 178.85911100006524}
+{"ip": "f1.rustix.me", "port": 27754, "online": 0, "version": "SSSpigot 1.16.5", "motd": "VibeWorld", "ping": 366.2833319999663}
+{"ip": "f1.rustix.me", "port": 27920, "online": 0, "version": "Purpur 1.19.4", "motd": "A Minecraft Server", "ping": 384.96124199991755}
+{"ip": "f1.rustix.me", "port": 28832, "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 165.69767799978763}
+{"ip": "f1.rustix.me", "port": 29109, "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 155.7040360000883}
+{"ip": "f1.rustix.me", "port": 28012, "online": 64, "version": "YourServer 1.12.2-1.21", "motd": "▪ NexusGlow ▪    ЗАХОДИ НА\n▪ 1.16.5 ▪ 1.21.5 ▪   ОТКРЫТИЕ  ", "ping": 599.5803359999172}
+{"ip": "f1.rustix.me", "port": 26196, "online": 0, "version": "Paper 1.16.5", "motd": "lobby", "ping": 2258.57186799999}
+{"ip": "f1.rustix.me", "port": 29704, "online": 0, "version": "Purpur 1.16.5", "motd": "              ᴊᴜsᴛ ᴠᴀɴɪʟʟᴀ | ɴᴏ ᴘʟᴀʏsᴛʏʟᴇ\n⤿ ꜰ1.ʀᴜsᴛɪx.ᴍᴇ:29704 ∫ 193.23.222.15:29704 ⤾", "ping": 221.74459600000773}
+{"ip": "f1.rustix.me", "port": 30100, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 170.22617800012085}
+{"ip": "f1.rustix.me", "port": 30236, "online": 0, "version": "Purpur 1.21.11", "motd": "DeepRun SMP", "ping": 130.86587599991617}
+{"ip": "f1.rustix.me", "port": 30083, "online": 2, "version": "1.20.1", "motd": "БАРАБУЛЬКА", "ping": 184.18672100006006}
+{"ip": "f1.rustix.me", "port": 30656, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 146.32080799992764}
+{"ip": "f1.rustix.me", "port": 29822, "online": 1, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 516.555371000095}
+{"ip": "f1.rustix.me", "port": 31656, "online": 1, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 186.2265289998959}
+{"ip": "f1.rustix.me", "port": 28921, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 1163.220648000106}
+{"ip": "f1.rustix.me", "port": 29380, "online": 0, "version": "ShieldCraft 1.16.5 - latest. NEPEGNIK DIRECTIVES", "motd": "ShieldCraft РАБОТАЕТ\nЗАХОДИ СКОРО БУДЕТ ИВЕНТ", "ping": 1152.1638010001425}
+{"ip": "f1.rustix.me", "port": 29935, "online": 0, "version": "Paper 1.21", "motd": "A Minecraft Server", "ping": 1015.4701300000397}
+{"ip": "f1.rustix.me", "port": 30460, "online": 1, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 898.0613319999975}
+{"ip": "f1.rustix.me", "port": 30952, "online": 5, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 804.396665000013}
+{"ip": "f1.rustix.me", "port": 31545, "online": 1, "version": "Cardboard (PaperMC+Fabric) 1.19.4", "motd": "Tartariae", "ping": 639.3483680001282}
+{"ip": "f1.rustix.me", "port": 31906, "online": 0, "version": "Elytrium", "motd": "◤ ＣＯＩＮＳＭＩＮＥ (1.16+) ☀ ЛЕТНЕЕ ОБНОВЛЕНИЕ ☀ ◥\n◣ ВЫЖИВАНИЕ,ГРИФ,АНАРХИЯ, ➨ БЫЛ ВАЙП ХЗ КОГДА ◥", "ping": 570.5516200000602}
+{"ip": "f1.rustix.me", "port": 30511, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1150.0164819999554}
+{"ip": "f1.rustix.me", "port": 32258, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 656.3754129999779}
+{"ip": "f1.rustix.me", "port": 30830, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 1198.9707820000604}
+{"ip": "f1.rustix.me", "port": 31566, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 957.8377379998528}
+{"ip": "f1.rustix.me", "port": 31130, "online": 0, "version": "26.1.2", "motd": "ONEBLOCK SURVIVAL", "ping": 1164.1619530000753}
+{"ip": "f1.rustix.me", "port": 32285, "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 863.064932999805}
+{"ip": "f1.rustix.me", "port": 32941, "online": 0, "version": "Paper 1.16.5", "motd": "Piwal Smp\n--Smp сервер!                          ((1.16.5-1.21.2))", "ping": 597.7988100000857}
+{"ip": "f1.rustix.me", "port": 32182, "online": 5, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 1045.535620999999}
+{"ip": "f1.rustix.me", "port": 33837, "online": 0, "version": "BungeeCord 1.8.x-1.21.x", "motd": "BungeeServer", "ping": 515.1743159999569}
+{"ip": "f1.rustix.me", "port": 33818, "online": 1, "version": "Spigot 1.21.11", "motd": "A Minecraft Server", "ping": 547.058246000006}
+{"ip": "f1.rustix.me", "port": 31574, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 1368.2031330001792}
+{"ip": "f1.rustix.me", "port": 34633, "online": 3, "version": "Paper 1.12.2", "motd": "ReallyWorld by FrameDev (Ð±ÐµÑÐ¿Ð»Ð°ÑÐ½Ð°Ñ Ð´ÐµÐ¼Ð¾-Ð²ÐµÑÑÐ¸Ñ)", "ping": 410.4776489998585}
+{"ip": "f1.rustix.me", "port": 33956, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 714.7148130000005}
+{"ip": "f1.rustix.me", "port": 36044, "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 1137.1978230001787}
+{"ip": "f1.rustix.me", "port": 35268, "online": 0, "version": "Purpur 1.21.11", "motd": "SanderCraft", "ping": 1429.1221759999644}
+{"ip": "f1.rustix.me", "port": 32859, "online": 0, "version": "Paper 1.16.5", "motd": "", "ping": 2220.4655240000193}
+{"ip": "f1.rustix.me", "port": 34741, "online": 0, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 1576.4993939999385}
+{"ip": "f1.rustix.me", "port": 30066, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "A Velocity Server", "ping": 3199.3210709999857}
+{"ip": "f1.rustix.me", "port": 34991, "online": 3, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1523.512879000009}
+{"ip": "f1.rustix.me", "port": 33358, "online": 1, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 2056.8793029999597}
+{"ip": "f1.rustix.me", "port": 35020, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 1507.4978909999572}
+{"ip": "f1.rustix.me", "port": 34900, "online": 0, "version": "Paper 1.16.5", "motd": "ffd700◤ &#FD4800Ｃ&#FD4800Ｏ&#FD4800Ｉ&#FD4800Ｎ&#FFFFFFＳ&#FFFFFFＭ&#FFFFFFＣ (1.16+) &#FFCF00☀ &#FFD100Л&#FFD200Е&#FFD300Т&#FFD400Н&#FFD500Е&#FFD600Е &#FFD800О&#FFD900Б&#FFDA00Н&#FFDB00О&#FFDC00В&#FFDD00Л&#FFDE00Е&#FFDF00Н&#FFE000И&#FFE100Е &#FFE300☀ &#FFD700◥ &#FFD700◣ &#F8CB0BВ&#F8CE0BЫ&#F8D20BЖ&#F7D50AИ&#F7D90AВ&#F7DC0AА&#F7DF0AН&#F6E309И&#F6E609Е, &#5BF80BГ&#40F70CР&#24F70EИ&#09F60FФ, &#F8150BА&#F8130BН&#F7110AА&#F70F0AР&#F70D0AХ&#F60B09И&#F60909Я, ➨ &#00FFFFБ&#00F9FFЫ&#00F3FFЛ &#00E8FFВ&#00E2FFА&#00DCFFЙ&#00D6FFП &#FFBA003&#FFAB001&#FF9B00.&#FF8C000&#FF7C005 &#FFD700◥", "ping": 1567.1670360000007}
+{"ip": "f1.rustix.me", "port": 35064, "online": 1, "version": "Paper 1.20.4", "motd": "ɢᴜᴀʀᴅx [ 1.8 - 1.21 ]", "ping": 1493.1897260000824}
+{"ip": "f1.rustix.me", "port": 32716, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 2291.0677120000855}
+{"ip": "f1.rustix.me", "port": 35269, "online": 0, "version": "Paper 26.1.1", "motd": "Welcome to LEGACY EMPIRE!", "ping": 1425.460411999893}
+{"ip": "f1.rustix.me", "port": 27061, "online": 0, "version": "Purpur 1.20.1", "motd": "Бета тест", "ping": 2423.1029840000247}
+{"ip": "f1.rustix.me", "port": 36684, "online": 0, "version": "Paper 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 314.34499800002413}
+{"ip": "f1.rustix.me", "port": 36817, "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 523.3349940001517}
+{"ip": "f1.rustix.me", "port": 37013, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 815.9794819998751}
+{"ip": "f1.rustix.me", "port": 38952, "online": 0, "version": "Grief-1 1.16.5", "motd": "", "ping": 147.14558099990427}
+{"ip": "f1.rustix.me", "port": 39439, "online": 1, "version": "Paper 1.18", "motd": "A Minecraft Server", "ping": 124.51259799991021}
+{"ip": "f1.rustix.me", "port": 36276, "online": 1, "version": "Paper 1.21.4", "motd": "", "ping": 1321.5345520000028}
+{"ip": "f1.rustix.me", "port": 37218, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 1361.7259990001003}
+{"ip": "f1.rustix.me", "port": 40728, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 197.9493450000973}
+{"ip": "f1.rustix.me", "port": 38415, "online": 3, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 1164.7644970000783}
+{"ip": "f1.rustix.me", "port": 37734, "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 1363.6892959998477}
+{"ip": "f1.rustix.me", "port": 38375, "online": 0, "version": "Paper 1.16.5", "motd": "NoleStudio", "ping": 1185.7262789999368}
+{"ip": "f1.rustix.me", "port": 40625, "online": 1, "version": "Spigot 1.12.2", "motd": "lobby MasterCraft", "ping": 449.21975300007944}
+{"ip": "f1.rustix.me", "port": 38117, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 1517.868930000077}
+{"ip": "f1.rustix.me", "port": 37894, "online": 0, "version": "Paper 1.21.5", "motd": "can you survive?", "ping": 1720.7335210000565}
+{"ip": "f1.rustix.me", "port": 37769, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1776.0780569999497}
+{"ip": "f1.rustix.me", "port": 40507, "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 865.094173999978}
+{"ip": "f1.rustix.me", "port": 37779, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 1831.588924000016}
+{"ip": "f1.rustix.me", "port": 39047, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 1537.0012949999818}
+{"ip": "f1.rustix.me", "port": 39189, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1682.105743999955}
+{"ip": "f1.rustix.me", "port": 39584, "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 1552.278466999951}
+{"ip": "f1.rustix.me", "port": 39357, "online": 0, "version": "Purpur 26.1.2", "motd": "Shoqqi Kot", "ping": 1756.7573239998637}
+{"ip": "f1.rustix.me", "port": 38213, "online": 0, "version": "SSSpigot 1.16.5", "motd": "RuinWorld", "ping": 2178.6584280000625}
+{"ip": "f1.rustix.me", "port": 39675, "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "Наш сервер Minecraft!", "ping": 1727.8107659999478}
+{"ip": "f1.rustix.me", "port": 39578, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1801.2215670000842}
+{"ip": "f1.rustix.me", "port": 40838, "online": 20, "version": "WibeX 1.12.2-1.21", "motd": "▪   ReidWorld       ▪           ЗАХОДИ НА\n▪ 1.16.5 ▪ 1.21 ▪        ГЛОБАЛЬНЫЙ ЛЕТНИЙ ВАЙП", "ping": 1372.0481709999603}
+{"ip": "f1.rustix.me", "port": 38477, "online": 0, "version": "Paper 1.21.11", "motd": "Ara Armen Miqich Shut Shut Mti Ara", "ping": 3218.069083000046}
+{"ip": "f1.rustix.me", "port": 40256, "online": 0, "version": "Paper 26.1.2", "motd": "Vanilla сервер ", "ping": 2591.28928500013}
+{"ip": "f1.rustix.me", "port": 38279, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 3326.914821999935}
+{"ip": "f1.rustix.me", "port": 40541, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 2524.0109890000895}
+{"ip": "f1.rustix.me", "port": 37580, "online": 0, "version": "Paper 1.21.4", "motd": "Легитный сервер", "ping": 3538.422058999913}
+{"ip": "f1.rustix.me", "port": 40977, "online": 0, "version": "Purpur 1.16.5", "motd": "         ▪ OmniCube.sd ▪ [1.16.5-1.19.4+] ▪\n      #ʙᴇꜱᴛ_ɢʀɪᴇꜰ2025 ▪ Наш ТГК: t.me/SoolarFlux", "ping": 2527.040523999858}
+{"ip": "f1.rustix.me", "port": 38420, "online": 1, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 177.31620500012468}
+{"ip": "f1.rustix.me", "port": 39589, "online": 4, "version": "RANKED 1.21.11", "motd": "                  VanillaRanked\n      EU Central Proxy ● dsc.gg/vanillaranked", "ping": 466.9265490001635}
+{"ip": "f1.rustix.me", "port": 35646, "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 378.7380240000857}
+{"ip": "f1.rustix.me", "port": 40061, "online": 0, "version": "Purpur 1.21.11", "motd": "PastaSMP\nsᴜʀᴠɪᴠᴀʟ", "ping": 951.2157520000528}
+{"ip": "f1.rustix.me", "port": 27456, "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 1419.9089900000672}
+{"ip": "f1.rustix.me", "port": 37577, "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 2544.265959000086}
+{"ip": "d1.rionix.cloud", "port": 25000, "online": 32, "version": "NullCordX 1.16-26.1", "motd": "sᴡᴏʀʟᴅ 1.16.5+ \nᴏᴘ/sᴡᴏʀᴅ ᴘʀᴀᴄᴛɪsᴇ", "ping": 238.37353900012204}
+{"ip": "d1.rionix.cloud", "port": 25019, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 121.19329600000128}
+{"ip": "d1.rionix.cloud", "port": 25001, "online": 1, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 230.02481599996827}
+{"ip": "d1.rionix.cloud", "port": 25008, "online": 0, "version": "AureonMc 1.12.2-1.21.11", "motd": "                       ✦ AUREON ✦\n                HideAndSeek • FFA • ???", "ping": 230.41686000010486}
+{"ip": "d1.rionix.cloud", "port": 25006, "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 243.77710899989324}
+{"ip": "d1.rionix.cloud", "port": 25023, "online": 0, "version": "Youer 1.21.1", "motd": "A Minecraft Server", "ping": 227.30086499996105}
+{"ip": "d1.rionix.cloud", "port": 25027, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 228.53382099992814}
+{"ip": "d1.rionix.cloud", "port": 25025, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 239.16661699990982}
+{"ip": "d1.rionix.cloud", "port": 25024, "online": 20, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 248.20063999982267}
+{"ip": "d1.rionix.cloud", "port": 25035, "online": 0, "version": "Paper 1.21.11", "motd": "A Hardcore Minecraft Server", "ping": 237.37837300018327}
+{"ip": "d1.rionix.cloud", "port": 25040, "online": 0, "version": "mohist 1.20.1", "motd": "Кровавые деньги", "ping": 228.2103370000641}
+{"ip": "d1.rionix.cloud", "port": 25012, "online": 2, "version": "1.21.11", "motd": "STChill - Лучший полу-ванильный сервер!", "ping": 348.6286849999942}
+{"ip": "d1.rionix.cloud", "port": 25036, "online": 49, "version": "ʀɪꜱᴇᴛᴏᴘᴋᴀ ɪɴᴄ 1.21.4", "motd": "IP: MC.RISETOPKA.FUN", "ping": 243.04004300006454}
+{"ip": "d1.rionix.cloud", "port": 25042, "online": 1, "version": "SSSpigot 1.16.5", "motd": "", "ping": 244.04105100006745}
+{"ip": "d1.rionix.cloud", "port": 25044, "online": 1, "version": "1.21.1", "motd": "YopiYoCraft", "ping": 258.9909710000029}
+{"ip": "d1.rionix.cloud", "port": 25046, "online": 1, "version": "SSSpigot 1.16.5", "motd": "A Minecraft Server", "ping": 232.81601600001522}
+{"ip": "d1.rionix.cloud", "port": 25041, "online": 68, "version": "ʀɪꜱᴇᴛᴏᴘᴋᴀ", "motd": "     ✞ ᴍᴄ.ʀɪꜱᴇᴛᴏᴘᴋᴀ.ꜰᴜɴ ▪ 1.16.5-1.21x ▪ ✞ \n   ✞ Сабайтесь на наш тгк ᴛ.ᴍᴇ/ʀɪꜱᴇᴛᴏᴘᴋᴀꜰᴜɴ ✞", "ping": 261.4176619999853}
+{"ip": "d1.rionix.cloud", "port": 25047, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 233.49326800007475}
+{"ip": "d1.rionix.cloud", "port": 25065, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 227.68320499994843}
+{"ip": "d1.rionix.cloud", "port": 25064, "online": 1, "version": "Purpur 26.1.2", "motd": "Ванила", "ping": 240.40579500001513}
+{"ip": "d1.rionix.cloud", "port": 25068, "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 243.26194699983716}
+{"ip": "d1.rionix.cloud", "port": 25049, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 253.9285469999868}
+{"ip": "d1.rionix.cloud", "port": 25094, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 226.22621000004983}
+{"ip": "d1.rionix.cloud", "port": 25063, "online": 0, "version": "Paper 1.21.11", "motd": "Best smp serer", "ping": 256.9518090001566}
+{"ip": "d1.rionix.cloud", "port": 25084, "online": 0, "version": "Purpur 1.21.4", "motd": "One block [1.21.4+]", "ping": 248.57169899996734}
+{"ip": "d1.rionix.cloud", "port": 25091, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 256.45379200000207}
+{"ip": "d1.rionix.cloud", "port": 25099, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 234.08275699989645}
+{"ip": "d1.rionix.cloud", "port": 25108, "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 229.51416499995503}
+{"ip": "d1.rionix.cloud", "port": 25098, "online": 1, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 243.5377110000445}
+{"ip": "d1.rionix.cloud", "port": 25105, "online": 0, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 245.87384200003726}
+{"ip": "d1.rionix.cloud", "port": 25104, "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 256.5142910000304}
+{"ip": "d1.rionix.cloud", "port": 25113, "online": 0, "version": "Leaf 1.21.4", "motd": "LuminaTime", "ping": 239.86800300008326}
+{"ip": "d1.rionix.cloud", "port": 25086, "online": 1, "version": "Paper 26.1.2", "motd": "Лайф Стил 1.21+", "ping": 339.21446699991975}
+{"ip": "d1.rionix.cloud", "port": 25121, "online": 0, "version": "Paper 1.16.5", "motd": "KisuliLove", "ping": 240.74633999998696}
+{"ip": "d1.rionix.cloud", "port": 25112, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "       ʀᴀᴢᴇᴛɪᴍᴇ | 1.16.5+\n  ✦  Глобальное обновление", "ping": 264.5231750000221}
+{"ip": "d1.rionix.cloud", "port": 25130, "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 231.94287000001168}
+{"ip": "d1.rionix.cloud", "port": 25126, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 285.7288690001951}
+{"ip": "d1.rionix.cloud", "port": 25129, "online": 0, "version": "Paper 1.21.11", "motd": "NeonovServer", "ping": 264.73417700003665}
+{"ip": "d1.rionix.cloud", "port": 25136, "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "     🗡 ᴀꜱᴜxɢʀɪᴇꜰ 🏹 | Вайп был 30 мая\n     Подписывайся на тгк: ᴛ.ᴍᴇ/ᴀꜱᴜxɢʀɪᴇꜰ", "ping": 230.62887800006138}
+{"ip": "d1.rionix.cloud", "port": 25137, "online": 0, "version": "SSSpigot 1.16.5", "motd": "lobby", "ping": 226.25415200013776}
+{"ip": "d1.rionix.cloud", "port": 25138, "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 234.7691140000734}
+{"ip": "d1.rionix.cloud", "port": 25140, "online": 0, "version": "1.20.1", "motd": "Добро пожаловать\nэто наш сервер", "ping": 256.66948000002776}
+{"ip": "d1.rionix.cloud", "port": 25142, "online": 0, "version": "Paper 26.1.2", "motd": "Golden Apple Gang", "ping": 257.5164880001921}
+{"ip": "d1.rionix.cloud", "port": 25143, "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 264.0524060000189}
+{"ip": "d1.rionix.cloud", "port": 25157, "online": 0, "version": "1.21.11", "motd": "           Время строить вновь\n            Twitch-телестройка", "ping": 234.5406990000356}
+{"ip": "d1.rionix.cloud", "port": 25209, "online": 0, "version": "Paper 1.21.11", "motd": "FrostSMP 1.16.5-1.21.11 Заходи к нам играть!", "ping": 248.18218499990508}
+{"ip": "d1.rionix.cloud", "port": 25250, "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 259.26584900003036}
+{"ip": "d1.rionix.cloud", "port": 25246, "online": 0, "version": "Paper 1.17.1", "motd": "", "ping": 270.14320300008876}
