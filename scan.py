@@ -10,8 +10,7 @@ async def server_cheсk(ip: str, port: int, semaphore: asyncio.Semaphore, pbar: 
             server = await JavaServer.async_lookup(f"{ip}:{port}")
             status = await server.async_status()
             server_overview = {
-                'ip': ip,
-                "port": port,
+                "addr": f"{ip}:{port}",
                 "online": status.players.online,
                 "version": status.version.name,
                 "motd": re.sub(r'§.', '', status.description),
@@ -36,23 +35,46 @@ async def main():
         '147.185.221.31',
         '147.185.221.30',
         '147.185.221.29',
+
         # after-life.host
         '65.21.24.204',
+
         # gamely.pro
         '213.171.18.225',
+        
         # hosting-minecraft.pro
         'free.joinserver.xyz',
+        
         # rustix.me
         "f1.rustix.me",
+        
         # rionix.cloud
         "d1.rionix.cloud",
+        
         # cloudblaze.org
         "free.cloudblaze.org",
+        
+        # aurorix.net
+        'd1.aurorix.net',
+        'd2.aurorix.net',
+        'd3.aurorix.net',
+        'd4.aurorix.net',
+        'd5.aurorix.net',
+        'f1.aurorix.net',
+        
+        # ngrok
+        "0.tcp.ngrok.io",
+        "1.tcp.ngrok.io",
+        "2.tcp.ngrok.io"
+        "3.tcp.ngrok.io",
+        "4.tcp.ngrok.io",
+        "5.tcp.ngrok.io",
+        "6.tcp.ngrok.io",
 
     ]
     ports = range(1024, 65535)
     
-    semaphore = asyncio.Semaphore(1024)
+    semaphore = asyncio.Semaphore(2048)
 
     with open("servers.jsonl", "w", encoding="utf-8") as f:
         pass
