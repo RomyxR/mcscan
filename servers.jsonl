@@ -1,521 +1,449 @@
-{"addr": "147.185.221.211:7014", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 411.068745999998}
-{"addr": "147.185.221.211:6900", "online": 0, "version": "26.1.2", "motd": "🧶 MraowCraft serer", "ping": 508.8327939999999}
-{"addr": "147.185.221.211:9742", "online": 0, "version": "1.21.9", "motd": "Chickussy MC", "ping": 383.5919280000013}
-{"addr": "147.185.221.211:9710", "online": 0, "version": "Paper 1.21.10", "motd": "OFFICIAL COBALT MINECRAFT SERVER\nNow 1.21.10 and better than ever!", "ping": 462.52304900000496}
-{"addr": "147.185.221.211:10224", "online": 0, "version": "Paper 1.21.8", "motd": "mc4map.001066.xyz", "ping": 568.4256010000013}
-{"addr": "147.185.221.211:10773", "online": 0, "version": "Paper 26.2", "motd": "Eski's Community Server!", "ping": 385.4472359999974}
-{"addr": "147.185.221.211:14017", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 450.0697819999999}
-{"addr": "147.185.221.211:14517", "online": 1, "version": "1.21.1", "motd": "AX61 Survival SMP\nGenre Mix Modpack", "ping": 661.0777590000012}
-{"addr": "147.185.221.211:22275", "online": 0, "version": "Paper 26.1.2", "motd": "                  |    ɢʀᴏᴍʙᴅᴏʀ    |\n                  |   + ғᴀʀᴛᴏᴘɪᴀ     |", "ping": 468.78993700001104}
-{"addr": "147.185.221.211:24729", "online": 0, "version": "1.21.9", "motd": "Sams really cool server", "ping": 95.97283700000503}
-{"addr": "147.185.221.211:29662", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "⎇ The Nylium Network ⎇\n⎇ An Alterhuman Technology Group ⎇", "ping": 388.2718619999963}
-{"addr": "147.185.221.211:29670", "online": 0, "version": "Paper 1.21.8", "motd": "MondarizCraft - ¡Faro de Avión!", "ping": 405.63328599999693}
-{"addr": "147.185.221.211:30795", "online": 1, "version": "forge arclight/Trials 1.20.1", "motd": "What is happening now?", "ping": 735.1689760000113}
-{"addr": "147.185.221.211:33310", "online": 0, "version": "26.1.2", "motd": "Multiple Men, One Goal, The Hole", "ping": 468.5533979999974}
-{"addr": "147.185.221.211:35457", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 493.0502590000003}
-{"addr": "147.185.221.211:41580", "online": 0, "version": "26.3 Snapshot 1", "motd": "A Minecraft Server", "ping": 482.69265899999425}
-{"addr": "147.185.221.211:49275", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 535.2794140000015}
-{"addr": "147.185.221.211:56251", "online": 0, "version": "1.21.1", "motd": "Cobbleverse Server", "ping": 1167.813260999992}
-{"addr": "147.185.221.211:60885", "online": 0, "version": "26.1.2", "motd": "Yoylo n friends", "ping": 462.84805499999493}
-{"addr": "147.185.221.211:61539", "online": 0, "version": "Paper 1.21.11", "motd": "The_Dankus Minecraft Server ( with voice chat included )", "ping": 570.7170990000066}
-{"addr": "147.185.221.211:62564", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 483.20339899999}
-{"addr": "147.185.221.211:62569", "online": 7, "version": "Paper 1.21.11", "motd": "                         Welcome to...\n                        Dividing Lines", "ping": 515.0503909999884}
-{"addr": "147.185.221.211:64603", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 449.71966100001737}
-{"addr": "147.185.221.223:1947", "online": 0, "version": "Paper 1.21.11", "motd": "GolemCraft\n", "ping": 526.4135140000121}
-{"addr": "147.185.221.223:3448", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 616.5445229999875}
-{"addr": "147.185.221.223:8557", "online": 0, "version": "Paper 1.21.10", "motd": "Siscraft\n Welcome to the Siscon Empire", "ping": 393.5622129999956}
-{"addr": "147.185.221.223:12594", "online": 420, "version": "Velocity 1.7.2-1.21.11", "motd": "                           WrongSMP\n              Survival Multiplayer", "ping": 520.7454060000032}
-{"addr": "147.185.221.223:14099", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "A Velocity Server", "ping": 374.0250689999982}
-{"addr": "147.185.221.223:18120", "online": 0, "version": "Paper 1.21.11", "motd": "8.a minecraft server", "ping": 461.93912799998316}
-{"addr": "147.185.221.223:22274", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 536.8239270000004}
-{"addr": "147.185.221.223:27928", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 948.0611840000108}
-{"addr": "147.185.221.223:32379", "online": 1, "version": "1.21.1", "motd": "Cobblemon for friends! Happy pride! (every month is pride month when you're queer >:3)", "ping": 2006.790897000002}
-{"addr": "147.185.221.223:36246", "online": 0, "version": "1.21.1", "motd": "Gooses MC Server :D", "ping": 440.3374190000022}
-{"addr": "147.185.221.223:36622", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 1206.8444049999982}
-{"addr": "147.185.221.223:43303", "online": 0, "version": "Paper 26.1.2", "motd": "Welcome!", "ping": 365.55673600000205}
-{"addr": "147.185.221.223:43134", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 578.7289730000111}
-{"addr": "147.185.221.223:45629", "online": 0, "version": "DivineMC 1.21.10", "motd": "TRIARTS alpha stage", "ping": 885.3982500000086}
-{"addr": "147.185.221.223:48810", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 590.1019830000109}
-{"addr": "147.185.221.223:48962", "online": 0, "version": "1.21.11", "motd": "Unofficial OPUS server", "ping": 593.9519329999996}
-{"addr": "147.185.221.223:54071", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 393.6321270000178}
-{"addr": "147.185.221.223:56881", "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 569.7923419999995}
-{"addr": "147.185.221.223:62827", "online": 0, "version": "1.21.11", "motd": "Frag nicht was für Saft", "ping": 580.3660459999946}
-{"addr": "147.185.221.31:4948", "online": 0, "version": "26.1.2", "motd": "Nezumi Server", "ping": 489.2572370000039}
-{"addr": "147.185.221.31:5753", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 393.7463419999858}
-{"addr": "147.185.221.31:5712", "online": 0, "version": "1.21.10", "motd": "Gwen's Pack Server", "ping": 411.21384000001626}
-{"addr": "147.185.221.31:6335", "online": 0, "version": "Paper 1.21.8", "motd": "Kringlen and LAVA's Masterpiece", "ping": 387.4376469999845}
-{"addr": "147.185.221.31:18573", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 350.08795599998166}
-{"addr": "147.185.221.31:18636", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 620.587506999982}
-{"addr": "147.185.221.31:22368", "online": 0, "version": "26.2", "motd": "who up gobinday yoga rn", "ping": 355.06054399996856}
-{"addr": "147.185.221.31:26499", "online": 2, "version": "Paper 26.1.2", "motd": " A Zombie Pigman Broke My Door | NO HACKS", "ping": 974.2533710000316}
-{"addr": "147.185.221.31:29299", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "77 Welcome to Camiverse | Come have fun! 77", "ping": 635.0454199999831}
-{"addr": "147.185.221.31:30904", "online": 0, "version": "26.1.2", "motd": "taj1994 All the Mods", "ping": 805.8566010000163}
-{"addr": "147.185.221.31:31976", "online": 0, "version": "26.1.2", "motd": "Powered by AMP", "ping": 605.1534250000259}
-{"addr": "147.185.221.31:35776", "online": 1, "version": "26.2", "motd": "A Minecraft Server", "ping": 655.8811569999534}
-{"addr": "147.185.221.31:39915", "online": 0, "version": "Paper 1.21.8", "motd": "Wellcome to ProLand SMP", "ping": 684.3209340000271}
-{"addr": "147.185.221.31:41855", "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 609.5055669999851}
-{"addr": "147.185.221.31:44016", "online": 0, "version": "Purpur 26.1.2", "motd": "A Kaos Minecraft Server", "ping": 400.18231500005186}
-{"addr": "147.185.221.31:44798", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 398.90118699997856}
-{"addr": "147.185.221.31:44896", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 400.74856799998315}
-{"addr": "147.185.221.31:46644", "online": 1, "version": "26.2", "motd": "Under New Management", "ping": 544.3263919999595}
-{"addr": "147.185.221.31:47134", "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 539.6693259999665}
-{"addr": "147.185.221.31:47173", "online": 3, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 632.6056460000018}
-{"addr": "147.185.221.31:49794", "online": 0, "version": "26.2", "motd": "The land of Bruutis the wise, pinkest of them all. Sacrifices must be made to appease the lord", "ping": 841.190116000007}
-{"addr": "147.185.221.31:50309", "online": 0, "version": "1.21.1", "motd": "ENSR Puros Modded", "ping": 837.67638300003}
-{"addr": "147.185.221.31:54566", "online": 0, "version": "Paper 26.1.2", "motd": "             Nowhere [26.1.2]\n             ☆ Disfruta del servidor ☆", "ping": 755.2518900000109}
-{"addr": "147.185.221.31:54782", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 563.2348550000188}
-{"addr": "147.185.221.31:56196", "online": 0, "version": "Paper 26.1.2", "motd": "JujuLandia | Creative", "ping": 381.11920599999394}
-{"addr": "147.185.221.31:56197", "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to JujuLandia2", "ping": 381.3827980000042}
-{"addr": "147.185.221.31:57955", "online": 0, "version": "1.21.10", "motd": "The Superplebs TrueNAS Experience", "ping": 624.12810699999}
-{"addr": "147.185.221.31:58060", "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 728.9333669999678}
-{"addr": "147.185.221.31:59543", "online": 0, "version": "neoforge arclight/FeudalKings 1.21.1", "motd": "ASQN Minecraft SMP", "ping": 651.0474130000148}
-{"addr": "147.185.221.31:59234", "online": 0, "version": "1.12.2", "motd": "Powered by AMP", "ping": 773.689413999989}
-{"addr": "147.185.221.31:61371", "online": 2, "version": "26.2", "motd": "THE TOWN OF OYSTER BAY MINECRAFT SERVER!!", "ping": 453.949496000007}
-{"addr": "147.185.221.31:61905", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "   CosmosCraft Universe ~ wonderful edition   \n            CNU     always up to date     CNU            ", "ping": 451.5959269999712}
-{"addr": "147.185.221.31:62678", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 503.5197909999738}
-{"addr": "147.185.221.31:63013", "online": 0, "version": "Paper 1.21.3", "motd": "A Minecraft Server", "ping": 390.5512660000454}
-{"addr": "147.185.221.31:63383", "online": 5, "version": "Paper 1.21.5", "motd": "A Minecraft Server", "ping": 377.2515929999827}
-{"addr": "147.185.221.31:63627", "online": 0, "version": "1.20.2", "motd": "A Minecraft Server", "ping": 467.1468359999835}
-{"addr": "147.185.221.31:64536", "online": 0, "version": "Paper 1.20.6", "motd": "ARISE MInecraft Server", "ping": 706.8598679999809}
-{"addr": "147.185.221.30:1721", "online": 0, "version": "26.1.2", "motd": "26.1 ready!\nnew experiences!", "ping": 465.365337000037}
-{"addr": "147.185.221.30:2763", "online": 2, "version": "1.18.2", "motd": "Matthew is gay AF", "ping": 1097.7249939999751}
-{"addr": "147.185.221.30:13175", "online": 0, "version": "1.21.11", "motd": "Have a blast", "ping": 648.5426469999993}
-{"addr": "147.185.221.30:22875", "online": 0, "version": "1.21.1", "motd": "ANVIL AND HAMMER SMP | ATMS 10 | Mystical Agriculture | Create+ | Updates Weekly/Backups Daily @5 a.m. CST", "ping": 508.3641290000287}
-{"addr": "147.185.221.30:25979", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 487.85533599999553}
-{"addr": "147.185.221.30:27014", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 467.52405400002317}
-{"addr": "147.185.221.30:28650", "online": 4, "version": "1.12.2", "motd": "EvriDeykaWTF - Hotel", "ping": 608.5152990000324}
-{"addr": "147.185.221.30:29544", "online": 0, "version": "Paper 1.21.1", "motd": "A CushCraft Server", "ping": 478.8261200000079}
-{"addr": "147.185.221.30:33095", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 530.7266129999562}
-{"addr": "147.185.221.30:34161", "online": 0, "version": "1.20.4", "motd": "NerdLand", "ping": 705.5690739999818}
-{"addr": "147.185.221.30:34679", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 753.3241139999518}
-{"addr": "147.185.221.30:37438", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1371.559576999971}
-{"addr": "147.185.221.30:38690", "online": 0, "version": "26.2", "motd": "maxxdabos the goat??!", "ping": 505.27643399999533}
-{"addr": "147.185.221.30:40121", "online": 3, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 402.98025399999915}
-{"addr": "147.185.221.30:40351", "online": 0, "version": "Paper 1.21.10", "motd": "                         ⬞ɢᴏᴏʟᴏʀᴘ⬞\n                           ⬞ᴄʀᴀꜰᴛ⬞   ", "ping": 466.37211899997055}
-{"addr": "147.185.221.30:41864", "online": 0, "version": "Paper 1.21.11", "motd": "                      ʜᴀʟᴠᴇʀ ʙᴜɴ᾽ѕ\n                           ᴀɴᴅ ᴄᴏ.", "ping": 608.2325130000186}
-{"addr": "147.185.221.30:43437", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 748.2875310000168}
-{"addr": "147.185.221.30:46430", "online": 0, "version": "1.20.1", "motd": "(t server)^13 [TerraFirmaGreg-Modern] 0.11.27", "ping": 498.5956240000178}
-{"addr": "147.185.221.30:47024", "online": 17, "version": "Velocity 1.7.2-26.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 473.1905310000002}
-{"addr": "147.185.221.30:47321", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 444.7198299999968}
-{"addr": "147.185.221.30:49409", "online": 0, "version": "Paper 1.21.11", "motd": "The Brownest of Bricks", "ping": 530.6781240000191}
-{"addr": "147.185.221.30:50630", "online": 0, "version": "1.21.1", "motd": "Welcome to the Crumple Zone Cobblemon+ server!", "ping": 414.3647089999831}
-{"addr": "147.185.221.30:63664", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 372.43324900003927}
-{"addr": "147.185.221.29:11448", "online": 0, "version": "Spigot 26.2", "motd": "Welcome to the Team Proteus Server!", "ping": 407.11531499999865}
-{"addr": "147.185.221.29:13884", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 689.8826949999943}
-{"addr": "147.185.221.29:20916", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 600.860603000001}
-{"addr": "147.185.221.29:32511", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 394.1255930000125}
-{"addr": "147.185.221.29:39428", "online": 0, "version": "1.20.1", "motd": "World Nobu", "ping": 944.8447309999892}
-{"addr": "147.185.221.29:42534", "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 438.7680889999501}
-{"addr": "147.185.221.29:55426", "online": 0, "version": "1.21.1", "motd": "", "ping": 705.3740220000009}
-{"addr": "147.185.221.29:56876", "online": 0, "version": "Paper 1.21.11", "motd": "Join Rags MC with crossplay.midnight-tech.cc", "ping": 659.9388010000098}
-{"addr": "147.185.221.29:59525", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "MaCraftKanSMP - Chill, Build, Survive! Play Anywhere!", "ping": 839.7504839999783}
-{"addr": "147.185.221.29:63526", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 683.6386109999921}
-{"addr": "147.185.221.29:64730", "online": 18, "version": "Velocity 1.7.2-26.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 592.4510660000237}
-{"addr": "147.185.221.29:65000", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "cinnamon_Minecraft_Server!\nVersion 1.7 ~ 26.2", "ping": 932.419818000028}
-{"addr": "65.21.24.204:25587", "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 337.9506070000389}
-{"addr": "65.21.24.204:25630", "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 334.35722499996245}
-{"addr": "65.21.24.204:25793", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 323.65676599999915}
-{"addr": "65.21.24.204:25821", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 337.600043000009}
-{"addr": "65.21.24.204:25634", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 443.35704200000237}
-{"addr": "65.21.24.204:25621", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 453.5018920000198}
-{"addr": "65.21.24.204:25643", "online": 0, "version": "Paper 1.18.2", "motd": "A Minecraft Server", "ping": 469.4675150000194}
-{"addr": "65.21.24.204:25591", "online": 0, "version": "1.21.4", "motd": "         enragemc | бета тест! 1.21x\n           ▪ Сайт: enragemc.trademc.org", "ping": 473.26116300001786}
-{"addr": "65.21.24.204:25782", "online": 2, "version": "Purpur 1.21.11", "motd": "CubeChan Eternal", "ping": 463.90805100003263}
-{"addr": "65.21.24.204:25600", "online": 3, "version": "26.1.2", "motd": "Присоединяйся и наслаждайся уникальным опытом игры!", "ping": 473.30907100001696}
-{"addr": "65.21.24.204:25670", "online": 1, "version": "1.20.1", "motd": "Prominence II RPG · Hasturian Era · RU", "ping": 467.04998899997463}
-{"addr": "65.21.24.204:25728", "online": 5, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 463.4017949999816}
-{"addr": "65.21.24.204:25765", "online": 2, "version": "1.21.8", "motd": "✿ BunnySMP ✿\n  Приватный сервер друзей • Выживание", "ping": 464.09407800001645}
-{"addr": "65.21.24.204:25726", "online": 2, "version": "Paper 1.21.11", "motd": "☠ MriyaCraft ☠   Жорстока Анархія\n★ 1.21+   виживай та пануй!", "ping": 466.0807589999649}
-{"addr": "65.21.24.204:25777", "online": 0, "version": "Spigot 1.18.2", "motd": "⚔️RevegeMine⚔️ ЗАХОДИ ТУТ ВЕСЕЛО!", "ping": 463.6821379999674}
-{"addr": "65.21.24.204:25766", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 464.53986000000214}
-{"addr": "65.21.24.204:25748", "online": 0, "version": "Paper 1.21.4", "motd": "                  ✦ ʟᴜɴᴀᴄʏꜱᴛᴜᴅɪᴏ ✦\n        ⁘ ʙᴇᴛᴀ-ᴛᴇꜱᴛ • ᴛ.ᴍᴇ/ʟᴜɴᴀᴄʏ_ꜱᴛᴜᴅɪᴏ ⁘", "ping": 482.9982610000343}
-{"addr": "65.21.24.204:25843", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 499.6440849999999}
-{"addr": "65.21.24.204:25841", "online": 1, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 499.2596260000255}
-{"addr": "65.21.24.204:25833", "online": 0, "version": "26.1.2", "motd": "Наше ванильное выживание", "ping": 499.5851040000048}
-{"addr": "65.21.24.204:25627", "online": 1, "version": "Leaf 1.21.11", "motd": "          KrakenMC • Версия [1.21.11]\n           ◄ САЙТ - krakenmc.ru - ►", "ping": 529.563665000012}
-{"addr": "65.21.24.204:25923", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 495.5603160000237}
-{"addr": "65.21.24.204:25828", "online": 0, "version": "1.21.11", "motd": "ЖИРИНОВСКИЙ ЗА МАЙНКРАФТ", "ping": 497.6994429999877}
-{"addr": "65.21.24.204:25950", "online": 0, "version": "1.21.1", "motd": "", "ping": 492.07755999998426}
-{"addr": "65.21.24.204:25952", "online": 0, "version": "Paper 1.21.1", "motd": "-----------[ ProCraft ]-----------\n1.18.2 - 1.21.1    Выживание      PVP", "ping": 485.2138800000034}
-{"addr": "65.21.24.204:25776", "online": 4, "version": "1.7.10", "motd": "GT:New Horizons 2.8.4", "ping": 595.0817110000344}
-{"addr": "65.21.24.204:25651", "online": 3, "version": "Paper 1.21.11", "motd": "ТЕСТ ВЕЛИКОГО ГОРОДА ДОЛБАЁБУРГ", "ping": 600.4982690000134}
-{"addr": "213.171.18.225:30027", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 152.44313100004092}
-{"addr": "213.171.18.225:30019", "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 158.10567799996988}
-{"addr": "213.171.18.225:30005", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 157.47401800001626}
-{"addr": "213.171.18.225:30029", "online": 0, "version": "1.20.1", "motd": "бубубу и бебебе", "ping": 159.55894299997908}
-{"addr": "213.171.18.225:30026", "online": 1, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 160.36909599995397}
-{"addr": "213.171.18.225:30008", "online": 0, "version": "Paper 1.21.8", "motd": "Добро пожаловать на сервер сиксевен абаюнда тралалело тралала газан", "ping": 160.79378999995697}
-{"addr": "213.171.18.225:30021", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 159.99701199996252}
-{"addr": "213.171.18.225:30060", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 160.70665699999154}
-{"addr": "213.171.18.225:30011", "online": 1, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 164.5122759999822}
-{"addr": "213.171.18.225:30001", "online": 1, "version": "Paper 1.21.11", "motd": "EtermetialSMP", "ping": 164.86810100002458}
-{"addr": "213.171.18.225:30003", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 165.24819100004606}
-{"addr": "213.171.18.225:30028", "online": 0, "version": "1.21.4", "motd": "У нас дружелюбное сообщество - будь вежлив и уважай других!", "ping": 165.3984010000613}
-{"addr": "213.171.18.225:30018", "online": 0, "version": "fabric arclight/FeudalKings 1.21.1", "motd": "| Welcome to Cobblemon\n| v.0.1 ➱ A new start", "ping": 240.18952500000523}
-{"addr": "213.171.18.225:30002", "online": 0, "version": "Purpur 1.21", "motd": "MessNight ┃ [1.21+] — Стань легендой этого мира!\n⚔ Рейды | Анархия | Выживание | Экономика", "ping": 243.3884899999157}
-{"addr": "213.171.18.225:31129", "online": 0, "version": "Paper 26.2", "motd": "Siberiatown", "ping": 120.2829459999748}
-{"addr": "213.171.18.225:31012", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 120.0720019999153}
-{"addr": "213.171.18.225:31090", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 120.78640600009294}
-{"addr": "213.171.18.225:31009", "online": 0, "version": "1.21.7", "motd": "\"ПОЛЕ\" / Сервер СТРИМЕРОВ", "ping": 123.07856800009631}
-{"addr": "213.171.18.225:31573", "online": 0, "version": "Paper 26.2", "motd": "1`111111111111111111", "ping": 119.78983400001653}
-{"addr": "213.171.18.225:31407", "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 120.25334000009025}
-{"addr": "213.171.18.225:31459", "online": 1, "version": "Velocity 1.7.2-26.2", "motd": "                 Lamp39 | 26.1.X\n              Присоединяйся к нам!", "ping": 121.2522060000083}
-{"addr": "213.171.18.225:31514", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 122.5071689999595}
-{"addr": "213.171.18.225:31292", "online": 0, "version": "Paper 1.21.1", "motd": "A Minecraft Server", "ping": 122.04415500002597}
-{"addr": "213.171.18.225:31026", "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 244.80195099999946}
-{"addr": "213.171.18.225:31654", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 172.75606400005472}
-{"addr": "213.171.18.225:31692", "online": 0, "version": "Paper 26.1.2", "motd": "Server мужиков", "ping": 239.78864699995484}
-{"addr": "213.171.18.225:31962", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 120.38235900001837}
-{"addr": "213.171.18.225:32090", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 122.74514199998521}
-{"addr": "213.171.18.225:32114", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 123.68531799995708}
-{"addr": "213.171.18.225:32258", "online": 0, "version": "1.21.1", "motd": "LARP", "ping": 126.25121199994283}
-{"addr": "213.171.18.225:32433", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 119.96808599997166}
-{"addr": "213.171.18.225:32427", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 125.72946800003137}
-{"addr": "213.171.18.225:32483", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 125.21334399991702}
-{"addr": "213.171.18.225:32326", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 125.76341100009358}
-{"addr": "213.171.18.225:32473", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 126.41092100000151}
-{"addr": "213.171.18.225:32484", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 128.63668900001812}
-{"addr": "213.171.18.225:32496", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 241.1981289999403}
-{"addr": "213.171.18.225:32692", "online": 2, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 119.98282299998664}
-{"addr": "213.171.18.225:32967", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 119.87257700002374}
-{"addr": "213.171.18.225:32941", "online": 3, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 120.95511999996233}
-{"addr": "213.171.18.225:32920", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 121.31509300002108}
-{"addr": "213.171.18.225:32909", "online": 3, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 121.95550799992816}
-{"addr": "213.171.18.225:32714", "online": 0, "version": "1.21.8", "motd": "GoidaCraft", "ping": 244.97459300005175}
-{"addr": "213.171.18.225:33001", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 120.7033790000196}
-{"addr": "213.171.18.225:32603", "online": 0, "version": "1.21.1", "motd": "Server is Online!", "ping": 363.51369700003033}
-{"addr": "213.171.18.225:32868", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 243.5282000000143}
-{"addr": "213.171.18.225:32994", "online": 0, "version": "1.16.5", "motd": "R.A.D. 2 Server", "ping": 274.25477799999953}
-{"addr": "free.joinserver.xyz:25575", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 187.08940600004098}
-{"addr": "free.joinserver.xyz:25615", "online": 0, "version": "1.21.6", "motd": "A Minecraft Server", "ping": 201.6467850000936}
-{"addr": "free.joinserver.xyz:25631", "online": 0, "version": "Purpur 1.21.4", "motd": "", "ping": 192.74546899998768}
-{"addr": "free.joinserver.xyz:25602", "online": 0, "version": "1.20.1", "motd": "[TerraFirmaGreg-Modern] Server 0.13.1", "ping": 233.67303800000627}
-{"addr": "free.joinserver.xyz:25656", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 216.0519959999192}
-{"addr": "free.joinserver.xyz:25627", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 270.2184039999338}
-{"addr": "free.joinserver.xyz:25630", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 268.45382899989545}
-{"addr": "free.joinserver.xyz:25646", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 261.9987299999593}
-{"addr": "free.joinserver.xyz:25642", "online": 0, "version": "Paper 1.21.4", "motd": "   ✞ FTime ✞    Идеальные режимы\n✿ 1.8 – 1.21.x ✿ Для тебя и друзей!", "ping": 276.2429379999958}
-{"addr": "free.joinserver.xyz:25677", "online": 3, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 279.4309930000054}
-{"addr": "free.joinserver.xyz:25695", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 271.5579980000484}
-{"addr": "free.joinserver.xyz:25799", "online": 0, "version": "Leaf 1.21.4", "motd": "", "ping": 233.3656289999908}
-{"addr": "free.joinserver.xyz:25776", "online": 0, "version": "Paper 1.20.4", "motd": "Guten Morgen", "ping": 234.16940099991734}
-{"addr": "free.joinserver.xyz:25692", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 294.6105620000026}
-{"addr": "free.joinserver.xyz:25813", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 245.50043599992932}
-{"addr": "free.joinserver.xyz:25721", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 301.1126949999152}
-{"addr": "free.joinserver.xyz:25724", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 301.43939599997793}
-{"addr": "free.joinserver.xyz:25754", "online": 0, "version": "Spigot 26.1.2", "motd": "A Minecraft Server", "ping": 302.51287900000534}
-{"addr": "free.joinserver.xyz:25753", "online": 1, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 302.4797439999247}
-{"addr": "free.joinserver.xyz:25763", "online": 0, "version": "Paper 1.21.11", "motd": "❄ FrozLord ❄ - 1.21.11\nХолодная анархия для тебя и друзей</gradient", "ping": 301.54129999993984}
-{"addr": "free.joinserver.xyz:25859", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 259.496213000034}
-{"addr": "free.joinserver.xyz:25897", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 257.0352530000264}
-{"addr": "free.joinserver.xyz:25878", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 257.7140820000068}
-{"addr": "free.joinserver.xyz:25867", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 258.55411199995615}
-{"addr": "free.joinserver.xyz:25876", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 257.7151739999408}
-{"addr": "free.joinserver.xyz:25793", "online": 0, "version": "1.7.10", "motd": "A Minecraft Server", "ping": 308.2134250000763}
-{"addr": "free.joinserver.xyz:25984", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 241.0471860000598}
-{"addr": "free.joinserver.xyz:25971", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 242.6161979999506}
-{"addr": "free.joinserver.xyz:25854", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 312.42593199999646}
-{"addr": "free.joinserver.xyz:25938", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 291.95691699999315}
-{"addr": "free.joinserver.xyz:25932", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 290.4429269999582}
-{"addr": "free.joinserver.xyz:25949", "online": 0, "version": "Purpur 26.2", "motd": "A Minecraft Server", "ping": 289.7965889999341}
-{"addr": "free.joinserver.xyz:25995", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 293.84552100009387}
-{"addr": "free.joinserver.xyz:25669", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 447.091948000093}
-{"addr": "free.joinserver.xyz:25977", "online": 0, "version": "1.19.2", "motd": "MainDeath", "ping": 365.89143600008356}
-{"addr": "f1.rustix.me:25231", "online": 1, "version": "Velocity 1.16.5", "motd": "A Minecraft Server", "ping": 119.84927899993636}
-{"addr": "f1.rustix.me:25163", "online": 0, "version": "PaperSpigot 1.7.10", "motd": "| Foxo Station - our beloved community server | \nI'm Here Too!", "ping": 191.00566400004482}
-{"addr": "f1.rustix.me:25572", "online": 0, "version": "Paper 1.21.11", "motd": "Test", "ping": 263.6806309999429}
-{"addr": "f1.rustix.me:25762", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 206.72221300003457}
-{"addr": "f1.rustix.me:25510", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 458.5882709999396}
-{"addr": "f1.rustix.me:25694", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 461.91817200008245}
-{"addr": "f1.rustix.me:26196", "online": 0, "version": "Paper 1.16.5", "motd": "lobby", "ping": 3421.975153000062}
-{"addr": "f1.rustix.me:26294", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 3501.2406320000764}
-{"addr": "f1.rustix.me:29822", "online": 1, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 185.2696680000463}
-{"addr": "f1.rustix.me:30236", "online": 0, "version": "Purpur 1.21.11", "motd": "DeepRun SMP", "ping": 137.52590699994016}
-{"addr": "f1.rustix.me:29807", "online": 0, "version": "Paper 1.12.2", "motd": "mcdev.su - Grief V11", "ping": 343.2864700000664}
-{"addr": "f1.rustix.me:30100", "online": 0, "version": "Paper 1.12.2", "motd": "", "ping": 330.4698059999964}
-{"addr": "f1.rustix.me:30952", "online": 5, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 289.6122330000708}
-{"addr": "f1.rustix.me:30604", "online": 0, "version": "Paper 1.16.5", "motd": "✙ FoxWorld ✙   Превoсходный режим   \n✩ 1.18 - 1.16.5 ✩     для твоей души!", "ping": 449.5538099999976}
-{"addr": "f1.rustix.me:31545", "online": 0, "version": "Cardboard (PaperMC+Fabric) 1.19.4", "motd": "Tartariae", "ping": 243.3034250000219}
-{"addr": "f1.rustix.me:31566", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 364.5449839999628}
-{"addr": "f1.rustix.me:31996", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 239.27460600009454}
-{"addr": "f1.rustix.me:31906", "online": 0, "version": "Elytrium", "motd": "◤ ＣＯＩＮＳＭＩＮＥ (1.16+) ☀ ЛЕТНЕЕ ОБНОВЛЕНИЕ ☀ ◥\n◣ ВЫЖИВАНИЕ,ГРИФ,АНАРХИЯ, ➨ БЫЛ ВАЙП ХЗ КОГДА ◥", "ping": 273.9382490000253}
-{"addr": "f1.rustix.me:32526", "online": 0, "version": "Spigot 26.2", "motd": "Здесь ванильное выживание\nВнимание! переход на 26.2", "ping": 193.0198019999807}
-{"addr": "f1.rustix.me:31770", "online": 0, "version": "SSSpigot 1.16.5", "motd": "TegWorldÂ ÂÐÐÐÐÐÐÐ¬ÐÐÐ¯ Ð ÐÐÐÐÐ Â1.16.5 Â| Â1.21.9 ÂÂ/CODE VIPE BCEM", "ping": 451.35556499997165}
-{"addr": "f1.rustix.me:31890", "online": 0, "version": "Purpur 1.16.5", "motd": "", "ping": 484.28030299999136}
-{"addr": "f1.rustix.me:33374", "online": 0, "version": "Paper 1.17", "motd": "⚡ SoizyFun ⚡ Анархия • Киты • Ивенты • 1.17 • Сервер для Тебя  и твоих Друзей!", "ping": 211.87462999989748}
-{"addr": "f1.rustix.me:32182", "online": 2, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 787.2135820000494}
-{"addr": "f1.rustix.me:33640", "online": 1, "version": "Spigot 1.21.11", "motd": "A Minecraft Server", "ping": 370.951247999983}
-{"addr": "f1.rustix.me:32786", "online": 0, "version": "1.21.4", "motd": "My SMP Server", "ping": 774.7961540000006}
-{"addr": "f1.rustix.me:34997", "online": 0, "version": "§6§l▶ NeverMine §f 1.16.5", "motd": "", "ping": 176.15774799992323}
-{"addr": "f1.rustix.me:33358", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 730.1156230000743}
-{"addr": "f1.rustix.me:33715", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 620.9414429999924}
-{"addr": "f1.rustix.me:33549", "online": 0, "version": "Purpur 1.20.1", "motd": "", "ping": 722.8639349999639}
-{"addr": "f1.rustix.me:34650", "online": 0, "version": "1.20.1", "motd": "67", "ping": 406.86772399999427}
-{"addr": "f1.rustix.me:34903", "online": 0, "version": "Paper 1.19.4", "motd": "       🌊 ▸ NexusBuild ◂ | [1.19.4] 🌊\n      t.me/NexusPerehodnikk", "ping": 376.47790400001213}
-{"addr": "f1.rustix.me:35268", "online": 0, "version": "Paper 1.21.1", "motd": "SanderCraft", "ping": 280.6680999999571}
-{"addr": "f1.rustix.me:32147", "online": 0, "version": "Paper 1.21.11", "motd": "ВАНИЛЬНЫЙ СЕРВЕР БЕЗ ГРИФА!", "ping": 1348.2394029999796}
-{"addr": "f1.rustix.me:34953", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 438.4134780000295}
-{"addr": "f1.rustix.me:35026", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 397.8765140000178}
-{"addr": "f1.rustix.me:33461", "online": 0, "version": "Purpur 1.21.11", "motd": "Худший SMP для игры с друзьями", "ping": 918.7146739999434}
-{"addr": "f1.rustix.me:34992", "online": 0, "version": "Purpur 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 425.1794640000526}
-{"addr": "f1.rustix.me:34236", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 657.3317209999914}
-{"addr": "f1.rustix.me:34900", "online": 0, "version": "Paper 1.16.5", "motd": "ffd700◤ &#FD4800Ｃ&#FD4800Ｏ&#FD4800Ｉ&#FD4800Ｎ&#FFFFFFＳ&#FFFFFFＭ&#FFFFFFＣ (1.16+) &#FFCF00☀ &#FFD100Л&#FFD200Е&#FFD300Т&#FFD400Н&#FFD500Е&#FFD600Е &#FFD800О&#FFD900Б&#FFDA00Н&#FFDB00О&#FFDC00В&#FFDD00Л&#FFDE00Е&#FFDF00Н&#FFE000И&#FFE100Е &#FFE300☀ &#FFD700◥ &#FFD700◣ &#F8CB0BВ&#F8CE0BЫ&#F8D20BЖ&#F7D50AИ&#F7D90AВ&#F7DC0AА&#F7DF0AН&#F6E309И&#F6E609Е, &#5BF80BГ&#40F70CР&#24F70EИ&#09F60FФ, &#F8150BА&#F8130BН&#F7110AА&#F70F0AР&#F70D0AХ&#F60B09И&#F60909Я, ➨ &#00FFFFБ&#00F9FFЫ&#00F3FFЛ &#00E8FFВ&#00E2FFА&#00DCFFЙ&#00D6FFП &#FFBA003&#FFAB001&#FF9B00.&#FF8C000&#FF7C005 &#FFD700◥", "ping": 489.4249149999723}
-{"addr": "f1.rustix.me:35153", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 377.0056329999534}
-{"addr": "f1.rustix.me:35185", "online": 0, "version": "1.21.11", "motd": "Сервак Sar1Xs", "ping": 450.76735800000733}
-{"addr": "f1.rustix.me:34897", "online": 0, "version": "1.21", "motd": "A Minecraft Server", "ping": 954.4760600000473}
-{"addr": "f1.rustix.me:36341", "online": 2, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 477.67047399997864}
-{"addr": "f1.rustix.me:35969", "online": 2, "version": "Velocity 1.7.2-26.1.2", "motd": "▪ SMPserverA ▪               ЛЕТНИЙ ВАЙП\n▪ 1.21.11 - 26.2 ▪   /free бесплатный донат", "ping": 663.9322879999554}
-{"addr": "f1.rustix.me:38243", "online": 5, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 398.85202700008904}
-{"addr": "f1.rustix.me:36313", "online": 0, "version": "Spigot 26.2", "motd": "A Minecraft Server", "ping": 1084.0184090000093}
-{"addr": "f1.rustix.me:39037", "online": 1, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 233.77211000001807}
-{"addr": "f1.rustix.me:35776", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1405.8963530000028}
-{"addr": "f1.rustix.me:36351", "online": 0, "version": "Paper 1.21.11", "motd": "тт @m1seryonly", "ping": 1223.8145740000164}
-{"addr": "f1.rustix.me:37894", "online": 0, "version": "Paper 1.21.5", "motd": "can you survive?", "ping": 910.1053190000812}
-{"addr": "f1.rustix.me:38525", "online": 0, "version": "Paper 1.12.2", "motd": "A Minecraft Server", "ping": 740.566723000029}
-{"addr": "f1.rustix.me:39868", "online": 3, "version": "Folia 26.1.2", "motd": "A Minecraft Server", "ping": 292.49391000007563}
-{"addr": "f1.rustix.me:37175", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1253.699193999978}
-{"addr": "f1.rustix.me:36044", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 1710.939811000003}
-{"addr": "f1.rustix.me:39844", "online": 1, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 548.6263760000156}
-{"addr": "f1.rustix.me:36276", "online": 0, "version": "Paper 1.21.4", "motd": "    ✞ Plasma Time ✞   ★ Лучшие режимы\nПо 1.21.4  ☆  ⚡ Для тебя и друзей!", "ping": 1801.6375429999698}
-{"addr": "f1.rustix.me:38213", "online": 0, "version": "SSSpigot 1.16.5", "motd": "RuinWorld", "ping": 1215.3938360000893}
-{"addr": "f1.rustix.me:40849", "online": 0, "version": "Paper 1.16.5", "motd": "by RuinStudio", "ping": 307.164600999954}
-{"addr": "f1.rustix.me:36043", "online": 0, "version": "Purpur 1.21.4", "motd": "", "ping": 2013.9695130000064}
-{"addr": "f1.rustix.me:38424", "online": 0, "version": "Paper 26.2", "motd": "Майншилд? ДА ОН И РЯДОМ НЕ СТОИТ!!!", "ping": 1215.7976810000264}
-{"addr": "f1.rustix.me:39189", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1011.6267920000155}
-{"addr": "f1.rustix.me:39618", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 1026.1267079999925}
-{"addr": "f1.rustix.me:37580", "online": 0, "version": "Paper 1.21.4", "motd": "Легитный сервер", "ping": 1775.14406399996}
-{"addr": "f1.rustix.me:39797", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 1094.71327499989}
-{"addr": "f1.rustix.me:39432", "online": 0, "version": "1.21.1", "motd": "Testing backrooms", "ping": 1212.8247619999684}
-{"addr": "f1.rustix.me:36817", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 2094.7951340000373}
-{"addr": "f1.rustix.me:40625", "online": 0, "version": "Spigot 1.12.2", "motd": "lobby MasterCraft", "ping": 849.5044389999293}
-{"addr": "f1.rustix.me:38168", "online": 0, "version": "Paper 1.16.5", "motd": "▪ ᴍɪʀᴢʟɪᴋᴋᴏᴍʙᴀᴛ ▪    ЗАХОДИ НА\n▪   1.16.5 ▪ 1.20.1    ▪   ЛЕТНИЙ ВАЙП", "ping": 1832.009884999934}
-{"addr": "f1.rustix.me:36404", "online": 0, "version": "Paper 1.16.5", "motd": "5234604ebe81d5cd36a707db7e53bef5", "ping": 2531.0001949999332}
-{"addr": "f1.rustix.me:40121", "online": 0, "version": "Purpur 26.1.2", "motd": "⚡ ВЫЖИВАНИЕ ⚡ | [26.1-26.1.2]     ▸ Уникальные боссы  ◂", "ping": 1283.059881999975}
-{"addr": "f1.rustix.me:37798", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 2271.7845240000543}
-{"addr": "f1.rustix.me:40169", "online": 0, "version": "Paper 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 1647.311134000006}
-{"addr": "f1.rustix.me:40981", "online": 0, "version": "§6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8 1.16.5", "motd": "Ð¤Ð°Ð½Ð¾Ð²Ð°ÑÐÐ½Ð°ÑÑÐ¸Ñ", "ping": 1325.7278690000476}
-{"addr": "f1.rustix.me:38420", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 2683.1672319999598}
-{"addr": "f1.rustix.me:37160", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 37.54856499995185}
-{"addr": "f1.rustix.me:40977", "online": 0, "version": "Purpur 1.21.11", "motd": "         ▪ OmniCube.sd ▪ [1.16.5-1.19.4+] ▪\n      #ʙᴇꜱᴛ_ɢʀɪᴇꜰ2025 ▪ Наш ТГК: t.me/SoolarFlux", "ping": 2554.4288820000247}
-{"addr": "f1.rustix.me:35646", "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 2669.9588760000097}
-{"addr": "f1.rustix.me:30640", "online": 0, "version": "Purpur 1.16.5", "motd": "", "ping": 2356.2782619999325}
-{"addr": "f1.rustix.me:37734", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 2989.4777089999707}
-{"addr": "d1.rionix.cloud:25006", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 229.3937619999724}
-{"addr": "d1.rionix.cloud:25008", "online": 0, "version": "AureonMc 1.12.2-1.21.11", "motd": "                       ✦ AUREON ✦\n                HideAndSeek • FFA • ???", "ping": 232.28268999991997}
-{"addr": "d1.rionix.cloud:25001", "online": 0, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 246.97207300005175}
-{"addr": "d1.rionix.cloud:25023", "online": 0, "version": "Youer 1.21.1", "motd": "A Minecraft Server", "ping": 230.6242199999815}
-{"addr": "d1.rionix.cloud:25025", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 231.01046099998257}
-{"addr": "d1.rionix.cloud:25029", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 228.02298999999948}
-{"addr": "d1.rionix.cloud:25000", "online": 54, "version": "NullCordX 1.16-26.1", "motd": "sᴡᴏʀʟᴅ 1.16.5+ \nᴏᴘ/sᴡᴏʀᴅ ᴘʀᴀᴄᴛɪsᴇ", "ping": 258.03931000007196}
-{"addr": "d1.rionix.cloud:25027", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 238.20941099995707}
-{"addr": "d1.rionix.cloud:25024", "online": 35, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 250.4418150000447}
-{"addr": "d1.rionix.cloud:25035", "online": 0, "version": "Paper 1.21.11", "motd": "A Hardcore Minecraft Server", "ping": 241.10716699999557}
-{"addr": "d1.rionix.cloud:25063", "online": 0, "version": "Paper 1.21.11", "motd": "Best smp serer", "ping": 230.762679999998}
-{"addr": "d1.rionix.cloud:25040", "online": 0, "version": "mohist 1.20.1", "motd": "Кровавые деньги", "ping": 246.91706199996588}
-{"addr": "d1.rionix.cloud:25065", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 244.75983399997858}
-{"addr": "d1.rionix.cloud:25045", "online": 0, "version": "1.21.1", "motd": "Залупа Коня", "ping": 258.910042000025}
-{"addr": "d1.rionix.cloud:25046", "online": 1, "version": "SSSpigot 1.16.5", "motd": "A Minecraft Server", "ping": 262.55289699997775}
-{"addr": "d1.rionix.cloud:25086", "online": 2, "version": "Paper 26.1.2", "motd": "1.21+ REONIX", "ping": 244.6189409999988}
-{"addr": "d1.rionix.cloud:25068", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 255.93180599992138}
-{"addr": "d1.rionix.cloud:25108", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 233.49851599994054}
-{"addr": "d1.rionix.cloud:25064", "online": 0, "version": "Purpur 26.1.2", "motd": "Ванила", "ping": 265.872449000085}
-{"addr": "d1.rionix.cloud:25012", "online": 1, "version": "1.21.11", "motd": "STChill - Лучший полу-ванильный сервер!", "ping": 352.6822059999404}
-{"addr": "d1.rionix.cloud:25098", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 259.52912700006436}
-{"addr": "d1.rionix.cloud:25142", "online": 0, "version": "Paper 26.1.2", "motd": "Golden Apple Gang", "ping": 230.86443199997575}
-{"addr": "d1.rionix.cloud:25136", "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "     🗡 ᴀꜱᴜxɢʀɪᴇꜰ 🏹 | Вайп был 30 мая\n     Подписывайся на тгк: ᴛ.ᴍᴇ/ᴀꜱᴜxɢʀɪᴇꜰ", "ping": 232.367910999983}
-{"addr": "d1.rionix.cloud:25140", "online": 0, "version": "1.20.1", "motd": "Добро пожаловать\nэто наш сервер", "ping": 233.80129700001362}
-{"addr": "d1.rionix.cloud:25138", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 233.00378699991597}
-{"addr": "d1.rionix.cloud:25137", "online": 0, "version": "SSSpigot 1.16.5", "motd": "lobby", "ping": 234.61194100002558}
-{"addr": "d1.rionix.cloud:25130", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 245.94744199998786}
-{"addr": "d1.rionix.cloud:25121", "online": 0, "version": "Paper 1.16.5", "motd": "KisuliLove", "ping": 250.41844599991236}
-{"addr": "d1.rionix.cloud:25143", "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 240.80151400005434}
-{"addr": "d1.rionix.cloud:25157", "online": 0, "version": "1.21.11", "motd": "           Время строить вновь\n            Twitch-телестройка", "ping": 218.31509300000107}
-{"addr": "d1.rionix.cloud:25129", "online": 0, "version": "Paper 1.21.11", "motd": "NeonovServer", "ping": 255.18820499996764}
-{"addr": "d1.rionix.cloud:25048", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 345.17700399999285}
-{"addr": "d1.rionix.cloud:25112", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "       ʀᴀᴢᴇᴛɪᴍᴇ | 1.16.5+\n  ✦ Новый Гриферский сервер уже открыт ", "ping": 335.09055800004717}
-{"addr": "d1.rionix.cloud:25126", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 328.0085540000073}
-{"addr": "d1.rionix.cloud:25209", "online": 0, "version": "Paper 1.21.11", "motd": "FrostSMP 1.16.5-1.21.11 Заходи к нам играть!", "ping": 263.84193900003083}
-{"addr": "d1.rionix.cloud:25250", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 248.70834500006822}
-{"addr": "d1.aurorix.net:25010", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 140.41535399996974}
-{"addr": "d1.aurorix.net:25026", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 146.40075199986313}
-{"addr": "d1.aurorix.net:25182", "online": 0, "version": "TimeWorld 1.16.5", "motd": "", "ping": 142.57961999987856}
-{"addr": "d1.aurorix.net:25365", "online": 0, "version": "Purpur 1.21.1", "motd": "A Minecraft Server", "ping": 160.58584500001416}
-{"addr": "d1.aurorix.net:25461", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 153.52971900006196}
-{"addr": "d1.aurorix.net:25334", "online": 0, "version": "neracube", "motd": "     🗡 ɴᴇʀᴀᴄᴜʙᴇ ▪ Начало ГЛОБАЛЬНОГО ВАЙПА             ▪ 1.16.5-1.20x ▪ Вайп 3 июля", "ping": 184.517797999888}
-{"addr": "d1.aurorix.net:25327", "online": 1, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 185.24062899996352}
-{"addr": "d1.aurorix.net:25384", "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 194.6744330000456}
-{"addr": "d1.aurorix.net:25439", "online": 0, "version": "Paper 1.21.11", "motd": "Beyond Vanilla", "ping": 204.22919700013153}
-{"addr": "d1.aurorix.net:25690", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 203.09215499992206}
-{"addr": "d1.aurorix.net:25758", "online": 3, "version": "Paper 1.21.4", "motd": "KitLovely (1.21.4+)\nВыживание без грифа", "ping": 188.8602249998712}
-{"addr": "d1.aurorix.net:26012", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 114.15430900001411}
-{"addr": "d1.aurorix.net:26003", "online": 0, "version": "Nakrytka:0", "motd": "⬝ FuterWorld ⬝              ЗАХОДИ НА \n⬝ 1.16.5 ⬝ 1.21 ⬝   ГЛОБАЛЬНЫЙ ЛЕТНИЙ ВАЙП", "ping": 115.1053859998683}
-{"addr": "d1.aurorix.net:26066", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 143.99283599982482}
-{"addr": "d1.aurorix.net:26077", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 143.56326400002217}
-{"addr": "d1.aurorix.net:26110", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 152.0271080000839}
-{"addr": "d1.aurorix.net:26154", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 149.8681680000118}
-{"addr": "d1.aurorix.net:26237", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 142.53415799998947}
-{"addr": "d1.aurorix.net:26144", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 155.8940130000792}
-{"addr": "d1.aurorix.net:26175", "online": 1, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 157.13438000011593}
-{"addr": "d1.aurorix.net:26282", "online": 0, "version": "Paper 1.12.2", "motd": "A Minecraft Server", "ping": 163.9983840000241}
-{"addr": "d1.aurorix.net:26325", "online": 0, "version": "Leaf 1.21.11", "motd": "Waynex | Королевская битва", "ping": 159.49296799999502}
-{"addr": "d1.aurorix.net:26409", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 158.0225719999362}
-{"addr": "d1.aurorix.net:26454", "online": 0, "version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x", "motd": "    ✞ FunStorm ✞   Идеальные режимы                ☆ 1.20 - 1.16.5  ☆  для тебя и друзей!", "ping": 182.81758900002387}
-{"addr": "d1.aurorix.net:26527", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 168.23375900003157}
-{"addr": "d1.aurorix.net:26265", "online": 0, "version": "26.1.2", "motd": "Shar Pei", "ping": 241.86265399998774}
-{"addr": "d1.aurorix.net:26523", "online": 0, "version": "Paper 26.1.2", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 191.62856699995245}
-{"addr": "d1.aurorix.net:26615", "online": 0, "version": "1.21.1", "motd": "Заходи!", "ping": 189.57290200000898}
-{"addr": "d1.aurorix.net:26712", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 161.7679160001444}
-{"addr": "d1.aurorix.net:26770", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 160.5133200000637}
-{"addr": "d1.aurorix.net:26741", "online": 0, "version": "MineV 1.17-21.1.2", "motd": "                ⚠ MineV - Ждём тебя!! ⚠\n         Версия || 1.17 - 26.1.2 (Новинка!)", "ping": 182.19545300007667}
-{"addr": "d1.aurorix.net:26874", "online": 0, "version": "Purpur 1.21.1", "motd": "A Minecraft Server", "ping": 171.481655999969}
-{"addr": "d1.aurorix.net:26956", "online": 0, "version": "Paper 1.20.2", "motd": "   ✦ ORIGIN SMP[1.20.1] - BETA Version 0.1 ✦\n                   New Journey Begin!", "ping": 178.95291600007113}
-{"addr": "d1.aurorix.net:26985", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 172.72104400012722}
-{"addr": "d2.aurorix.net:25000", "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 127.49516999997468}
-{"addr": "d2.aurorix.net:25031", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 125.91231600003994}
-{"addr": "d2.aurorix.net:25002", "online": 0, "version": "Paper 1.12.2", "motd": "Server hosted by Aurorix.net", "ping": 139.58194600013485}
-{"addr": "d2.aurorix.net:25076", "online": 0, "version": "Purpur 1.16.5", "motd": "ReallyWorld by FrameDev", "ping": 152.18289299991739}
-{"addr": "d2.aurorix.net:25497", "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 181.67997299997296}
-{"addr": "d2.aurorix.net:25535", "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 207.41329999987101}
-{"addr": "d2.aurorix.net:25567", "online": 0, "version": "Spigot 1.16.5", "motd": "Server hosted by Aurorix.net", "ping": 225.58005400014736}
-{"addr": "d2.aurorix.net:25885", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 161.12020099990332}
-{"addr": "d2.aurorix.net:25838", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 211.68663799994647}
-{"addr": "d2.aurorix.net:26056", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 277.1710229999371}
-{"addr": "d2.aurorix.net:26453", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 205.8939589999227}
-{"addr": "d2.aurorix.net:26669", "online": 0, "version": "Paper 1.21.11", "motd": "лучший ванильный сервер VanilaCraft", "ping": 151.7755100001068}
-{"addr": "d2.aurorix.net:26697", "online": 0, "version": "1.19.2", "motd": "A Minecraft Server", "ping": 159.51029099983316}
-{"addr": "d2.aurorix.net:26768", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 168.53235500002484}
-{"addr": "d2.aurorix.net:26942", "online": 0, "version": "1.21.9", "motd": "               ⏴ Яшколесье Unlimited ⏵\n                        We're OPEN!", "ping": 189.10684499996933}
-{"addr": "d3.aurorix.net:25053", "online": 0, "version": "SSSpigot 1.16.5", "motd": "Lobby", "ping": 2588.6847920000946}
-{"addr": "d3.aurorix.net:25008", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 2671.383199999809}
-{"addr": "d3.aurorix.net:25030", "online": 0, "version": "mohist 1.20.1", "motd": "A Minecraft Server", "ping": 2663.6478479999823}
-{"addr": "d3.aurorix.net:25015", "online": 0, "version": "Paper 1.21.1", "motd": "HoqawWorld!", "ping": 2693.76516300008}
-{"addr": "d3.aurorix.net:25084", "online": 0, "version": "1.20.4", "motd": "A Minecraft Server", "ping": 2657.354449999957}
-{"addr": "d3.aurorix.net:25171", "online": 0, "version": "Paper 1.20.4", "motd": "пусто", "ping": 2702.930615000014}
-{"addr": "d3.aurorix.net:25379", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 2650.433299000042}
-{"addr": "d3.aurorix.net:25417", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 2636.103664000075}
-{"addr": "d3.aurorix.net:25143", "online": 0, "version": "Spigot 26.1.1", "motd": "A Minecraft Server", "ping": 2804.2727680001462}
-{"addr": "d3.aurorix.net:25198", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "Классический SMP‑сервер с уникальной механикой: в мире существует ЕДИНСТВЕННАЯ БУЛАВА.", "ping": 2792.73412800012}
-{"addr": "d3.aurorix.net:25214", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 2789.6086690000175}
-{"addr": "d3.aurorix.net:25353", "online": 0, "version": "1.21.1", "motd": "Gay Minecraft Server", "ping": 2775.6429500000195}
-{"addr": "d3.aurorix.net:25389", "online": 0, "version": "CakeVelocity", "motd": "Мой крутой сервер!", "ping": 2753.0291040000066}
-{"addr": "d3.aurorix.net:25427", "online": 1, "version": "Paper 1.16.5", "motd": "MagicGrief", "ping": 2735.674779999954}
-{"addr": "d3.aurorix.net:25496", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 343.6901840000246}
-{"addr": "d3.aurorix.net:25247", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 2909.1444419998425}
-{"addr": "d3.aurorix.net:25551", "online": 0, "version": "Paper 1.21.4", "motd": "           » SweetMine « (1.8-1.21+)\nВсем донат - /free | Лучшее выживание ☀", "ping": 502.0039819999056}
-{"addr": "d3.aurorix.net:25560", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 501.813206000179}
-{"addr": "d3.aurorix.net:25461", "online": 0, "version": "Paper 1.21.8", "motd": "          MᴏᴏɴTɪᴍᴇ ꜱᴇᴀꜱᴏɴ ɪ ¹•²¹•⁸\n   ❤ Дружелюбное ванильное выживание ❤", "ping": 597.886926000001}
-{"addr": "d3.aurorix.net:25953", "online": 0, "version": "Paper 26.1.2", "motd": " Morisery", "ping": 517.2760880000169}
-{"addr": "d4.aurorix.net:19097", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 118.15604299999904}
-{"addr": "d4.aurorix.net:19080", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 118.80426399989119}
-{"addr": "d4.aurorix.net:19155", "online": 0, "version": "", "motd": "⋄ ɴᴇxᴜsʙᴜɪʟᴅ ⋄ [ 1.16.5 - 1.21.1 ] Гᴘифᴇᴘᴄᴋий\n              ☄ Мы опередили Время ☄", "ping": 119.28291600020202}
-{"addr": "d4.aurorix.net:19187", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 121.38811200020427}
-{"addr": "d4.aurorix.net:19274", "online": 0, "version": "Elytrium", "motd": "☀ ᴇɴɪxʀɪsᴇ ☠ Рассвет новой эпохи кубов\n              ● 1.16.5 ➵ 1.21.11 ●", "ping": 236.38934199993855}
-{"addr": "d4.aurorix.net:19337", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 169.1288969998368}
-{"addr": "d4.aurorix.net:19384", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 252.9730879998624}
-{"addr": "d4.aurorix.net:19504", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 303.08489300000474}
-{"addr": "d4.aurorix.net:19181", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 416.4582650000739}
-{"addr": "d4.aurorix.net:19767", "online": 0, "version": "Paper 1.21.10", "motd": "Теперь мы сосиски", "ping": 328.9965359999769}
-{"addr": "d4.aurorix.net:19802", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 348.1390960000681}
-{"addr": "d4.aurorix.net:19838", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 117.76411400001052}
-{"addr": "d4.aurorix.net:19931", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 123.11641399992368}
-{"addr": "d4.aurorix.net:19977", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 134.90232399999513}
-{"addr": "d4.aurorix.net:19925", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 246.23279499996897}
-{"addr": "d4.aurorix.net:26041", "online": 0, "version": "1.21.11", "motd": "            Fun Friend Server 1.21.4\n         » [ СЛУЧАЙНЫЕ ПРЕДМЕТЫ ] «", "ping": 242.43302500008213}
-{"addr": "d5.aurorix.net:19025", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 236.49269199995615}
-{"addr": "d5.aurorix.net:19029", "online": 0, "version": "SSSpigot 1.16.5", "motd": "ReallyWorld", "ping": 251.00792700004604}
-{"addr": "d5.aurorix.net:19048", "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "🐺 Салам, джигитер!! Жана клан BebraMaximum!!!! 💋", "ping": 239.96135500010496}
-{"addr": "d5.aurorix.net:19010", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 552.218928000002}
-{"addr": "d5.aurorix.net:19093", "online": 0, "version": "Purpur 26.1.2", "motd": "Кубические кружки", "ping": 340.8400979999442}
-{"addr": "d5.aurorix.net:19124", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 307.07139899982394}
-{"addr": "d5.aurorix.net:19177", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 275.3175170000759}
-{"addr": "d5.aurorix.net:19059", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 388.72364700000617}
-{"addr": "d5.aurorix.net:19131", "online": 0, "version": "Purpur 1.21.11", "motd": "            Raftmine  ❙  Анархия  »\nЗдесь выживают только сильнейшие  |  RaftMine", "ping": 334.6949020001375}
-{"addr": "d5.aurorix.net:19183", "online": 0, "version": "Spigot 1.18", "motd": "A Minecraft Server", "ping": 239.2546210001001}
-{"addr": "d5.aurorix.net:19225", "online": 0, "version": "Paper 26.1.1", "motd": "VanillaWay — Новый сезон\n26.1.1 • Старые версии • Java+Bedrock", "ping": 208.91332099995452}
-{"addr": "d5.aurorix.net:19231", "online": 0, "version": "Paper 1.21.11", "motd": "Начинающий СМП проект", "ping": 209.0246099999149}
-{"addr": "d5.aurorix.net:19257", "online": 0, "version": "", "motd": "                   ★ ᴅꜱᴄ.ɢɢ/ᴄʜɪʟʟʙᴏx\n                  1.21.4+ | пᴘᴏшёл ʙᴀйп!", "ping": 203.46906600002512}
-{"addr": "d5.aurorix.net:19212", "online": 0, "version": "HolyDay", "motd": "               ›› ＨＯＬＹＤＡＹ | 1.16 - 1.21 ‹‹\n           Сервер для ваших приключений", "ping": 300.9732770001392}
-{"addr": "d5.aurorix.net:19319", "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 195.02250400000776}
-{"addr": "d5.aurorix.net:19338", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 215.061728000137}
-{"addr": "d5.aurorix.net:19330", "online": 2, "version": "mohist 1.20.1", "motd": "mlf228", "ping": 217.74795499982247}
-{"addr": "d5.aurorix.net:19386", "online": 0, "version": "Spigot 1.8", "motd": "-----------------[ [ClanWar]LIME ]-----------------\nVK group https://vk.com/limecw", "ping": 221.1953020000692}
-{"addr": "d5.aurorix.net:19440", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 177.2687989998758}
-{"addr": "d5.aurorix.net:19473", "online": 0, "version": "Purpur 1.16.5", "motd": "hub", "ping": 179.00969999982408}
-{"addr": "d5.aurorix.net:19444", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 186.38547600016864}
-{"addr": "d5.aurorix.net:19525", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 184.06998099999328}
-{"addr": "d5.aurorix.net:19494", "online": 0, "version": "Purpur 1.16.5", "motd": "", "ping": 198.46280299998398}
-{"addr": "d5.aurorix.net:19526", "online": 0, "version": "Paper 1.21.10", "motd": "A Minecraft Server", "ping": 199.91983299996718}
-{"addr": "d5.aurorix.net:19498", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 203.39560499996878}
-{"addr": "d5.aurorix.net:19545", "online": 0, "version": "Purpur 1.21.11", "motd": "Vodolazov Team", "ping": 208.05482700006905}
-{"addr": "d5.aurorix.net:19592", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 216.73201299995526}
-{"addr": "d5.aurorix.net:19634", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 227.93444900003124}
-{"addr": "d5.aurorix.net:19640", "online": 2, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 231.85039300005883}
-{"addr": "d5.aurorix.net:19711", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 235.1452469999913}
-{"addr": "d5.aurorix.net:19636", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 255.59888800012232}
-{"addr": "d5.aurorix.net:19424", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 357.70916400019814}
-{"addr": "d5.aurorix.net:19551", "online": 0, "version": "mohist 1.20.1", "motd": "A Minecraft Server", "ping": 357.11270900014824}
-{"addr": "d5.aurorix.net:19296", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 509.36742800013235}
-{"addr": "d5.aurorix.net:19729", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 362.35985999996956}
-{"addr": "d5.aurorix.net:19600", "online": 0, "version": "26.1.2", "motd": "У нас дружелюбное сообщество - будь вежлив и уважай других!", "ping": 402.410983999971}
-{"addr": "d5.aurorix.net:19657", "online": 0, "version": "26.1.2", "motd": "Сервер выживания NeoForge 26.1.2", "ping": 400.8553190001294}
-{"addr": "d5.aurorix.net:19342", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 499.46483899998384}
-{"addr": "d5.aurorix.net:19768", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 228.82774000004247}
-{"addr": "d5.aurorix.net:19775", "online": 0, "version": "1.21.4", "motd": "The Flor Server", "ping": 173.8136179999401}
-{"addr": "d5.aurorix.net:19785", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 232.35967499999788}
-{"addr": "d5.aurorix.net:19817", "online": 0, "version": "Paper 1.21.11", "motd": "", "ping": 222.38757499985695}
-{"addr": "d5.aurorix.net:19811", "online": 0, "version": "Paper 1.16.5", "motd": "5234604ebe81d5cd36a707db7e53bef5", "ping": 235.29680399997233}
-{"addr": "d5.aurorix.net:19822", "online": 1, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 225.9699679998448}
-{"addr": "d5.aurorix.net:19920", "online": 0, "version": "1.21.11", "motd": "                      d ChervyakCraft d\n       Лучший сервер для умственно отсталых!", "ping": 211.7595889999393}
-{"addr": "d5.aurorix.net:19893", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 228.05573799996637}
-{"addr": "d5.aurorix.net:19820", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 284.67059600006905}
-{"addr": "d5.aurorix.net:19998", "online": 6, "version": "Velocity 1.7.2-26.1.2", "motd": "                 NewStar\n       Твори, Веселись, Общайся!", "ping": 195.94277600003807}
-{"addr": "d5.aurorix.net:25709", "online": 0, "version": "Spigot 1.21.11", "motd": "A Minecraft Server", "ping": 115.93883699993057}
-{"addr": "d5.aurorix.net:25712", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 121.5481249998902}
-{"addr": "d5.aurorix.net:25703", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 124.17355999991742}
-{"addr": "d5.aurorix.net:25748", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 238.75626799986094}
-{"addr": "d5.aurorix.net:25805", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 236.90089799993075}
-{"addr": "d5.aurorix.net:25769", "online": 0, "version": "1.21.1", "motd": "SELA-DALA. KIRILL GEY", "ping": 263.3004209999399}
-{"addr": "d5.aurorix.net:25850", "online": 1, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 245.1198950000162}
-{"addr": "d5.aurorix.net:25937", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 229.41693500001747}
-{"addr": "d5.aurorix.net:25935", "online": 2, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 233.6994649999724}
-{"addr": "d5.aurorix.net:25902", "online": 3, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 256.66278000016973}
-{"addr": "d5.aurorix.net:25948", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 248.94220800001676}
-{"addr": "d5.aurorix.net:25808", "online": 0, "version": "1.21.1", "motd": "           ☻HexAnarchy | Выживание 1.21.1☻\n     ☻Заходи и выживай! | play.hexanarchy.net☻", "ping": 390.74701300000925}
-{"addr": "d5.aurorix.net:25848", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 342.6940839999588}
-{"addr": "d5.aurorix.net:25837", "online": 1, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 390.55262200008656}
-{"addr": "d5.aurorix.net:25961", "online": 0, "version": "Paper 1.21.11", "motd": "ОРГАН СМП\n✳ Ждем именно тебя! ✳", "ping": 213.2312759999877}
-{"addr": "d5.aurorix.net:25971", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 246.3010189999295}
-{"addr": "d5.aurorix.net:26043", "online": 0, "version": "1.21.11", "motd": "███ LIFE STELE | СЕЗОН 1 ███\n███ ТВОЯ ИСТОРИЯ НАЧИНАЕТСЯ ЗДЕСЬ ███\n", "ping": 239.48381700006394}
-{"addr": "d5.aurorix.net:26050", "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 232.9840200000035}
-{"addr": "d5.aurorix.net:26116", "online": 0, "version": "PandaSpigot 1.8.8", "motd": "A Minecraft Server", "ping": 206.09667500002615}
-{"addr": "d5.aurorix.net:26013", "online": 0, "version": "Proxy 1.12.2-1.20", "motd": "", "ping": 342.3746720000054}
-{"addr": "d5.aurorix.net:26057", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 254.51726999995117}
-{"addr": "d5.aurorix.net:26161", "online": 0, "version": "1.21.11", "motd": "slava svo", "ping": 217.36061400019935}
-{"addr": "d5.aurorix.net:26170", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 225.59693200014408}
-{"addr": "d5.aurorix.net:26181", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 234.2532370000754}
-{"addr": "d5.aurorix.net:26218", "online": 1, "version": "Paper 1.21.11", "motd": "CursedSMP — Проклятое выживание [1.21+]\nУникальные артефакты | Живая экономика | Заходи!", "ping": 226.38826299998982}
-{"addr": "d5.aurorix.net:26260", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 214.4831170000998}
-{"addr": "d5.aurorix.net:26279", "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "Lucifier", "ping": 221.48003699999208}
-{"addr": "d5.aurorix.net:26311", "online": 0, "version": "Purpur 1.20.1", "motd": "A Minecraft Server", "ping": 228.72935899999902}
-{"addr": "d5.aurorix.net:26288", "online": 0, "version": "Purpur 1.16.5", "motd": "hub", "ping": 235.3650130000915}
-{"addr": "d5.aurorix.net:26335", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 234.62619400015683}
-{"addr": "d5.aurorix.net:26348", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 239.56255500002044}
-{"addr": "d5.aurorix.net:26374", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "Linka", "ping": 237.25448300001517}
-{"addr": "d5.aurorix.net:26062", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 438.1458309999289}
-{"addr": "d5.aurorix.net:26439", "online": 0, "version": "Mohist 1.12.2", "motd": "A Minecraft Server", "ping": 239.710556999853}
-{"addr": "d5.aurorix.net:26468", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 231.57541199998377}
-{"addr": "d5.aurorix.net:26423", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 252.72423000001254}
-{"addr": "d5.aurorix.net:26494", "online": 0, "version": "§6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8 1.16.5", "motd": "Ð¤Ð°Ð½Ð¾Ð²Ð°ÑÐÐ½Ð°ÑÑÐ¸Ñ", "ping": 259.11641500010774}
-{"addr": "d5.aurorix.net:26328", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 511.76581999993687}
-{"addr": "d5.aurorix.net:26217", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 625.0709470000402}
-{"addr": "d5.aurorix.net:26476", "online": 0, "version": "1.21.11", "motd": "Приятной игры! Если есть вопросы, обращайся к администрации", "ping": 1157.3015890000988}
-{"addr": "0.tcp.ngrok.io:12209", "online": 0, "version": "1.21.1", "motd": "All the Mods 10", "ping": 931.3023639999756}
-{"addr": "0.tcp.ngrok.io:13517", "online": 0, "version": "26.1.2", "motd": ":3", "ping": 766.3338949998888}
-{"addr": "0.tcp.ngrok.io:14015", "online": 0, "version": "1.21.1", "motd": "All the Mods 10", "ping": 1050.3090970000812}
-{"addr": "0.tcp.ngrok.io:20730", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 761.0237269998379}
-{"addr": "0.tcp.ngrok.io:21599", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 1008.2839550000244}
-{"addr": "0.tcp.ngrok.io:25155", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 1003.077790999896}
-{"addr": "5.tcp.ngrok.io:24078", "online": 0, "version": "1.20.1", "motd": "Mitch's Server", "ping": 1607.3594319998392}
-{"addr": "5.tcp.ngrok.io:25098", "online": 0, "version": "1.21.10", "motd": "Gregg Craft [1.21.10]\nWe shall be as a server on a hill", "ping": 1007.8936150000573}
-{"addr": "5.tcp.ngrok.io:26270", "online": 0, "version": "Paper 1.21.11", "motd": "Now 100% less open to the public", "ping": 992.6065669999389}
-{"addr": "5.tcp.ngrok.io:28199", "online": 0, "version": "1.20.4", "motd": "Dad's Minecraft Server", "ping": 1073.1145340000694}
+{"addr": "147.185.221.211:7014", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 573.9349859999976}
+{"addr": "147.185.221.211:6900", "online": 0, "version": "26.1.2", "motd": "🧶 MraowCraft serer", "ping": 766.4664520000031}
+{"addr": "147.185.221.211:9710", "online": 0, "version": "Paper 1.21.10", "motd": "OFFICIAL COBALT MINECRAFT SERVER\nNow 1.21.10 and better than ever!", "ping": 310.9404960000006}
+{"addr": "147.185.221.211:10773", "online": 0, "version": "Paper 26.2", "motd": "Eski's Community Server!", "ping": 225.8588379999935}
+{"addr": "147.185.221.211:10224", "online": 0, "version": "Paper 1.21.8", "motd": "mc4map.001066.xyz", "ping": 287.34103000000744}
+{"addr": "147.185.221.211:9742", "online": 0, "version": "1.21.9", "motd": "Chickussy MC", "ping": 605.1200590000008}
+{"addr": "147.185.221.211:14017", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 584.0940850000038}
+{"addr": "147.185.221.211:14517", "online": 1, "version": "1.21.1", "motd": "AX61 Survival SMP\nGenre Mix Modpack", "ping": 728.1140230000034}
+{"addr": "147.185.221.211:22275", "online": 0, "version": "Paper 26.1.2", "motd": "                  |    ɢʀᴏᴍʙᴅᴏʀ    |\n                  |   + ғᴀʀᴛᴏᴘɪᴀ     |", "ping": 308.4788769999989}
+{"addr": "147.185.221.211:24729", "online": 0, "version": "1.21.9", "motd": "Sams really cool server", "ping": 590.7807620000085}
+{"addr": "147.185.221.211:29662", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "⎇ The Nylium Network ⎇\n⎇ An Alterhuman Technology Group ⎇", "ping": 595.1372310000096}
+{"addr": "147.185.221.211:29670", "online": 0, "version": "Paper 1.21.8", "motd": "MondarizCraft - ¡Faro de Avión!", "ping": 641.8187279999898}
+{"addr": "147.185.221.211:30795", "online": 5, "version": "forge arclight/Trials 1.20.1", "motd": "What is happening now?", "ping": 876.8322170000005}
+{"addr": "147.185.221.211:33310", "online": 0, "version": "26.1.2", "motd": "Multiple Men, One Goal, The Hole", "ping": 510.6854440000035}
+{"addr": "147.185.221.211:35457", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 629.0762459999968}
+{"addr": "147.185.221.211:41580", "online": 0, "version": "26.3 Snapshot 1", "motd": "A Minecraft Server", "ping": 421.6355309999926}
+{"addr": "147.185.221.211:49275", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 567.8559199999995}
+{"addr": "147.185.221.211:56251", "online": 0, "version": "1.21.1", "motd": "Cobbleverse Server", "ping": 832.7590220000047}
+{"addr": "147.185.221.211:60885", "online": 0, "version": "26.1.2", "motd": "Yoylo n friends", "ping": 452.6980140000205}
+{"addr": "147.185.221.211:61539", "online": 0, "version": "Paper 1.21.11", "motd": "The_Dankus Minecraft Server ( with voice chat included )", "ping": 715.7443550000266}
+{"addr": "147.185.221.211:62564", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 338.0049650000103}
+{"addr": "147.185.221.211:62569", "online": 7, "version": "Paper 1.21.11", "motd": "                         Welcome to...\n                        Dividing Lines", "ping": 625.1440370000125}
+{"addr": "147.185.221.211:64603", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 762.6745990000074}
+{"addr": "147.185.221.223:1947", "online": 0, "version": "Paper 1.21.11", "motd": "GolemCraft\n", "ping": 926.7074159999993}
+{"addr": "147.185.221.223:3448", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 557.9034010000044}
+{"addr": "147.185.221.223:8557", "online": 0, "version": "Paper 1.21.10", "motd": "Siscraft\n Welcome to the Siscon Empire", "ping": 778.4291399999859}
+{"addr": "147.185.221.223:12594", "online": 420, "version": "Velocity 1.7.2-1.21.11", "motd": "                           WrongSMP\n              Survival Multiplayer", "ping": 278.0725979999943}
+{"addr": "147.185.221.223:14099", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "A Velocity Server", "ping": 605.2770269999996}
+{"addr": "147.185.221.223:18120", "online": 0, "version": "Paper 1.21.11", "motd": "8.a minecraft server", "ping": 751.8850079999879}
+{"addr": "147.185.221.223:22274", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 671.2474939999993}
+{"addr": "147.185.221.223:27928", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1037.3977220000086}
+{"addr": "147.185.221.223:32379", "online": 1, "version": "1.21.1", "motd": "Cobblemon for friends! Happy pride! (every month is pride month when you're queer >:3)", "ping": 1837.1586060000027}
+{"addr": "147.185.221.223:36246", "online": 0, "version": "1.21.1", "motd": "Gooses MC Server :D", "ping": 404.1823129999784}
+{"addr": "147.185.221.223:36622", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 1019.5276979999903}
+{"addr": "147.185.221.223:43134", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 456.4998950000074}
+{"addr": "147.185.221.223:43303", "online": 0, "version": "Paper 26.1.2", "motd": "Welcome!", "ping": 715.9067659999891}
+{"addr": "147.185.221.223:45629", "online": 0, "version": "DivineMC 1.21.10", "motd": "TRIARTS alpha stage", "ping": 884.0486549999866}
+{"addr": "147.185.221.223:48962", "online": 0, "version": "1.21.11", "motd": "Unofficial OPUS server", "ping": 578.3208280000167}
+{"addr": "147.185.221.223:48810", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "     I---------[ LLH Central ]---------I\n  ✦ ✦ ✦ The Private Network Of LLH ✦ ✦ ✦", "ping": 869.9996830000032}
+{"addr": "147.185.221.223:54071", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 541.5969279999899}
+{"addr": "147.185.221.223:56881", "online": 0, "version": "1.20.1", "motd": "All the Mods 9", "ping": 742.2734339999977}
+{"addr": "147.185.221.223:62827", "online": 0, "version": "1.21.11", "motd": "Frag nicht was für Saft", "ping": 877.9185319999954}
+{"addr": "147.185.221.31:4948", "online": 0, "version": "26.1.2", "motd": "Nezumi Server", "ping": 611.9784229999823}
+{"addr": "147.185.221.31:5712", "online": 0, "version": "1.21.10", "motd": "Gwen's Pack Server", "ping": 629.9478699999952}
+{"addr": "147.185.221.31:5753", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 620.6688449999831}
+{"addr": "147.185.221.31:6335", "online": 0, "version": "Paper 1.21.8", "motd": "Kringlen and LAVA's Masterpiece", "ping": 615.7912909999936}
+{"addr": "147.185.221.31:18573", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 588.4886900000197}
+{"addr": "147.185.221.31:18636", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 536.116780000043}
+{"addr": "147.185.221.31:22368", "online": 0, "version": "26.2", "motd": "who up gobinday yoga rn", "ping": 577.8211200000101}
+{"addr": "147.185.221.31:26499", "online": 0, "version": "Paper 26.1.2", "motd": " A Zombie Pigman Broke My Door | NO HACKS", "ping": 795.3866359999893}
+{"addr": "147.185.221.31:29299", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "77 Welcome to Camiverse | Come have fun! 77", "ping": 799.650435999979}
+{"addr": "147.185.221.31:30904", "online": 0, "version": "26.1.2", "motd": "taj1994 All the Mods", "ping": 894.9162859999547}
+{"addr": "147.185.221.31:31976", "online": 0, "version": "26.1.2", "motd": "Powered by AMP", "ping": 679.5898339999553}
+{"addr": "147.185.221.31:35776", "online": 3, "version": "26.2", "motd": "A Minecraft Server", "ping": 755.1441130000285}
+{"addr": "147.185.221.31:39915", "online": 0, "version": "Paper 1.21.8", "motd": "Wellcome to ProLand SMP", "ping": 866.3396869999929}
+{"addr": "147.185.221.31:41855", "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 810.0578750000409}
+{"addr": "147.185.221.31:44016", "online": 0, "version": "Purpur 26.1.2", "motd": "A Kaos Minecraft Server", "ping": 620.108192000032}
+{"addr": "147.185.221.31:44896", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 642.3269759999926}
+{"addr": "147.185.221.31:44798", "online": 0, "version": "1.21.7", "motd": "A Minecraft Server", "ping": 631.0701639999934}
+{"addr": "147.185.221.31:46644", "online": 1, "version": "26.2", "motd": "Under New Management", "ping": 602.6364730000182}
+{"addr": "147.185.221.31:47134", "online": 0, "version": "1.21.10", "motd": "A Minecraft Server", "ping": 637.7713589999985}
+{"addr": "147.185.221.31:49794", "online": 0, "version": "26.2", "motd": "The land of Bruutis the wise, pinkest of them all. Sacrifices must be made to appease the lord", "ping": 736.2877389999767}
+{"addr": "147.185.221.31:50309", "online": 0, "version": "1.21.1", "motd": "ENSR Puros Modded", "ping": 769.4383610000273}
+{"addr": "147.185.221.31:54782", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 635.1795489999859}
+{"addr": "147.185.221.31:54566", "online": 0, "version": "Paper 26.1.2", "motd": "             Nowhere [26.1.2]\n             ☆ Disfruta del servidor ☆", "ping": 922.7083609999909}
+{"addr": "147.185.221.31:56197", "online": 0, "version": "Paper 26.1.2", "motd": "Welcome to JujuLandia2", "ping": 607.12037899998}
+{"addr": "147.185.221.31:56196", "online": 0, "version": "Paper 26.1.2", "motd": "JujuLandia | Creative", "ping": 620.1555340000482}
+{"addr": "147.185.221.31:57955", "online": 0, "version": "1.21.10", "motd": "The Superplebs TrueNAS Experience", "ping": 637.4471479999784}
+{"addr": "147.185.221.31:58060", "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 783.2379769999989}
+{"addr": "147.185.221.31:59234", "online": 0, "version": "1.12.2", "motd": "Powered by AMP", "ping": 862.6548919999664}
+{"addr": "147.185.221.31:59543", "online": 0, "version": "neoforge arclight/FeudalKings 1.21.1", "motd": "ASQN Minecraft SMP", "ping": 771.1309430000028}
+{"addr": "147.185.221.31:61371", "online": 2, "version": "26.2", "motd": "THE TOWN OF OYSTER BAY MINECRAFT SERVER!!", "ping": 391.401879}
+{"addr": "147.185.221.31:61905", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "CNU  CosmosCraft Universe ~ sorcer's motd CNU\n           CNU ... magic power is coming ... CNU           ", "ping": 626.4793760000202}
+{"addr": "147.185.221.31:62204", "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "A Velocity Server", "ping": 728.0183520000492}
+{"addr": "147.185.221.31:63013", "online": 0, "version": "Paper 1.21.3", "motd": "A Minecraft Server", "ping": 231.14529700001185}
+{"addr": "147.185.221.31:63627", "online": 0, "version": "1.20.2", "motd": "A Minecraft Server", "ping": 471.63517500001717}
+{"addr": "147.185.221.31:63383", "online": 0, "version": "Paper 1.21.5", "motd": "A Minecraft Server", "ping": 597.5111580000316}
+{"addr": "147.185.221.31:62678", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 2296.507245999976}
+{"addr": "147.185.221.31:64536", "online": 0, "version": "Paper 1.20.6", "motd": "ARISE MInecraft Server", "ping": 788.9151900000115}
+{"addr": "147.185.221.30:1721", "online": 0, "version": "26.1.2", "motd": "26.1 ready!\nnew experiences!", "ping": 605.4708319999804}
+{"addr": "147.185.221.30:2763", "online": 1, "version": "1.18.2", "motd": "Matthew is gay AF", "ping": 515.0318249999941}
+{"addr": "147.185.221.30:13175", "online": 0, "version": "1.21.11", "motd": "Have a blast", "ping": 728.564973999994}
+{"addr": "147.185.221.30:22875", "online": 0, "version": "1.21.1", "motd": "ANVIL AND HAMMER SMP | ATMS 10 | Mystical Agriculture | Create+ | Updates Weekly/Backups Daily @5 a.m. CST", "ping": 665.3772060000165}
+{"addr": "147.185.221.30:25979", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 660.965525999984}
+{"addr": "147.185.221.30:27014", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 718.0878899999925}
+{"addr": "147.185.221.30:29544", "online": 0, "version": "Paper 1.21.1", "motd": "A CushCraft Server", "ping": 511.4651789999698}
+{"addr": "147.185.221.30:33095", "online": 0, "version": "Paper 1.21.8", "motd": "A Minecraft Server", "ping": 617.3287149999851}
+{"addr": "147.185.221.30:34161", "online": 0, "version": "1.20.4", "motd": "NerdLand", "ping": 903.8833230000023}
+{"addr": "147.185.221.30:34679", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 780.704180999976}
+{"addr": "147.185.221.30:37438", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 782.7063359999897}
+{"addr": "147.185.221.30:38690", "online": 0, "version": "26.2", "motd": "maxxdabos the goat??!", "ping": 681.3954510000144}
+{"addr": "147.185.221.30:40351", "online": 0, "version": "Paper 1.21.10", "motd": "                         ⬞ɢᴏᴏʟᴏʀᴘ⬞\n                           ⬞ᴄʀᴀꜰᴛ⬞   ", "ping": 607.3366159999978}
+{"addr": "147.185.221.30:40121", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 738.5635570000204}
+{"addr": "147.185.221.30:41864", "online": 0, "version": "Paper 1.21.11", "motd": "                      ʜᴀʟᴠᴇʀ ʙᴜɴ᾽ѕ\n                           ᴀɴᴅ ᴄᴏ.", "ping": 717.193151999993}
+{"addr": "147.185.221.30:43437", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 899.1597270000398}
+{"addr": "147.185.221.30:46430", "online": 0, "version": "1.20.1", "motd": "(t server)^13 [TerraFirmaGreg-Modern] 0.11.27", "ping": 598.97812600002}
+{"addr": "147.185.221.30:47024", "online": 6, "version": "Velocity 1.7.2-26.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 644.5153519999849}
+{"addr": "147.185.221.30:47321", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 633.5324240000091}
+{"addr": "147.185.221.30:49409", "online": 0, "version": "Paper 1.21.11", "motd": "The Brownest of Bricks", "ping": 614.0363559999855}
+{"addr": "147.185.221.30:50630", "online": 0, "version": "1.21.1", "motd": "Welcome to the Crumple Zone Cobblemon+ server!", "ping": 582.714961000022}
+{"addr": "147.185.221.30:63664", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 216.77015400001665}
+{"addr": "147.185.221.29:11448", "online": 0, "version": "Spigot 26.2", "motd": "Welcome to the Team Proteus Server!", "ping": 609.4662599999765}
+{"addr": "147.185.221.29:13884", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 734.414873999981}
+{"addr": "147.185.221.29:19959", "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "                    SANISMP\n                     ѕᴇᴀѕᴏɴ 2", "ping": 803.0541919999905}
+{"addr": "147.185.221.29:20916", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 628.1314649999672}
+{"addr": "147.185.221.29:32511", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 646.6691499999797}
+{"addr": "147.185.221.29:39428", "online": 0, "version": "1.20.1", "motd": "World Nobu", "ping": 1036.513049000007}
+{"addr": "147.185.221.29:42534", "online": 0, "version": "1.21.1", "motd": "All the Mods 10 To the Sky", "ping": 401.1740349999968}
+{"addr": "147.185.221.29:55426", "online": 0, "version": "1.21.1", "motd": "", "ping": 761.5765150000016}
+{"addr": "147.185.221.29:56876", "online": 0, "version": "Paper 1.21.11", "motd": "Join Rags MC with crossplay.midnight-tech.cc", "ping": 262.8940449999959}
+{"addr": "147.185.221.29:59525", "online": 0, "version": "Velocity 1.7.2-1.21.11", "motd": "MaCraftKanSMP - Chill, Build, Survive! Play Anywhere!", "ping": 1075.5499069999814}
+{"addr": "147.185.221.29:63526", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 715.1228980000042}
+{"addr": "147.185.221.29:64730", "online": 7, "version": "Velocity 1.7.2-26.2", "motd": "WebMC | [1.7 - 1.21]\nThe official WebMC Network! | dsc.webmc.fun", "ping": 630.3394399999434}
+{"addr": "147.185.221.29:65000", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "cinnamon_Minecraft_Server!\nVersion 1.7 ~ 26.2", "ping": 1031.6377030000012}
+{"addr": "65.21.24.204:25587", "online": 0, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 379.07907900000737}
+{"addr": "65.21.24.204:25630", "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 416.6089059999649}
+{"addr": "65.21.24.204:25793", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 391.2929199999553}
+{"addr": "65.21.24.204:25821", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 385.54220700007136}
+{"addr": "65.21.24.204:25670", "online": 2, "version": "1.20.1", "motd": "Prominence II RPG · Hasturian Era · RU", "ping": 497.6570689999562}
+{"addr": "65.21.24.204:25765", "online": 0, "version": "1.21.8", "motd": "✿ BunnySMP ✿\n  Приватный сервер друзей • Выживание", "ping": 494.1902560000244}
+{"addr": "65.21.24.204:25634", "online": 3, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 497.63085899996895}
+{"addr": "65.21.24.204:25621", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 509.23647900003743}
+{"addr": "65.21.24.204:25600", "online": 0, "version": "26.1.2", "motd": "Присоединяйся и наслаждайся уникальным опытом игры!", "ping": 537.9896229999304}
+{"addr": "65.21.24.204:25728", "online": 7, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 527.8226500000756}
+{"addr": "65.21.24.204:25591", "online": 0, "version": "1.21.4", "motd": "         enragemc | бета тест! 1.21x\n           ▪ Сайт: enragemc.trademc.org", "ping": 536.0966900000221}
+{"addr": "65.21.24.204:25748", "online": 0, "version": "Paper 1.21.4", "motd": "                  ✦ ʟᴜɴᴀᴄʏꜱᴛᴜᴅɪᴏ ✦\n        ⁘ ʙᴇᴛᴀ-ᴛᴇꜱᴛ • ᴛ.ᴍᴇ/ʟᴜɴᴀᴄʏ_ꜱᴛᴜᴅɪᴏ ⁘", "ping": 530.9345519999624}
+{"addr": "65.21.24.204:25627", "online": 1, "version": "Leaf 1.21.11", "motd": "          KrakenMC • Версия [1.21.11]\n           ◄ САЙТ - krakenmc.ru - ►", "ping": 545.7545040000014}
+{"addr": "65.21.24.204:25777", "online": 0, "version": "Spigot 1.18.2", "motd": "⚔️RevegeMine⚔️ ЗАХОДИ ТУТ ВЕСЕЛО!", "ping": 518.1817369999635}
+{"addr": "65.21.24.204:25843", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 509.26529200000914}
+{"addr": "65.21.24.204:25782", "online": 1, "version": "Purpur 1.21.11", "motd": "CubeChan Eternal", "ping": 516.6363210000782}
+{"addr": "65.21.24.204:25828", "online": 0, "version": "1.21.11", "motd": "ЖИРИНОВСКИЙ ЗА МАЙНКРАФТ", "ping": 509.97542400000384}
+{"addr": "65.21.24.204:25766", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 517.6574820000042}
+{"addr": "65.21.24.204:25841", "online": 1, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 526.2330020000263}
+{"addr": "65.21.24.204:25923", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 522.7457619999996}
+{"addr": "65.21.24.204:25833", "online": 0, "version": "26.1.2", "motd": "Наше ванильное выживание", "ping": 525.4009340000039}
+{"addr": "65.21.24.204:25726", "online": 2, "version": "Paper 1.21.11", "motd": "☠ MriyaCraft ☠   Жорстока Анархія\n★ 1.21+   виживай та пануй!", "ping": 556.8744700000252}
+{"addr": "65.21.24.204:25952", "online": 0, "version": "Paper 1.21.1", "motd": "-----------[ ProCraft ]-----------\n1.18.2 - 1.21.1    Выживание      PVP", "ping": 538.1532580000794}
+{"addr": "65.21.24.204:25950", "online": 0, "version": "1.21.1", "motd": "", "ping": 538.1606710000142}
+{"addr": "65.21.24.204:25651", "online": 0, "version": "Paper 1.21.11", "motd": "ТЕСТ ВЕЛИКОГО ГОРОДА ДОЛБАЁБУРГ", "ping": 676.7126560000634}
+{"addr": "65.21.24.204:25776", "online": 4, "version": "1.7.10", "motd": "GT:New Horizons 2.8.4", "ping": 667.7527100000589}
+{"addr": "213.171.18.225:31012", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 210.53547199994682}
+{"addr": "213.171.18.225:31129", "online": 0, "version": "Paper 26.2", "motd": "Siberiatown", "ping": 209.17808500007595}
+{"addr": "213.171.18.225:31407", "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 184.07323200005976}
+{"addr": "213.171.18.225:31459", "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "                 Lamp39 | 26.1.X\n              Присоединяйся к нам!", "ping": 182.89664499991432}
+{"addr": "213.171.18.225:31514", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 183.91979000000447}
+{"addr": "213.171.18.225:31573", "online": 0, "version": "Paper 26.2", "motd": "1`111111111111111111", "ping": 181.75900699998238}
+{"addr": "213.171.18.225:32484", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 221.62971199998083}
+{"addr": "213.171.18.225:32603", "online": 1, "version": "1.21.1", "motd": "Server is Online!", "ping": 369.09163799998623}
+{"addr": "213.171.18.225:32258", "online": 0, "version": "1.21.1", "motd": "LARP", "ping": 182.84302399990793}
+{"addr": "213.171.18.225:32114", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 183.17546299999776}
+{"addr": "213.171.18.225:32090", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 184.0189319999581}
+{"addr": "213.171.18.225:32427", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 182.13595800000348}
+{"addr": "213.171.18.225:32326", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 182.42651899993234}
+{"addr": "213.171.18.225:32433", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 184.22418400007246}
+{"addr": "213.171.18.225:32483", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 182.27928399994653}
+{"addr": "213.171.18.225:32692", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 181.41078999997262}
+{"addr": "213.171.18.225:32496", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 364.9993800000857}
+{"addr": "213.171.18.225:32714", "online": 0, "version": "1.21.8", "motd": "GoidaCraft", "ping": 373.4932800000479}
+{"addr": "213.171.18.225:32967", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 182.08166799990977}
+{"addr": "213.171.18.225:32941", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 182.80077600002187}
+{"addr": "213.171.18.225:33001", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 184.77419900000314}
+{"addr": "213.171.18.225:32920", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 185.22165199999563}
+{"addr": "213.171.18.225:32909", "online": 3, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 186.1130409999987}
+{"addr": "213.171.18.225:32868", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 363.8733569999886}
+{"addr": "213.171.18.225:32994", "online": 0, "version": "1.16.5", "motd": "R.A.D. 2 Server", "ping": 393.29346099998475}
+{"addr": "213.171.18.225:32473", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 365.31360700007554}
+{"addr": "free.joinserver.xyz:25591", "online": 0, "version": "Paper 1.21.11", "motd": "Plugin Test Server", "ping": 319.864225999936}
+{"addr": "free.joinserver.xyz:25575", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 320.5573559999948}
+{"addr": "free.joinserver.xyz:25615", "online": 0, "version": "1.21.6", "motd": "A Minecraft Server", "ping": 311.01360000002387}
+{"addr": "free.joinserver.xyz:25656", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 322.85234899995885}
+{"addr": "free.joinserver.xyz:25799", "online": 0, "version": "Leaf 1.21.4", "motd": "", "ping": 326.86822499999835}
+{"addr": "free.joinserver.xyz:25813", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 315.4801780000298}
+{"addr": "free.joinserver.xyz:25867", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 310.6234179999774}
+{"addr": "free.joinserver.xyz:25876", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 309.11643100000674}
+{"addr": "free.joinserver.xyz:25602", "online": 0, "version": "1.20.1", "motd": "[TerraFirmaGreg-Modern] Server 0.13.1", "ping": 383.63618400001087}
+{"addr": "free.joinserver.xyz:25646", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 406.6756910000322}
+{"addr": "free.joinserver.xyz:25627", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 407.37628499994116}
+{"addr": "free.joinserver.xyz:25630", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 407.24985000008473}
+{"addr": "free.joinserver.xyz:25642", "online": 0, "version": "Paper 1.21.4", "motd": "   ✞ FTime ✞    Идеальные режимы\n✿ 1.8 – 1.21.x ✿ Для тебя и друзей!", "ping": 406.8645119999701}
+{"addr": "free.joinserver.xyz:25878", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 362.76369400002295}
+{"addr": "free.joinserver.xyz:25859", "online": 0, "version": "26.1", "motd": "A Minecraft Server", "ping": 362.67488900000444}
+{"addr": "free.joinserver.xyz:25897", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 361.4843530000371}
+{"addr": "free.joinserver.xyz:25677", "online": 3, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 436.2717519999251}
+{"addr": "free.joinserver.xyz:25669", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 436.7598400000361}
+{"addr": "free.joinserver.xyz:25724", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 438.8930970000047}
+{"addr": "free.joinserver.xyz:25692", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 439.5979380000199}
+{"addr": "free.joinserver.xyz:25721", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 437.2614999999769}
+{"addr": "free.joinserver.xyz:25753", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 436.5784280000753}
+{"addr": "free.joinserver.xyz:25793", "online": 0, "version": "1.7.10", "motd": "A Minecraft Server", "ping": 470.63382599992565}
+{"addr": "free.joinserver.xyz:25763", "online": 0, "version": "Paper 1.21.11", "motd": "❄ FrozLord ❄ - 1.21.11\nХолодная анархия для тебя и друзей</gradient", "ping": 472.7052440000534}
+{"addr": "free.joinserver.xyz:25854", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 454.00666799991996}
+{"addr": "free.joinserver.xyz:25984", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 411.08584500000234}
+{"addr": "free.joinserver.xyz:25949", "online": 0, "version": "Purpur 26.2", "motd": "A Minecraft Server", "ping": 518.8891529999182}
+{"addr": "free.joinserver.xyz:25932", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 519.4090799999458}
+{"addr": "free.joinserver.xyz:25938", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 518.8994009999988}
+{"addr": "free.joinserver.xyz:25995", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 503.0911759999981}
+{"addr": "free.joinserver.xyz:25977", "online": 0, "version": "1.19.2", "motd": "MainDeath", "ping": 729.8698629999762}
+{"addr": "f1.rustix.me:25540", "online": 1, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 326.6018530000565}
+{"addr": "f1.rustix.me:25510", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 421.6269700000339}
+{"addr": "f1.rustix.me:27752", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 300.35831200007124}
+{"addr": "f1.rustix.me:29331", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 3370.7117180000523}
+{"addr": "f1.rustix.me:29704", "online": 0, "version": "Purpur 1.16.5", "motd": "              ᴊᴜsᴛ ᴠᴀɴɪʟʟᴀ | ɴᴏ ᴘʟᴀʏsᴛʏʟᴇ\n⤿ ꜰ1.ʀᴜsᴛɪx.ᴍᴇ:29704 ∫ 193.23.222.15:29704 ⤾", "ping": 3507.1329480000486}
+{"addr": "f1.rustix.me:29822", "online": 1, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 3473.067199999946}
+{"addr": "f1.rustix.me:30236", "online": 1, "version": "Purpur 1.21.11", "motd": "DeepRun SMP", "ping": 301.3852130000032}
+{"addr": "f1.rustix.me:32526", "online": 0, "version": "Spigot 26.2", "motd": "Здесь ванильное выживание\nВнимание! переход на 26.2", "ping": 260.477131000016}
+{"addr": "f1.rustix.me:33592", "online": 0, "version": "Purpur 1.16.5", "motd": "HolyWorld Lite", "ping": 236.79203100004997}
+{"addr": "f1.rustix.me:33530", "online": 0, "version": "Spigot 1.16.5", "motd": "A Minecraft Server", "ping": 282.86890700007916}
+{"addr": "f1.rustix.me:35646", "online": 0, "version": "Paper 26.2", "motd": "A Minecraft Server", "ping": 357.77370300002076}
+{"addr": "f1.rustix.me:35969", "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "  ▪ RiftWorld ▪               ЛЕТНИЙ ВАЙП\n▪ 1.21.11 - 26.2 ▪   /free бесплатный донат", "ping": 302.77038999997785}
+{"addr": "f1.rustix.me:36341", "online": 2, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 306.7173440000488}
+{"addr": "f1.rustix.me:37894", "online": 0, "version": "Paper 1.21.5", "motd": "can you survive?", "ping": 272.3733779999975}
+{"addr": "f1.rustix.me:38424", "online": 0, "version": "Paper 26.2", "motd": "Майншилд? ДА ОН И РЯДОМ НЕ СТОИТ!!!", "ping": 465.3763719999233}
+{"addr": "f1.rustix.me:39441", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 499.4505060000165}
+{"addr": "f1.rustix.me:39868", "online": 0, "version": "Folia 26.1.2", "motd": "A Minecraft Server", "ping": 550.516233000053}
+{"addr": "d1.rionix.cloud:25023", "online": 0, "version": "Youer 1.21.1", "motd": "A Minecraft Server", "ping": 1897.1668340000178}
+{"addr": "d1.rionix.cloud:25025", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 1867.3906039999792}
+{"addr": "d1.rionix.cloud:25027", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 1863.5217199999943}
+{"addr": "d1.rionix.cloud:25001", "online": 0, "version": "Leaf 1.21.11", "motd": "A Minecraft Server", "ping": 1975.6262640000841}
+{"addr": "d1.rionix.cloud:25008", "online": 0, "version": "AureonMc 1.12.2-1.21.11", "motd": "                       ✦ AUREON ✦\n                HideAndSeek • FFA • ???", "ping": 1957.4072249999972}
+{"addr": "d1.rionix.cloud:25006", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 1936.5316380000195}
+{"addr": "d1.rionix.cloud:25024", "online": 10, "version": "Purpur 1.21.4", "motd": "A Minecraft Server", "ping": 1929.9981940000634}
+{"addr": "d1.rionix.cloud:25000", "online": 15, "version": "NullCordX 1.16-26.1", "motd": "sᴡᴏʀʟᴅ 1.16.5+ \nᴏᴘ/sᴡᴏʀᴅ ᴘʀᴀᴄᴛɪsᴇ", "ping": 1971.5219909999178}
+{"addr": "d1.rionix.cloud:25029", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 1909.0970249999373}
+{"addr": "d1.rionix.cloud:25035", "online": 0, "version": "Paper 1.21.11", "motd": "A Hardcore Minecraft Server", "ping": 1901.5484589999687}
+{"addr": "d1.rionix.cloud:25012", "online": 0, "version": "1.21.11", "motd": "STChill - Лучший полу-ванильный сервер!", "ping": 2005.2533549999225}
+{"addr": "d1.rionix.cloud:25040", "online": 0, "version": "mohist 1.20.1", "motd": "Кровавые деньги", "ping": 291.4665750000722}
+{"addr": "d1.rionix.cloud:25068", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 235.36518299999898}
+{"addr": "d1.rionix.cloud:25098", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 231.90143900001203}
+{"addr": "d1.rionix.cloud:25138", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 230.29966900003274}
+{"addr": "d1.rionix.cloud:25143", "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 229.12469400000646}
+{"addr": "d1.rionix.cloud:25046", "online": 0, "version": "SSSpigot 1.16.5", "motd": "A Minecraft Server", "ping": 273.2351950000975}
+{"addr": "d1.rionix.cloud:25250", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 223.46322199996393}
+{"addr": "d1.rionix.cloud:25129", "online": 0, "version": "Paper 1.21.11", "motd": "NeonovServer", "ping": 230.25915499999883}
+{"addr": "d1.rionix.cloud:25065", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 234.6795870000733}
+{"addr": "d1.rionix.cloud:25137", "online": 0, "version": "SSSpigot 1.16.5", "motd": "lobby", "ping": 228.1004879999955}
+{"addr": "d1.rionix.cloud:25130", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 228.4502989999737}
+{"addr": "d1.rionix.cloud:25045", "online": 0, "version": "1.21.1", "motd": "Залупа Коня", "ping": 270.333566999966}
+{"addr": "d1.rionix.cloud:25063", "online": 0, "version": "Paper 1.21.11", "motd": "Best smp serer", "ping": 241.5739540000459}
+{"addr": "d1.rionix.cloud:25086", "online": 1, "version": "Paper 26.1.2", "motd": "1.21+ REONIX", "ping": 238.17820600004325}
+{"addr": "d1.rionix.cloud:25112", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "       ʀᴀᴢᴇᴛɪᴍᴇ | 1.16.5+\n  ✦  Глобальное обновление", "ping": 236.25349600001755}
+{"addr": "d1.rionix.cloud:25136", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "     🗡 ᴀꜱᴜxɢʀɪᴇꜰ 🏹 | Вайп был 30 мая\n     Подписывайся на тгк: ᴛ.ᴍᴇ/ᴀꜱᴜxɢʀɪᴇꜰ", "ping": 235.3303780000715}
+{"addr": "d1.rionix.cloud:25140", "online": 0, "version": "1.20.1", "motd": "Добро пожаловать\nэто наш сервер", "ping": 234.99287999993612}
+{"addr": "d1.rionix.cloud:25157", "online": 0, "version": "1.21.11", "motd": "           Время строить вновь\n            Twitch-телестройка", "ping": 234.19237100006285}
+{"addr": "d1.rionix.cloud:25142", "online": 0, "version": "Paper 26.1.2", "motd": "Golden Apple Gang", "ping": 234.6925919999876}
+{"addr": "d1.rionix.cloud:25064", "online": 0, "version": "Purpur 26.1.2", "motd": "Ванила", "ping": 239.96601200008172}
+{"addr": "d1.rionix.cloud:25209", "online": 0, "version": "Paper 1.21.11", "motd": "FrostSMP 1.16.5-1.21.11 Заходи к нам играть!", "ping": 230.75535699990724}
+{"addr": "d1.rionix.cloud:25121", "online": 0, "version": "Paper 1.16.5", "motd": "KisuliLove", "ping": 238.8537130000259}
+{"addr": "d1.rionix.cloud:25108", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 237.3489829999471}
+{"addr": "d1.rionix.cloud:25126", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 235.95725500001663}
+{"addr": "d1.rionix.cloud:25048", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 357.1884850000515}
+{"addr": "d1.aurorix.net:25026", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 487.4263849999352}
+{"addr": "d1.aurorix.net:25010", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 487.0737809999355}
+{"addr": "d1.aurorix.net:25182", "online": 0, "version": "TimeWorld 1.16.5", "motd": "", "ping": 498.8655520000975}
+{"addr": "d1.aurorix.net:25365", "online": 0, "version": "Purpur 1.21.1", "motd": "A Minecraft Server", "ping": 509.04510000009395}
+{"addr": "d1.aurorix.net:25461", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 506.38236899999356}
+{"addr": "d1.aurorix.net:25334", "online": 0, "version": "neracube", "motd": "     🗡 ɴᴇʀᴀᴄᴜʙᴇ ▪ Начало ГЛОБАЛЬНОГО ВАЙПА             ▪ 1.16.5-1.20x ▪ Вайп 3 июля", "ping": 651.4098220000051}
+{"addr": "d1.aurorix.net:25327", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 651.5640980001081}
+{"addr": "d1.aurorix.net:25384", "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 655.7479829998556}
+{"addr": "d1.aurorix.net:25439", "online": 0, "version": "Paper 1.21.11", "motd": "Beyond Vanilla", "ping": 653.9067859998795}
+{"addr": "d1.aurorix.net:25690", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 666.2417749998895}
+{"addr": "d1.aurorix.net:25758", "online": 2, "version": "Paper 1.21.4", "motd": "KitLovely (1.21.4+)\nВыживание без грифа", "ping": 661.38280999985}
+{"addr": "d1.aurorix.net:26237", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 536.4862639999046}
+{"addr": "d1.aurorix.net:26012", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 690.1974950001204}
+{"addr": "d1.aurorix.net:26003", "online": 0, "version": "Nakrytka:0", "motd": "⬝ FuterWorld ⬝              ЗАХОДИ НА \n⬝ 1.16.5 ⬝ 1.21 ⬝   ГЛОБАЛЬНЫЙ ЛЕТНИЙ ВАЙП", "ping": 691.0681100000602}
+{"addr": "d1.aurorix.net:26066", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 722.6318330001504}
+{"addr": "d1.aurorix.net:26077", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 722.0425299999533}
+{"addr": "d1.aurorix.net:26110", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 718.556271000125}
+{"addr": "d1.aurorix.net:26144", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "A Minecraft Server", "ping": 716.7713789999652}
+{"addr": "d1.aurorix.net:26154", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 716.3343879999502}
+{"addr": "d1.aurorix.net:26175", "online": 0, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 716.4461970000957}
+{"addr": "d1.aurorix.net:26527", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 558.0541480001102}
+{"addr": "d1.aurorix.net:26282", "online": 0, "version": "Paper 1.12.2", "motd": "A Minecraft Server", "ping": 738.2790760000262}
+{"addr": "d1.aurorix.net:26325", "online": 0, "version": "Leaf 1.21.11", "motd": "Waynex | Королевская битва", "ping": 736.4767210001446}
+{"addr": "d1.aurorix.net:26265", "online": 0, "version": "26.1.2", "motd": "Shar Pei", "ping": 739.5937460000823}
+{"addr": "d1.aurorix.net:26712", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 588.6874029999944}
+{"addr": "d1.aurorix.net:26770", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 588.7655379999615}
+{"addr": "d1.aurorix.net:26409", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 760.8611369998926}
+{"addr": "d1.aurorix.net:26454", "online": 0, "version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x", "motd": "    ✞ FunStorm ✞   Идеальные режимы                ☆ 1.20 - 1.16.5  ☆  для тебя и друзей!", "ping": 763.1551520000812}
+{"addr": "d1.aurorix.net:26874", "online": 0, "version": "Purpur 1.21.1", "motd": "A Minecraft Server", "ping": 621.1213199999293}
+{"addr": "d1.aurorix.net:26523", "online": 0, "version": "Paper 26.1.2", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 779.5756000000438}
+{"addr": "d1.aurorix.net:26615", "online": 0, "version": "1.21.1", "motd": "Заходи!", "ping": 802.0013029999973}
+{"addr": "d1.aurorix.net:26741", "online": 0, "version": "MineV 1.17-21.1.2", "motd": "                ⚠ MineV - Ждём тебя!! ⚠\n         Версия || 1.17 - 26.1.2 (Новинка!)", "ping": 790.9448170000815}
+{"addr": "d1.aurorix.net:26956", "online": 0, "version": "Paper 1.20.2", "motd": "   ✦ ORIGIN SMP[1.20.1] - BETA Version 0.1 ✦\n                   New Journey Begin!", "ping": 829.806815999973}
+{"addr": "d1.aurorix.net:26985", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 844.0564219999942}
+{"addr": "d2.aurorix.net:25031", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 656.6442470000311}
+{"addr": "d2.aurorix.net:25000", "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 883.1879829999707}
+{"addr": "d2.aurorix.net:25002", "online": 0, "version": "Paper 1.12.2", "motd": "Server hosted by Aurorix.net", "ping": 883.8114600000608}
+{"addr": "d2.aurorix.net:25076", "online": 0, "version": "Purpur 1.16.5", "motd": "ReallyWorld by FrameDev", "ping": 874.7815609999634}
+{"addr": "d2.aurorix.net:25497", "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 649.9622060000547}
+{"addr": "d2.aurorix.net:25885", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 639.5149040001797}
+{"addr": "d2.aurorix.net:25535", "online": 0, "version": "Paper 1.20.6", "motd": "A Minecraft Server", "ping": 840.0945369999135}
+{"addr": "d2.aurorix.net:25567", "online": 0, "version": "Spigot 1.16.5", "motd": "Server hosted by Aurorix.net", "ping": 841.9772130000638}
+{"addr": "d2.aurorix.net:26056", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 782.662504999962}
+{"addr": "d2.aurorix.net:25838", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 951.0111739998592}
+{"addr": "d2.aurorix.net:26453", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 796.928755999943}
+{"addr": "d2.aurorix.net:26669", "online": 0, "version": "Paper 1.21.11", "motd": "лучший ванильный сервер VanilaCraft", "ping": 750.7761710000977}
+{"addr": "d2.aurorix.net:26697", "online": 0, "version": "1.19.2", "motd": "A Minecraft Server", "ping": 744.8325909999767}
+{"addr": "d2.aurorix.net:26768", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 740.8250590001444}
+{"addr": "d2.aurorix.net:26942", "online": 0, "version": "1.21.9", "motd": "               ⏴ Яшколесье Unlimited ⏵\n                        We're OPEN!", "ping": 740.3510260000985}
+{"addr": "d3.aurorix.net:25053", "online": 0, "version": "SSSpigot 1.16.5", "motd": "Lobby", "ping": 623.5395500000322}
+{"addr": "d3.aurorix.net:25084", "online": 0, "version": "1.20.4", "motd": "A Minecraft Server", "ping": 581.9894740000109}
+{"addr": "d3.aurorix.net:25171", "online": 0, "version": "Paper 1.20.4", "motd": "пусто", "ping": 570.0775379998504}
+{"addr": "d3.aurorix.net:25379", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 556.7929540000023}
+{"addr": "d3.aurorix.net:25417", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 554.1604319998896}
+{"addr": "d3.aurorix.net:25015", "online": 0, "version": "Paper 1.21.1", "motd": "HoqawWorld!", "ping": 731.5641570000935}
+{"addr": "d3.aurorix.net:25496", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 545.4933039998195}
+{"addr": "d3.aurorix.net:25030", "online": 0, "version": "mohist 1.20.1", "motd": "A Minecraft Server", "ping": 786.6316790000383}
+{"addr": "d3.aurorix.net:25008", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 788.4706360000564}
+{"addr": "d3.aurorix.net:25143", "online": 0, "version": "Spigot 26.1.1", "motd": "A Minecraft Server", "ping": 734.2550390001179}
+{"addr": "d3.aurorix.net:25214", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 725.291678000076}
+{"addr": "d3.aurorix.net:25198", "online": 0, "version": "forge arclight/Trials 1.20.1", "motd": "Классический SMP‑сервер с уникальной механикой: в мире существует ЕДИНСТВЕННАЯ БУЛАВА.", "ping": 733.0469860000903}
+{"addr": "d3.aurorix.net:25828", "online": 0, "version": "Leaf 1.21.4", "motd": "A Minecraft Server", "ping": 519.244069000024}
+{"addr": "d3.aurorix.net:25389", "online": 0, "version": "CakeVelocity", "motd": "Мой крутой сервер!", "ping": 718.8484350001545}
+{"addr": "d3.aurorix.net:25920", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 506.51868099998865}
+{"addr": "d3.aurorix.net:25933", "online": 0, "version": "Paper 1.21.11", "motd": "пу-пу-пу", "ping": 504.32208699999137}
+{"addr": "d3.aurorix.net:25934", "online": 0, "version": "Leaf 1.21.4", "motd": "", "ping": 502.2368349998487}
+{"addr": "d3.aurorix.net:25560", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 711.3453869999375}
+{"addr": "d3.aurorix.net:25551", "online": 0, "version": "Paper 1.21.4", "motd": "           » SweetMine « (1.8-1.21+)\nВсем донат - /free | Лучшее выживание ☀", "ping": 711.8536770001356}
+{"addr": "d3.aurorix.net:25620", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 699.4117399999595}
+{"addr": "d3.aurorix.net:25689", "online": 0, "version": "1.20.1", "motd": "GOOD SURV ONLY PEACE", "ping": 692.1403369999553}
+{"addr": "d3.aurorix.net:25247", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 922.9424620000373}
+{"addr": "d3.aurorix.net:25695", "online": 0, "version": "Paper 1.18.2", "motd": "LegendsWorld Лучший анархический сервер!", "ping": 774.5273479999923}
+{"addr": "d3.aurorix.net:25750", "online": 0, "version": "1.12.2", "motd": "A Minecraft Server", "ping": 766.4921900000081}
+{"addr": "d3.aurorix.net:25461", "online": 0, "version": "Paper 1.21.8", "motd": "          MᴏᴏɴTɪᴍᴇ ꜱᴇᴀꜱᴏɴ ɪ ¹•²¹•⁸\n   ❤ Дружелюбное ванильное выживание ❤", "ping": 968.274670000028}
+{"addr": "d3.aurorix.net:25912", "online": 0, "version": "Purpur 1.16.5", "motd": "f4128011a6f41e5bbfc4c96c7e7fa4d3", "ping": 766.5342520001559}
+{"addr": "d3.aurorix.net:25922", "online": 0, "version": "SSSpigot 1.16.5", "motd": "c4f9ad82cc0113317b4a736e1ea3fe0a", "ping": 764.0236639999785}
+{"addr": "d3.aurorix.net:25953", "online": 0, "version": "Paper 26.1.2", "motd": " Morisery", "ping": 762.0356759998685}
+{"addr": "d3.aurorix.net:25911", "online": 0, "version": "Paper 26.1.2", "motd": "                ✦ Тест Уэстфорда ✦", "ping": 765.0675029999547}
+{"addr": "d3.aurorix.net:25993", "online": 0, "version": "Velocity 1.7.2-1.21.1", "motd": "PitaiaTime - Вспомнил как жилось раньше?) ", "ping": 760.3561109999646}
+{"addr": "d3.aurorix.net:25930", "online": 0, "version": "1.21.11", "motd": "Добро пожаловать на сервер!", "ping": 765.1744969998617}
+{"addr": "d3.aurorix.net:25427", "online": 0, "version": "Paper 1.16.5", "motd": "MagicGrief", "ping": 1363.3693239999047}
+{"addr": "d3.aurorix.net:25353", "online": 3, "version": "1.21.1", "motd": "Gay Minecraft Server", "ping": 5754.631122000092}
+{"addr": "d4.aurorix.net:25138", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 265.21143200011466}
+{"addr": "d4.aurorix.net:25175", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 287.09097199998723}
+{"addr": "d4.aurorix.net:25497", "online": 0, "version": "Paper 1.18.2", "motd": "Friend", "ping": 245.62557499984905}
+{"addr": "d4.aurorix.net:25510", "online": 0, "version": "Leaf 1.21.11", "motd": "187aa8793fdbb25dd5d2b285203bd6c8", "ping": 250.4525960000592}
+{"addr": "d4.aurorix.net:25418", "online": 0, "version": "Mohist 1.12.2", "motd": "A Minecraft Server", "ping": 263.61640799996167}
+{"addr": "d4.aurorix.net:25541", "online": 5, "version": "Purpur 1.21.11", "motd": "✦ Valtera ✦ Мир, где так уютно просто быть!\n     Следите за новостями:  t.me/valtera_a", "ping": 250.17866899997898}
+{"addr": "d4.aurorix.net:25645", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 280.05703300004825}
+{"addr": "d4.aurorix.net:25574", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 280.445575000158}
+{"addr": "d4.aurorix.net:25255", "online": 2, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 479.3702960000701}
+{"addr": "d4.aurorix.net:25675", "online": 0, "version": "Paper 1.21.4", "motd": "    ✞ TestTime ✞   Идеальные режимы\n ☆ 1.21.4  ☆  для тебя и друзей!", "ping": 457.4025110000548}
+{"addr": "d4.aurorix.net:25565", "online": 0, "version": "Velocity 1.7.2-1.21.8", "motd": "                      MurchaCraft\n            Анархия открыта! /free - бонус!", "ping": 557.372647999955}
+{"addr": "d4.aurorix.net:25571", "online": 0, "version": "Paper 1.21.11", "motd": "\n        ❱❱ Начать приватный чай ❰❰", "ping": 557.6174830000582}
+{"addr": "d4.aurorix.net:25937", "online": 0, "version": "Grief-1 1.16.5", "motd": "", "ping": 519.2150849998143}
+{"addr": "d4.aurorix.net:25805", "online": 0, "version": "Spigot 26.2", "motd": "Six Hot Loads", "ping": 622.3891690001437}
+{"addr": "d4.aurorix.net:25935", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 609.8795370000971}
+{"addr": "d4.aurorix.net:25973", "online": 0, "version": "Paper 1.21.11", "motd": "KudusSMP • 1.21.11        Тех. работы ФИКСИМ ПИНГ\n          Купить донат - www.kudussmp.su", "ping": 594.102833000079}
+{"addr": "d4.aurorix.net:25670", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 810.7575599999564}
+{"addr": "d4.aurorix.net:26041", "online": 0, "version": "1.21.11", "motd": "            Fun Friend Server 1.21.4\n         » [ СЛУЧАЙНЫЕ ПРЕДМЕТЫ ] «", "ping": 566.070555999886}
+{"addr": "d5.aurorix.net:19029", "online": 0, "version": "SSSpigot 1.16.5", "motd": "ReallyWorld", "ping": 290.4789280000841}
+{"addr": "d5.aurorix.net:19025", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 326.276474999986}
+{"addr": "d5.aurorix.net:19048", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "🐺 Салам, джигитер!! Жана клан BebraMaximum!!!! 💋", "ping": 321.3160519999292}
+{"addr": "d5.aurorix.net:19093", "online": 0, "version": "Purpur 26.1.2", "motd": "Кубические кружки", "ping": 351.42363700015267}
+{"addr": "d5.aurorix.net:19059", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 361.36122300013085}
+{"addr": "d5.aurorix.net:19124", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 353.1634519999898}
+{"addr": "d5.aurorix.net:19131", "online": 0, "version": "Purpur 1.21.11", "motd": "            Raftmine  ❙  Анархия  »\nЗдесь выживают только сильнейшие  |  RaftMine", "ping": 360.3662940001868}
+{"addr": "d5.aurorix.net:19183", "online": 0, "version": "Spigot 1.18", "motd": "A Minecraft Server", "ping": 352.9132070000287}
+{"addr": "d5.aurorix.net:19257", "online": 1, "version": "", "motd": "                   ★ ᴅꜱᴄ.ɢɢ/ᴄʜɪʟʟʙᴏx\n                  1.21.4+ | пᴘᴏшёл ʙᴀйп!", "ping": 352.26187500006745}
+{"addr": "d5.aurorix.net:19231", "online": 0, "version": "Paper 1.21.11", "motd": "Начинающий СМП проект", "ping": 367.05296500008444}
+{"addr": "d5.aurorix.net:19319", "online": 0, "version": "Paper 1.21.6", "motd": "A Minecraft Server", "ping": 352.3767179999595}
+{"addr": "d5.aurorix.net:19177", "online": 0, "version": "Paper 1.20.4", "motd": "A Minecraft Server", "ping": 383.94299100013995}
+{"addr": "d5.aurorix.net:19296", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 367.26846900000965}
+{"addr": "d5.aurorix.net:19225", "online": 0, "version": "Paper 26.1.1", "motd": "VanillaWay — Новый сезон\n26.1.1 • Старые версии • Java+Bedrock", "ping": 391.66548800017154}
+{"addr": "d5.aurorix.net:19010", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 468.9279589999842}
+{"addr": "d5.aurorix.net:19444", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 352.32776499992724}
+{"addr": "d5.aurorix.net:19338", "online": 1, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 388.8858870000149}
+{"addr": "d5.aurorix.net:19386", "online": 0, "version": "Spigot 1.8", "motd": "-----------------[ [ClanWar]LIME ]-----------------\nVK group https://vk.com/limecw", "ping": 365.9803400000783}
+{"addr": "d5.aurorix.net:19473", "online": 0, "version": "Purpur 1.16.5", "motd": "hub", "ping": 356.5815950000797}
+{"addr": "d5.aurorix.net:19494", "online": 0, "version": "Purpur 1.16.5", "motd": "", "ping": 353.5260940000171}
+{"addr": "d5.aurorix.net:19526", "online": 0, "version": "Paper 1.21.10", "motd": "A Minecraft Server", "ping": 368.15182600003027}
+{"addr": "d5.aurorix.net:19498", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 374.67514600007235}
+{"addr": "d5.aurorix.net:19440", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 383.79787799999576}
+{"addr": "d5.aurorix.net:19525", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 382.68203300003734}
+{"addr": "d5.aurorix.net:19212", "online": 0, "version": "HolyDay", "motd": "               ›› ＨＯＬＹＤＡＹ | 1.16 - 1.21 ‹‹\n           Сервер для ваших приключений", "ping": 529.3014979999953}
+{"addr": "d5.aurorix.net:19342", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 552.0679520000158}
+{"addr": "d5.aurorix.net:19424", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 579.3391259999225}
+{"addr": "d5.aurorix.net:19545", "online": 0, "version": "Purpur 1.21.11", "motd": "Vodolazov Team", "ping": 353.19221200006723}
+{"addr": "d5.aurorix.net:19551", "online": 0, "version": "mohist 1.20.1", "motd": "A Minecraft Server", "ping": 537.8163670000049}
+{"addr": "d5.aurorix.net:19592", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 387.6675779999914}
+{"addr": "d5.aurorix.net:19600", "online": 0, "version": "26.1.2", "motd": "У нас дружелюбное сообщество - будь вежлив и уважай других!", "ping": 365.19053999995776}
+{"addr": "d5.aurorix.net:19634", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 342.43275900007575}
+{"addr": "d5.aurorix.net:19636", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 346.9520129999637}
+{"addr": "d5.aurorix.net:19640", "online": 2, "version": "Purpur 1.16.5", "motd": "A Minecraft Server", "ping": 348.2282329998725}
+{"addr": "d5.aurorix.net:19657", "online": 0, "version": "26.1.2", "motd": "Сервер выживания NeoForge 26.1.2", "ping": 353.21700100007547}
+{"addr": "d5.aurorix.net:19768", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 1744.2244019998725}
+{"addr": "d5.aurorix.net:19785", "online": 0, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 1741.7800769999303}
+{"addr": "d5.aurorix.net:19711", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 1789.5588799999587}
+{"addr": "d5.aurorix.net:19775", "online": 0, "version": "1.21.4", "motd": "The Flor Server", "ping": 1745.2880790001473}
+{"addr": "d5.aurorix.net:19795", "online": 4, "version": "1.20.1", "motd": "страшно", "ping": 1731.5011470000172}
+{"addr": "d5.aurorix.net:19729", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 1743.7876999999844}
+{"addr": "d5.aurorix.net:19811", "online": 0, "version": "Paper 1.16.5", "motd": "5234604ebe81d5cd36a707db7e53bef5", "ping": 356.26184900002045}
+{"addr": "d5.aurorix.net:19822", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 352.647141000034}
+{"addr": "d5.aurorix.net:19820", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 365.55862700015496}
+{"addr": "d5.aurorix.net:19817", "online": 0, "version": "Paper 1.21.11", "motd": "", "ping": 371.8550820001383}
+{"addr": "d5.aurorix.net:19893", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 348.0549640000845}
+{"addr": "d5.aurorix.net:19920", "online": 0, "version": "1.21.11", "motd": "                      d ChervyakCraft d\n       Лучший сервер для умственно отсталых!", "ping": 351.5907830001197}
+{"addr": "d5.aurorix.net:19998", "online": 1, "version": "Velocity 1.7.2-26.1.2", "motd": "                 NewStar\n       Твори, Веселись, Общайся!", "ping": 352.5809790000949}
+{"addr": "d5.aurorix.net:25712", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 356.23001099997964}
+{"addr": "d5.aurorix.net:25703", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 364.2930500000148}
+{"addr": "d5.aurorix.net:25709", "online": 0, "version": "Spigot 1.21.11", "motd": "A Minecraft Server", "ping": 381.08553000006395}
+{"addr": "d5.aurorix.net:25769", "online": 0, "version": "1.21.1", "motd": "SELA-DALA. KIRILL GEY", "ping": 358.7429980000252}
+{"addr": "d5.aurorix.net:25805", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 385.9948159999931}
+{"addr": "d5.aurorix.net:25850", "online": 1, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 387.73163700011537}
+{"addr": "d5.aurorix.net:25748", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 554.1121029998521}
+{"addr": "d5.aurorix.net:25937", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 381.01662200006103}
+{"addr": "d5.aurorix.net:25948", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 370.4767399999582}
+{"addr": "d5.aurorix.net:25902", "online": 3, "version": "Purpur 26.1.2", "motd": "A Minecraft Server", "ping": 389.1101050000998}
+{"addr": "d5.aurorix.net:25808", "online": 0, "version": "1.21.1", "motd": "           ☻HexAnarchy | Выживание 1.21.1☻\n     ☻Заходи и выживай! | play.hexanarchy.net☻", "ping": 554.152742000042}
+{"addr": "d5.aurorix.net:25837", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 566.7966440000782}
+{"addr": "d5.aurorix.net:25848", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 587.3995669999204}
+{"addr": "d5.aurorix.net:25961", "online": 0, "version": "Paper 1.21.11", "motd": "ОРГАН СМП\n✳ Ждем именно тебя! ✳", "ping": 355.39613200012354}
+{"addr": "d5.aurorix.net:25971", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 384.7956229999454}
+{"addr": "d5.aurorix.net:26050", "online": 0, "version": "Spigot 1.21.4", "motd": "A Minecraft Server", "ping": 351.2778609999714}
+{"addr": "d5.aurorix.net:26043", "online": 0, "version": "1.21.11", "motd": "███ LIFE STELE | СЕЗОН 1 ███\n███ ТВОЯ ИСТОРИЯ НАЧИНАЕТСЯ ЗДЕСЬ ███\n", "ping": 352.8067940001165}
+{"addr": "d5.aurorix.net:26062", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 338.32718899998326}
+{"addr": "d5.aurorix.net:26057", "online": 0, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 344.2322610001156}
+{"addr": "d5.aurorix.net:26013", "online": 0, "version": "Proxy 1.12.2-1.20", "motd": "", "ping": 530.8513279999261}
+{"addr": "d5.aurorix.net:26116", "online": 0, "version": "PandaSpigot 1.8.8", "motd": "A Minecraft Server", "ping": 333.6507389999497}
+{"addr": "d5.aurorix.net:26170", "online": 0, "version": "26.1.2", "motd": "A Minecraft Server", "ping": 336.88138000002255}
+{"addr": "d5.aurorix.net:26161", "online": 0, "version": "1.21.11", "motd": "slava svo", "ping": 338.31422499997643}
+{"addr": "d5.aurorix.net:26181", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 343.2987129999674}
+{"addr": "d5.aurorix.net:26217", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 373.7933099998827}
+{"addr": "d5.aurorix.net:26218", "online": 0, "version": "Paper 1.21.11", "motd": "CursedSMP — Проклятое выживание [1.21+]\nУникальные артефакты | Живая экономика | Заходи!", "ping": 383.15457900012007}
+{"addr": "d5.aurorix.net:26260", "online": 0, "version": "Paper 26.1.2", "motd": "A Minecraft Server", "ping": 356.3537919999362}
+{"addr": "d5.aurorix.net:26279", "online": 0, "version": "Velocity 1.7.2-26.2", "motd": "Lucifier", "ping": 351.80617299988626}
+{"addr": "d5.aurorix.net:26335", "online": 0, "version": "Purpur 1.21.11", "motd": "A Minecraft Server", "ping": 356.61107300006734}
+{"addr": "d5.aurorix.net:26348", "online": 0, "version": "Paper 1.16.5", "motd": "A Minecraft Server", "ping": 354.3724700000439}
+{"addr": "d5.aurorix.net:26288", "online": 0, "version": "Purpur 1.16.5", "motd": "hub", "ping": 383.1220110000686}
+{"addr": "d5.aurorix.net:26423", "online": 0, "version": "Paper 1.21.11", "motd": "A Minecraft Server", "ping": 352.0320269999502}
+{"addr": "d5.aurorix.net:26311", "online": 0, "version": "Purpur 1.20.1", "motd": "A Minecraft Server", "ping": 382.01799800003755}
+{"addr": "d5.aurorix.net:26439", "online": 0, "version": "Mohist 1.12.2", "motd": "A Minecraft Server", "ping": 353.228941999987}
+{"addr": "d5.aurorix.net:26374", "online": 0, "version": "Velocity 1.7.2-26.1.2", "motd": "Linka", "ping": 381.7588160000014}
+{"addr": "d5.aurorix.net:26468", "online": 0, "version": "Paper 1.20.1", "motd": "A Minecraft Server", "ping": 353.5452209998766}
+{"addr": "d5.aurorix.net:26494", "online": 0, "version": "§6Optimised Purpur Config §f- §7§ngithub.com/OLIMINATOR/performance-configs§8 1.16.5", "motd": "Ð¤Ð°Ð½Ð¾Ð²Ð°ÑÐÐ½Ð°ÑÑÐ¸Ñ", "ping": 367.583742999841}
+{"addr": "d5.aurorix.net:26476", "online": 0, "version": "1.21.11", "motd": "Добро пожаловать на сервер!", "ping": 403.75598600007834}
+{"addr": "d5.aurorix.net:26328", "online": 0, "version": "1.20.1", "motd": "A Minecraft Server", "ping": 531.6142430001491}
+{"addr": "0.tcp.ngrok.io:12209", "online": 0, "version": "1.21.1", "motd": "All the Mods 10", "ping": 673.6456439998619}
+{"addr": "0.tcp.ngrok.io:13517", "online": 0, "version": "26.1.2", "motd": ":3", "ping": 639.2767849999927}
+{"addr": "0.tcp.ngrok.io:14015", "online": 0, "version": "1.21.1", "motd": "All the Mods 10", "ping": 859.6800870000152}
+{"addr": "0.tcp.ngrok.io:20730", "online": 0, "version": "Paper 1.21.4", "motd": "A Minecraft Server", "ping": 601.3103610000599}
+{"addr": "0.tcp.ngrok.io:21599", "online": 0, "version": "1.21.11", "motd": "A Minecraft Server", "ping": 806.0006299999714}
+{"addr": "0.tcp.ngrok.io:23992", "online": 3, "version": "1.21.1", "motd": "A Minecraft Server", "ping": 2220.579723000128}
+{"addr": "0.tcp.ngrok.io:25155", "online": 0, "version": "26.2", "motd": "A Minecraft Server", "ping": 823.3311169999524}
+{"addr": "0.tcp.ngrok.io:26088", "online": 3, "version": "1.21.1", "motd": "GAMES GAMES GAMES!", "ping": 818.4885380001106}
+{"addr": "5.tcp.ngrok.io:24078", "online": 0, "version": "1.20.1", "motd": "Mitch's Server", "ping": 2639.2285879999235}
+{"addr": "5.tcp.ngrok.io:25098", "online": 0, "version": "1.21.10", "motd": "Gregg Craft [1.21.10]\nWe shall be as a server on a hill", "ping": 1016.9840579999345}
+{"addr": "5.tcp.ngrok.io:26270", "online": 0, "version": "Paper 1.21.11", "motd": "Now 100% less open to the public", "ping": 991.914025999904}
+{"addr": "5.tcp.ngrok.io:28199", "online": 0, "version": "1.20.4", "motd": "Dad's Minecraft Server", "ping": 861.0428689999026}
